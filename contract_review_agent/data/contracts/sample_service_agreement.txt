@@ -1,0 +1,140 @@
+PROFESSIONAL SERVICES AGREEMENT
+
+This Professional Services Agreement ("Agreement") is entered into as of March 1, 2024, between CloudFirst Consulting LLC ("Service Provider") and Enterprise Solutions Corp ("Client").
+
+1. SCOPE OF SERVICES
+
+Service Provider agrees to provide the following professional services ("Services") to Client:
+
+a) Cloud infrastructure assessment and migration planning
+b) Implementation of AWS cloud architecture
+c) DevOps automation and CI/CD pipeline development
+d) Staff training on cloud technologies and best practices
+e) Ongoing technical support during the transition period
+
+Detailed specifications for each deliverable are set forth in Exhibit A attached hereto.
+
+2. TERM
+
+This Agreement shall commence on March 1, 2024, and continue for six (6) months, unless terminated earlier in accordance with Section 8. The parties may extend the term by mutual written agreement.
+
+3. COMPENSATION AND PAYMENT
+
+a) Fees: Client shall pay Service Provider $200 per hour for services rendered, with a total not-to-exceed amount of $150,000 for the initial project phase.
+
+b) Expenses: Client shall reimburse Service Provider for all reasonable and documented expenses incurred in connection with the Services, including travel, accommodation, and materials, with prior approval from Client.
+
+c) Invoicing: Service Provider shall submit invoices monthly, detailing hours worked and expenses incurred. Client shall pay all undisputed invoices within thirty (30) days of receipt.
+
+d) Late Payment: Any amounts not paid when due shall accrue interest at a rate of 1.5% per month or the maximum rate permitted by law, whichever is less.
+
+4. DELIVERABLES AND ACCEPTANCE
+
+Service Provider shall deliver all work product according to the timeline specified in Exhibit A. Client shall have ten (10) business days to review and accept or reject each deliverable. Rejection must be in writing with specific reasons. If Client does not respond within the acceptance period, the deliverable shall be deemed accepted.
+
+5. INTELLECTUAL PROPERTY RIGHTS
+
+a) Client Property: All intellectual property provided by Client to Service Provider shall remain the sole property of Client.
+
+b) Work Product: Upon full payment of all fees and expenses, all work product specifically created for Client under this Agreement shall become the property of Client, including all copyrights, patents, and other intellectual property rights.
+
+c) Service Provider Tools: Service Provider retains ownership of all pre-existing materials, tools, methodologies, and know-how used in providing the Services.
+
+d) License Grant: Service Provider grants Client a perpetual, non-exclusive, royalty-free license to use any Service Provider tools or methodologies incorporated into the work product.
+
+6. CONFIDENTIALITY
+
+Both parties acknowledge that they may have access to confidential information of the other party. Each party agrees to:
+
+a) Maintain the confidentiality of all confidential information received from the other party
+b) Use such information only for the purposes of this Agreement
+c) Not disclose confidential information to third parties without prior written consent
+d) Return or destroy all confidential information upon termination of this Agreement
+
+The obligations of confidentiality shall survive termination of this Agreement for three (3) years.
+
+7. WARRANTIES AND REPRESENTATIONS
+
+a) Service Provider Warranties:
+   i) Services will be performed in a professional and workmanlike manner
+   ii) Services will conform to industry standards and best practices
+   iii) Work product will not infringe any third-party intellectual property rights
+   iv) Service Provider has the necessary expertise and resources to perform the Services
+
+b) Client Warranties:
+   i) Client has the authority to enter into this Agreement
+   ii) Client will provide timely access to necessary information, systems, and personnel
+   iii) Client will review and respond to deliverables in a timely manner
+
+8. TERMINATION
+
+a) Termination for Convenience: Either party may terminate this Agreement with thirty (30) days written notice. Client shall pay for all services performed and expenses incurred up to the termination date.
+
+b) Termination for Cause: Either party may terminate immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within fifteen (15) days of written notice.
+
+c) Effect of Termination: Upon termination, Service Provider shall:
+   i) Cease all work on the Services
+   ii) Deliver all completed and in-progress work product to Client
+   iii) Return all Client property and confidential information
+   iv) Submit a final invoice for services performed through the termination date
+
+9. LIMITATION OF LIABILITY
+
+a) EXCEPT FOR BREACHES OF CONFIDENTIALITY OR INTELLECTUAL PROPERTY PROVISIONS, NEITHER PARTY'S TOTAL LIABILITY UNDER THIS AGREEMENT SHALL EXCEED THE TOTAL FEES PAID OR PAYABLE TO SERVICE PROVIDER IN THE SIX (6) MONTHS PRECEDING THE CLAIM.
+
+b) IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. INDEMNIFICATION
+
+a) Service Provider shall indemnify Client against any third-party claims arising from:
+   i) Infringement of intellectual property rights by the work product
+   ii) Negligent or willful acts or omissions by Service Provider or its employees
+
+b) Client shall indemnify Service Provider against any third-party claims arising from:
+   i) Client's use of the work product in a manner not authorized by this Agreement
+   ii) Infringement claims related to Client-provided materials or specifications
+
+11. INDEPENDENT CONTRACTOR
+
+Service Provider is an independent contractor and not an employee of Client. Service Provider is responsible for all taxes, insurance, and benefits for itself and its employees. Nothing in this Agreement creates a partnership, joint venture, or agency relationship.
+
+12. INSURANCE
+
+Service Provider shall maintain professional liability insurance with minimum coverage of $2,000,000 per occurrence and general liability insurance with minimum coverage of $1,000,000 per occurrence. Service Provider shall provide certificates of insurance upon request.
+
+13. FORCE MAJEURE
+
+Neither party shall be liable for any failure or delay in performance due to circumstances beyond its reasonable control, including acts of God, war, terrorism, pandemic, natural disasters, or government actions.
+
+14. DISPUTE RESOLUTION
+
+a) Negotiation: The parties shall attempt to resolve any disputes through good faith negotiation.
+b) Mediation: If negotiation fails, the parties shall submit the dispute to mediation before a mutually agreed mediator.
+c) Arbitration: If mediation fails, the dispute shall be resolved by binding arbitration in accordance with the rules of the American Arbitration Association.
+d) Legal Fees: The prevailing party in any dispute shall be entitled to recover reasonable attorney's fees and costs.
+
+15. GENERAL PROVISIONS
+
+a) Governing Law: This Agreement shall be governed by the laws of the State of New York.
+b) Entire Agreement: This Agreement, including all exhibits, constitutes the entire agreement between the parties.
+c) Amendments: This Agreement may be amended only by written instrument signed by both parties.
+d) Assignment: Neither party may assign this Agreement without the prior written consent of the other party.
+e) Notices: All notices shall be in writing and sent to the addresses set forth below.
+f) Severability: If any provision is found invalid or unenforceable, the remaining provisions shall remain in full force.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+SERVICE PROVIDER:
+CloudFirst Consulting LLC
+By: Robert Williams, Managing Partner
+Address: 123 Tech Boulevard, San Francisco, CA 94102
+Email: robert.williams@cloudfirst.com
+
+CLIENT:
+Enterprise Solutions Corp
+By: Lisa Anderson, VP of Technology
+Address: 456 Business Plaza, New York, NY 10001
+Email: lisa.anderson@enterprisesolutions.com
+
+EXHIBIT A - STATEMENT OF WORK
+[Detailed project specifications, milestones, and deliverables would be attached here]
