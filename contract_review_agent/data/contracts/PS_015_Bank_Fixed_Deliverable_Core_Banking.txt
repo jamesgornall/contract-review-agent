@@ -1,0 +1,382 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-015
+Contract Type: Fixed Deliverable
+
+Service Provider: Qodea Professional Services Ltd
+Client: Metro Bank plc
+Project: Core Banking Platform Migration
+Contract Date: December 1, 2024
+
+PROJECT OVERVIEW
+
+Migration from legacy core banking system to cloud-native platform supporting retail and SME banking operations for 2.5 million customers and 2,500 staff across 75 branches.
+
+DELIVERABLES
+
+Phase 1 - Assessment and Planning (12 weeks)
+- Current state architecture and data assessment
+- Migration strategy and approach (big bang vs phased)
+- Data migration analysis (accounts, transactions, customer data)
+- Integration mapping (channels, payments, lending, treasury)
+- Regulatory impact assessment (PRA, FCA)
+- Business continuity and rollback planning
+- Detailed project plan and resourcing
+
+Phase 2 - Design and Build (20 weeks)
+- Target state architecture design
+- Core banking platform configuration (Thought Machine Vault)
+- Customer data migration tooling and process
+- Channel integration (online, mobile, branch, ATM)
+- Payment system integration (Faster Payments, BACS, CHAPS)
+- Lending platform integration
+- Regulatory reporting framework
+- Security and fraud prevention systems
+- Data reconciliation framework
+
+Phase 3 - Testing and Assurance (16 weeks)
+- Functional testing (all products and services)
+- Integration testing (end-to-end scenarios)
+- Performance and load testing (3x peak capacity)
+- Disaster recovery and failover testing
+- Security and penetration testing
+- Regulatory compliance testing
+- User acceptance testing (branch staff and customers)
+- Parallel running (4 weeks)
+- Independent audit and assurance
+
+Phase 4 - Migration and Go-Live (8 weeks)
+- Pre-migration readiness assessment
+- Customer communication campaign
+- Staff training (2,500 users)
+- Data migration execution (3-day weekend)
+- Go-live and cutover management
+- Hypercare support (4 weeks, 24/7)
+- Post-implementation review
+- Regulatory reporting to PRA/FCA
+
+COMMERCIAL TERMS
+
+Total fixed price: £4,850,000
+
+Payment schedule:
+- Contract execution: £727,500 (15%)
+- Phase 1 completion: £970,000 (20%)
+- Phase 2 completion: £1,455,000 (30%)
+- Phase 3 completion: £970,000 (20%)
+- Successful go-live: £485,000 (10%)
+- 30 days post go-live: £242,500 (5%)
+
+Payment terms: Net 30 days from invoice date
+
+At-risk payment: Final 5% (£242,500) subject to:
+- Zero critical defects in production
+- 99.9% system uptime during first 30 days
+- Successful regulatory review
+- Customer satisfaction >85%
+
+TIMELINE
+
+Project start: January 6, 2025
+Go-live date: November 1, 2025 (fixed - regulatory commitment)
+Project close: November 30, 2025
+Total duration: 11 months
+
+Critical milestones:
+- Phase 1 sign-off: March 28, 2025
+- Phase 2 sign-off: August 15, 2025
+- Phase 3 sign-off: October 17, 2025
+- Migration weekend: October 31 - November 2, 2025
+- Go-live: November 3, 2025 (Monday 6 AM)
+
+Regulatory deadline: Go-live date non-negotiable due to PRA regulatory commitment
+
+WORKING LOCATION
+
+Locations: Hybrid model
+- Discovery/Design: 3 days/week at Metro Bank HQ (Kings Cross, London)
+- Build: 2 days/week on-site, 3 days remote
+- Testing: 3 days/week on-site
+- Migration weekend: 100% on-site (Friday-Monday)
+- Hypercare: 100% on-site (4 weeks)
+
+Client provides:
+- Secure project office space at HQ
+- VPN access for remote work
+- Access to all environments (Dev, Test, UAT, Prod)
+- Test branch for UAT activities
+- Banking hall access for testing
+
+TEAM COMPOSITION
+
+Core team:
+- 1 x Banking Transformation Director (30%)
+- 1 x Solution Architect - Core Banking (60%)
+- 1 x Integration Architect (80%)
+- 3 x Senior Core Banking Consultants (100%)
+- 4 x Integration Developers (100%)
+- 2 x Data Migration Specialists (100%)
+- 2 x QA Test Leads (100%)
+- 4 x Test Analysts (100%, Weeks 29-48)
+- 1 x Security Architect (40%)
+- 1 x Regulatory Compliance Lead (50%)
+- 2 x Training Specialists (100%, Weeks 40-52)
+- 2 x Change Managers (60%)
+- 1 x Programme Manager (80%)
+
+Peak team size: 28 FTE (testing phase)
+
+All team members require:
+- Enhanced DBS checks
+- Banking sector experience
+- FCA compliance training
+- Information security clearance
+
+ACCEPTANCE CRITERIA
+
+Phase acceptance:
+- All deliverables completed per specification
+- Quality gates passed
+- Client steering committee approval
+- Regulatory requirements validated
+- 15 business days acceptance period
+
+Go-live acceptance:
+- All banking products operational
+- All channels functioning
+- Payment systems integrated and tested
+- 99.9% data migration accuracy
+- Regulatory reporting operational
+- Zero critical or high severity defects
+- Business continuity plan tested and approved
+- 30-day stability period
+
+FINANCIAL SERVICES COMPLIANCE
+
+Mandatory regulatory compliance:
+- PRA Prudential Regulation Authority requirements
+- FCA Financial Conduct Authority regulations
+- UK Payment Services Regulations 2017
+- Faster Payments scheme rules
+- BACS regulations
+- CHAPS requirements
+- Strong Customer Authentication (SCA)
+- UK GDPR and Data Protection Act 2018
+- PCI DSS Level 1 (card payments)
+- ISO 27001 information security
+- SOC 2 Type II controls
+- FSCS (Financial Services Compensation Scheme) integration
+
+Regulatory reporting:
+- REP reporting to Bank of England
+- GABRIEL submissions
+- FCA returns (FSA returns)
+- Transaction reporting (MiFID II where applicable)
+
+Regulatory oversight:
+- PRA notification of major change
+- FCA operational resilience requirements
+- Independent audit required before go-live
+- Post-implementation review with regulators
+
+PERFORMANCE REQUIREMENTS
+
+System performance:
+- Availability: 99.95% during business hours (6 AM - 10 PM)
+- Response time: <2 seconds for 95% of transactions
+- Batch processing: Complete within 4-hour window
+- Peak capacity: 5,000 transactions per second
+- Concurrent users: 5,000 staff + 500,000 online customers
+
+Business continuity:
+- RTO (Recovery Time Objective): 4 hours
+- RPO (Recovery Point Objective): 15 minutes
+- Disaster recovery site: Full failover capability
+- Data backup: Real-time replication
+
+SUPPORT AND WARRANTY
+
+Hypercare (4 weeks post go-live):
+- 24/7 on-site support team (10 FTE)
+- War room at Metro Bank HQ
+- 15-minute response for critical issues
+- Daily status calls with executives
+- Real-time issue tracking and resolution
+
+Warranty period: 180 days from go-live
+- Bug fixes and defect resolution included
+- Performance tuning and optimization
+- Support hours: 7 AM - 10 PM, 7 days/week
+- Critical issue response: 1 hour
+- 24/7 emergency escalation
+
+Post-warranty support: Separate AMS contract required
+
+CHANGE MANAGEMENT
+
+Scope changes:
+- Formal change control board
+- Impact assessment within 5 business days
+- Regulatory impact assessment where applicable
+- Pricing: T&M at £1,200/day blended rate
+- Timeline impact: May risk regulatory deadline
+- Bank of England / PRA notification if material changes
+
+No changes accepted after Phase 3 completion (due to regulatory deadline and testing requirements).
+
+RISK MANAGEMENT AND PENALTIES
+
+Service Provider accepts performance penalties:
+
+Delays:
+- Go-live delay (per week): £100,000 penalty
+- Maximum delay: 4 weeks (then Client termination right)
+- Regulatory breach due to delay: Service Provider liable for fines
+
+Performance failures (first 90 days):
+- Availability <99.5%: £10,000 per 0.1% shortfall
+- Critical defect in production: £5,000 per defect per day
+- Data accuracy <99.9%: £50,000 one-time penalty
+- Payment system failure: £25,000 per incident
+
+Penalty cap: £500,000 total (not including regulatory fines)
+
+Success bonuses:
+- Go-live on schedule with zero critical defects: £150,000
+- Uptime >99.95% in first 90 days: £75,000
+- Customer satisfaction >90%: £50,000
+
+INTELLECTUAL PROPERTY
+
+All migration code, configurations, and customizations: Client owns
+Core banking platform: Licensed separately by Thought Machine
+Integration code: Client owns upon full payment
+Documentation: Client owns
+
+Service Provider retains:
+- Migration frameworks and tools (generic)
+- Banking transformation methodology
+- Pre-existing IP and accelerators
+
+SECURITY AND DATA PROTECTION
+
+Enhanced security requirements:
+- Customer financial data protection
+- PCI DSS compliance for card data
+- Encryption in transit and at rest
+- Access controls and audit logging
+- Background checks for all personnel (Enhanced DBS)
+- Annual security awareness training
+- Incident response plan
+
+Data protection:
+- Data Processing Agreement as Schedule A
+- Customer data minimization
+- Privacy by design principles
+- Right to be forgotten compliance
+- Data subject access request support
+
+Security testing:
+- Continuous vulnerability scanning
+- Penetration testing (quarterly)
+- Security code review
+- Third-party security audit before go-live
+
+INSURANCE AND LIABILITY
+
+Required insurance:
+- Professional Indemnity: £25,000,000 (banking sector requirement)
+- Cyber Liability: £10,000,000
+- Public Liability: £10,000,000
+- Directors & Officers: £5,000,000
+
+Liability caps:
+- Professional negligence: £10,000,000
+- Data breach: £15,000,000
+- Regulatory fines due to Service Provider failure: £20,000,000
+- NO CAP for: Customer fund loss, fraud, gross negligence, willful misconduct
+
+Financial impact acknowledgment: Service Provider acknowledges banking system failures can result in:
+- Regulatory fines (£millions)
+- Customer compensation claims
+- Reputational damage
+- License revocation risk
+
+TERMINATION
+
+Termination for convenience:
+- Client only: 90 days notice; 50% of remaining fees payable
+- Service Provider: Not permitted (due to regulatory commitment)
+
+Termination for cause:
+- Material breach: 10 days to cure
+- Regulatory breach: Immediate
+- Security incident: Immediate
+- Repeated milestone failures: 30 days notice
+- Insolvency: Immediate
+
+Effect of termination:
+- Immediate cessation of production access
+- Handover period (up to 60 days)
+- All code and IP transferred
+- Support for regulatory queries (12 months, T&M)
+- Payment for accepted phases only
+
+Client termination costs: If Client terminates for convenience, all migration code and IP still transfers to Client.
+
+GOVERNANCE
+
+Weekly:
+- Project status report
+- Risk and issue log
+- Financial tracking vs budget
+
+Fortnightly:
+- Steering committee meeting
+- Risk review and mitigation
+
+Monthly:
+- Executive dashboard
+- Regulatory update
+- Change request status
+
+Phase gates:
+- Formal review before phase progression
+- Independent QA review
+- Go/no-go decision for next phase
+- PRA/FCA update on major milestones
+
+DISPUTE RESOLUTION
+
+Escalation path:
+1. Programme Manager (48 hours)
+2. Service Provider MD / Client CIO (1 week)
+3. Senior executives (2 weeks)
+4. Mediation (4 weeks)
+5. Litigation (last resort)
+
+Regulatory matters: Fast-track escalation to executives (24 hours)
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: High Court of Justice, London
+Confidentiality: Indefinite for customer data; 5 years for commercial terms
+Assignment: Prohibited without written consent
+Force majeure: Standard provisions; Client may terminate if delay risks regulatory compliance
+
+Independent audit: Client may appoint independent auditor; Service Provider shall cooperate fully.
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: December 1, 2024
+Company Registration: 12345678
+
+CLIENT:
+Metro Bank plc
+Signed: Anthony Morrison, Chief Technology Officer
+Date: December 1, 2024
+Company Registration: 6419578
+FCA Firm Reference: 560406

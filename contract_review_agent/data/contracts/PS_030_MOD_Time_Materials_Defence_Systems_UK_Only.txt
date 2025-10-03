@@ -1,0 +1,391 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-030
+Contract Type: Time and Materials
+Security Classification: UK SECRET
+Contract Framework: MOD Framework Agreement
+
+This Agreement is between Qodea Professional Services Ltd ("Service Provider") and Ministry of Defence ("Client"), entered into September 1, 2024.
+
+**NATIONAL SECURITY CLASSIFICATION: UK SECRET**
+**ALL PERSONNEL MUST HOLD UK SECURITY CLEARANCE**
+
+1. UK NATIONALITY AND SECURITY REQUIREMENTS
+
+**CRITICAL NATIONAL SECURITY REQUIREMENT**
+
+1.1 UK Nationals Only - Mandatory
+Due to the classified nature of defence systems work, ALL personnel MUST be:
+
+a) **British Citizenship Required**
+   - British citizens by birth or naturalization
+   - Hold valid UK passport
+   - NO dual nationals from restricted countries (per MOD list)
+   - NO foreign nationals under any circumstances
+   - Renounced any previous foreign citizenship (if naturalized)
+
+b) **Security Clearance Levels**
+   - Developed Vetting (DV): 50% of team minimum
+   - Security Check (SC): 100% of team minimum
+   - Clearances must be current and maintained
+   - Sponsor: Ministry of Defence
+   - Regular re-vetting as per MOD schedule
+
+c) **UK Residency Requirements**
+   - Born in UK OR 10+ years continuous UK residency
+   - Current UK address (verified annually)
+   - No extended periods abroad (> 30 days/year requires disclosure)
+   - Family members subject to security vetting
+   - Financial ties to UK (mortgage, pension, etc.)
+
+1.2 Prohibited Circumstances - Zero Tolerance
+The following automatically DISQUALIFY resources:
+- Any foreign citizenship (except Five Eyes: USA, Canada, Australia, NZ with MOD approval)
+- Dual nationality with non-Five Eyes countries
+- Close family members from restricted countries
+- Financial interests in foreign defence contractors
+- Residence abroad in past 10 years (extended periods)
+- Previous access to foreign classified systems
+- Employment by foreign governments/entities
+- Undisclosed foreign travel
+
+1.3 Ongoing Security Obligations
+All cleared personnel must:
+- Report all foreign contacts within 24 hours
+- Declare overseas travel 30 days in advance
+- Submit to regular security interviews
+- Report changes in family circumstances
+- Declare financial difficulties immediately
+- Participate in annual security refresher training
+- Submit to continuous vetting monitoring
+- Report any security concerns or breaches
+
+2. PROJECT SCOPE
+
+Service Provider shall provide software engineering and systems integration support for MOD classified defence systems, including:
+- Secure communications systems development
+- Command and control software enhancement
+- Cyber defence capability development
+- Systems integration and testing
+- Security architecture and design
+- Technical documentation (SECRET classification)
+
+Specific tasks assigned through secure planning process within SCIF (Sensitive Compartmented Information Facility).
+
+3. COMMERCIAL TERMS - TIME AND MATERIALS
+
+Rate Card (UK SECRET cleared personnel only):
+
+DV Cleared Rates:
+- Principal Engineer (DV): £1,400/day
+- Senior Engineer (DV): £1,150/day
+- Engineer (DV): £950/day
+
+SC Cleared Rates:
+- Senior Engineer (SC): £1,000/day
+- Engineer (SC): £800/day
+- Technical Specialist (SC): £900/day
+
+Minimum Monthly Commitment: £180,000
+Maximum Monthly Cap: £350,000 (without MOD approval)
+
+Billing:
+- Monthly invoicing in arrears
+- Timesheets approved by MOD Project Officer
+- NET 30 days payment (Government payment terms)
+- Classified work premium: Included in rates
+- No VAT (Government contract exemption per specific agreement)
+
+4. CURRENT RESOURCE ALLOCATION
+
+Approved Resources (all DV or SC cleared):
+- 2 x Principal Engineers (DV) - Full time
+- 3 x Senior Engineers (2 DV, 1 SC) - Full time
+- 4 x Engineers (1 DV, 3 SC) - Full time
+- 1 x Technical Specialist (SC) - Part time (60%)
+
+All resources pre-vetted and cleared by MOD Security.
+
+Estimated Monthly Utilization: 195-200 days
+Estimated Monthly Spend: £220,000-£240,000
+
+5. CONTRACT DURATION
+
+Start Date: October 1, 2024
+Initial Term: 18 months
+Maximum Term: 36 months (with extensions)
+
+Extension: Subject to security clearance renewals, performance, and budget authority.
+
+Notice Period:
+- Client: 30 days
+- Service Provider: 90 days (with MOD approval)
+
+6. WORKING LOCATION - SECURE MOD FACILITIES ONLY
+
+**ALL WORK PERFORMED IN SECURE GOVERNMENT FACILITIES**
+
+Primary Location: MOD Abbey Wood
+Address: Ministry of Defence, Abbey Wood, Bristol BS34 8JH
+Classification: SCIF (Sensitive Compartmented Information Facility)
+
+Alternative Locations:
+- Defence Science and Technology Laboratory (Dstl), Porton Down
+- MOD Main Building, Whitehall, London (when required)
+- RAF Waddington (as assigned)
+
+Attendance Requirements:
+- 100% on-site work (NO remote working permitted for SECRET material)
+- Monday-Friday attendance mandatory
+- 08:00-17:00 core hours
+- Flexibility for operational requirements
+- Weekend/evening work: By MOD authorization only
+
+Remote Work:
+- NOT permitted for any classified work
+- Only unclassified administrative tasks (emails, timesheets) from UK locations
+- Must use MOD-approved encrypted devices
+- Subject to continuous monitoring
+
+Security at Site:
+- Escorted at all times until site-familiar
+- MOD Form 90 security clearance card displayed
+- Personal search consent (random checks)
+- No phones, cameras, recording devices in secure areas
+- No removal of any materials without authorization
+- USB drives prohibited (use approved MOD systems)
+
+7. UK EMPLOYMENT VERIFICATION
+
+Service Provider must provide MONTHLY:
+- Payroll evidence (PAYE deductions shown)
+- UK National Insurance payments
+- Right to work documentation (UK passport copies)
+- Proof of UK address for each resource
+- Security clearance status certificates
+- Vetting renewal schedules
+
+MOD reserves right to:
+- Unannounced inspections and audits
+- Direct verification with HMRC
+- Security Services background checks
+- Immediate removal of any non-compliant resource
+
+8. SECURITY CLEARANCE MANAGEMENT
+
+8.1 Developed Vetting (DV)
+Required for senior personnel. Includes:
+- Extensive background investigation (10 years)
+- Financial records examination
+- Family members interviewed
+- Former employers contacted
+- References verified
+- Psychological assessment
+- Polygraph examination (for highest sensitivity roles)
+
+Validity: 7 years (subject to annual review)
+Renewal: Service Provider responsibility (£5,000-£8,000 per person)
+
+8.2 Security Check (SC)
+Required for all other personnel. Includes:
+- Criminal records check
+- Credit and financial check
+- Employment verification (5 years)
+- Security questionnaire
+- UK residency verification (5 years minimum)
+
+Validity: 10 years (subject to annual review)
+Renewal: Service Provider responsibility (£2,000-£3,000 per person)
+
+8.3 Clearance Lapses
+If any clearance expires or is withdrawn:
+- Immediate suspension from classified work
+- MOD Security notified within 4 hours
+- Replacement resource provided within 10 days
+- No payment for suspended resource
+
+9. CLASSIFIED INFORMATION HANDLING
+
+Security Markings:
+- UK SECRET: Maximum classification for this contract
+- OFFICIAL-SENSITIVE: Administrative documents
+- Compartmented information: Need-to-know basis only
+
+Handling Requirements:
+- No classified material outside MOD facilities
+- Secure storage in approved safes overnight
+- Classified waste: Cross-cut shredding witnessed
+- Encrypted communications only (MOD-approved systems)
+- No discussion of classified matters outside SCIF
+- Cover stories for uncleared persons (family, friends)
+
+Breach Consequences:
+- Immediate security investigation
+- Suspension/revocation of clearance
+- Contract termination
+- Criminal prosecution under Official Secrets Act
+- Potential imprisonment (up to 14 years for espionage)
+
+10. OFFICIAL SECRETS ACT
+
+All personnel MUST sign Official Secrets Act declarations before starting work.
+
+Obligations:
+- Perpetual duty of confidentiality
+- Never disclose classified information
+- Applies for LIFETIME (even post-employment)
+- Extends to family members (must not discuss work)
+- Penalties: Imprisonment and unlimited fines
+
+Security Briefings:
+- Initial briefing before first day
+- Annual refresher mandatory
+- Debrief upon leaving programme
+- Lifetime obligations reminder
+
+11. EXPORT CONTROL AND ITAR
+
+This contract may involve:
+- UK Military List controlled items
+- Export Control Act 2002 compliance
+- ITAR (International Traffic in Arms Regulations) awareness
+- No transfer of technical data outside UK
+- No foreign person access (non-UK nationals)
+
+Violations result in:
+- Criminal prosecution
+- Heavy fines (unlimited)
+- Imprisonment (up to 10 years)
+- Export license revocation
+
+12. INTELLECTUAL PROPERTY
+
+All work product is CROWN COPYRIGHT:
+- Automatic classification as UK GOVERNMENT property
+- No Service Provider IP rights
+- Cannot be used on other projects
+- Cannot be disclosed, ever
+- Subject to Official Secrets Act
+
+13. FOREIGN OWNERSHIP, CONTROL, OR INFLUENCE (FOCI)
+
+Service Provider certifies:
+- UK-owned and controlled company
+- No foreign ownership exceeding 5%
+- No foreign board members
+- No foreign investment
+- No ties to foreign defence contractors
+- Annual FOCI declarations required
+
+MOD may terminate immediately if FOCI discovered or develops.
+
+14. EXPENSES
+
+Reimbursable Expenses (UK only, receipts required):
+- Travel between MOD sites: Standard class rail or £0.45/mile
+- Accommodation (when required): Up to £100/night
+- Subsistence: MOD standard rates
+- Security clearance renewals: At cost (pre-approved)
+
+NOT Reimbursable:
+- Commuting to primary work location
+- Personal phone/internet
+- Security clearance initial costs (Service Provider bears)
+
+15. AUDIT AND COMPLIANCE
+
+MOD Rights:
+- Unannounced site visits and inspections
+- Access to all employment and payroll records
+- Verification of UK employment status
+- Security compliance audits
+- Financial audits by National Audit Office
+- Parliamentary scrutiny (Public Accounts Committee)
+
+Service Provider must retain records for 7 years post-contract.
+
+16. LIABILITY AND INDEMNITY
+
+Liability:
+- Unlimited liability for security breaches
+- Unlimited liability for Official Secrets Act violations
+- Unlimited liability for espionage or sabotage
+- Cap of £5,000,000 for other claims
+
+Indemnity:
+Service Provider indemnifies MOD and HM Government for:
+- Security breaches
+- Espionage by personnel
+- Classified information disclosure
+- Foreign intelligence compromise
+- Damage to national security
+
+17. INSURANCE
+
+Required (UK insurers only, approved by MOD):
+- Professional Indemnity: £25,000,000
+- Cyber & Data Breach: £20,000,000
+- Employers' Liability: £10,000,000
+- Public Liability: £10,000,000
+- Directors & Officers: £15,000,000
+
+18. TERMINATION
+
+Immediate Termination (no notice required):
+- Security clearance withdrawn for any resource
+- Security breach or security concern
+- Unauthorized disclosure of classified information
+- Non-UK national discovered on project
+- Foreign ownership or control of Service Provider
+- Official Secrets Act violation
+- Failure to maintain UK employment status
+
+Effect of Termination:
+- Immediate removal from all MOD sites
+- Security debriefs (mandatory attendance)
+- Lifetime Official Secrets Act obligations continue
+- Return of all MOD property and materials
+- Secure destruction of personal notes
+- No further access to classified systems
+
+19. GOVERNING LAW AND DISPUTE RESOLUTION
+
+Governing Law: England and Wales
+Jurisdiction: High Court of Justice
+National Security: Subject to Crown immunity where applicable
+Parliamentary Oversight: Public Accounts Committee, Defence Select Committee
+Security Services Oversight: Intelligence and Security Committee of Parliament
+
+Disputes resolved through:
+1. MOD Commercial Director mediation
+2. Government Legal Department arbitration
+3. High Court (if national security permits)
+
+20. SPECIAL CONDITIONS
+
+Parliamentary Privilege: This contract subject to parliamentary disclosure
+National Audit Office: Full audit rights
+Freedom of Information: Exempt (national security grounds)
+Whistleblowing: Public Interest Disclosure Act protections
+Export Control: Applicable to all deliverables
+Five Eyes Sharing: May be shared with approved allies (USA, Canada, Australia, NZ)
+
+SIGNATURES
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Signed: Sarah Mitchell, Managing Director
+Date: September 1, 2024
+Company Registration: 12345678 (England & Wales)
+Security Facility Clearance: MOD-SFC-2024-789
+
+DECLARATION: I certify that all personnel assigned hold appropriate UK security clearances, are British nationals, and meet all UK employment requirements. Service Provider is UK-owned and controlled with no foreign ownership, control, or influence.
+
+CLIENT:
+Ministry of Defence
+Signed: Air Vice-Marshal Richard Hawkins, Director Defence Digital
+Date: September 1, 2024
+Official Secrets Act Authority: Crown
+
+CONTRACT CLASSIFICATION: UK SECRET
+DISTRIBUTION: Authorized Personnel Only
+HANDLING CAVEAT: UK EYES ONLY

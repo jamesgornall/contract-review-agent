@@ -1,0 +1,269 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-020
+Contract Type: Fixed Resource
+
+Client: Aviva Insurance UK Ltd
+Project: Claims Processing Platform Team Augmentation
+Duration: 15 months
+Start Date: May 1, 2025
+Location: Hybrid - Norwich
+
+RESOURCE PROVISION
+
+Dedicated resources supporting motor and property claims processing platform transformation.
+
+Resources:
+- 1 x Insurance Platform Architect (100%, full duration)
+- 2 x Guidewire Claims Consultants (100%, full duration)
+- 1 x Integration Developer (100%, full duration)
+- 1 x Business Analyst - Claims (100%, full duration)
+- 1 x Test Analyst (100%, months 6-15)
+
+Total: 5-6 FTE
+
+COMMERCIAL TERMS
+
+Monthly fees:
+- Months 1-5: £82,000/month (5 FTE)
+- Months 6-15: £98,500/month (6 FTE)
+
+Total contract value: £1,395,000
+
+Payment: Monthly in advance, net 30 days
+Price review: Annual, May 2026, CPI + 3% max (specialist insurance skills)
+
+WORKING LOCATION
+
+Hybrid: Norwich office
+- On-site: 2 days/week (Tuesday-Wednesday)
+- Remote: 3 days/week
+- Claims process workshops: Full week on-site (quarterly)
+
+Hours: Monday-Friday, 9 AM - 5:30 PM GMT
+
+Client provides:
+- Desk space at Norwich headquarters
+- VPN access for remote working
+- Guidewire ClaimCenter environments
+- Access to test claim data
+
+INSURANCE SECTOR REQUIREMENTS
+
+All resources must have:
+- Insurance industry experience (minimum 3 years)
+- Guidewire ClaimCenter certification (for Claims Consultants)
+- Understanding of UK insurance regulations
+- Knowledge of motor and property claims processes
+- FCA regulated activity awareness
+
+Compliance requirements:
+- FCA regulations for insurance
+- Senior Managers and Certification Regime (SMCR) awareness
+- UK GDPR for customer data
+- ABI (Association of British Insurers) codes
+- Financial Ombudsman Service requirements
+
+RESPONSIBILITIES
+
+Service Provider shall:
+- Provide insurance sector qualified resources
+- Ensure Guidewire certifications current
+- Support claims processing operations
+- Replace resources with equivalent insurance experience
+- Participate in regulatory compliance activities
+
+Client shall:
+- Provide claims process training
+- Grant access to Guidewire platforms
+- Include resources in claims transformation program
+- Approve timesheet submissions within 48 hours
+- Provide feedback on resource performance
+
+KEY DELIVERABLES
+
+Resources will contribute to:
+- Guidewire ClaimCenter configuration and enhancement
+- Claims workflow automation
+- Straight-through processing (STP) for low-value claims
+- Third-party integrations (repairers, solicitors, medical providers)
+- Fraud detection system integration
+- Claims analytics and MI reporting
+- Regulatory reporting enhancements
+- Customer portal for claims tracking
+
+PERFORMANCE EXPECTATIONS
+
+KPIs measured monthly:
+- Resource availability: 96%
+- Claims system uptime contribution: 99.5%
+- Configuration quality: >95% first-time success
+- STP rate improvement: 10% increase over contract period
+- Average claims handling time: 15% reduction
+- Customer satisfaction: Support >90% CSAT for claims
+
+Performance reviews: Monthly with Claims Transformation Director
+
+Underperformance management:
+- First instance: Performance improvement plan (30 days)
+- Second instance: Resource replacement required (15 days)
+- Critical claims processing error: Immediate review
+
+INTELLECTUAL PROPERTY
+
+All Guidewire configurations: Client owns
+Claims process documentation: Client property
+Integration code: Client owns upon payment
+
+Service Provider retains:
+- Generic Guidewire implementation frameworks
+- Insurance industry best practices (non-Client specific)
+
+CONFIDENTIALITY AND DATA PROTECTION
+
+Enhanced confidentiality for:
+- Customer claims data (sensitive personal data)
+- Fraud investigation information
+- Litigation-related information
+- Financial reserves and pricing models
+- Business strategy and competitive information
+
+Claims data protection:
+- Access only as required for role
+- No download of customer data
+- Secure handling of sensitive personal data (injury claims, medical)
+- Immediate reporting of data breaches
+
+INSURANCE AND LIABILITY
+
+Required insurance:
+- Professional Indemnity: £10,000,000 (insurance sector requirement)
+- Public Liability: £5,000,000
+- Cyber Liability: £5,000,000
+
+Liability cap:
+- General liability: £3,000,000 per incident
+- Annual aggregate: £5,000,000
+- Claims processing errors causing customer detriment: £10,000,000
+- Regulatory fines due to Service Provider error: £5,000,000
+- No cap for gross negligence or fraud
+
+Claims industry acknowledgment: Service Provider acknowledges errors in claims processing can lead to:
+- Customer complaints and compensation
+- Financial Ombudsman referrals
+- FCA regulatory action
+- Reputational damage
+
+TERMINATION
+
+Termination for convenience:
+- Either party: 90 days notice
+- Client may terminate with 60 days notice by payment of 30% remaining fees
+
+Termination for cause:
+- Material breach: 15 days to cure
+- Regulatory compliance failure: Immediate
+- Claims processing error causing customer detriment: 30 days notice
+- Data breach: Immediate
+- Repeated performance failures: 45 days notice
+
+Post-termination:
+- Handover period up to 60 days
+- Complete ongoing claims configurations
+- Document all work in progress
+- Transfer knowledge to Client team or replacement
+- Return all confidential claims information
+- Payment for services through notice/handover period
+
+CHANGE MANAGEMENT
+
+Resource modifications:
+- Changes: 60 days notice (insurance expertise required)
+- Replacement must have equivalent Guidewire and insurance experience
+- Client approval of replacement required
+- 3-week handover for critical roles
+
+FTE adjustments:
+- Increase: 45 days notice (subject to resource availability)
+- Decrease: 90 days notice
+- Pro-rata fee adjustments
+
+Contract extensions:
+- Client option to extend 12 months
+- Notice required: 90 days before end date
+- Pricing renegotiated for extensions
+
+GOVERNANCE AND REPORTING
+
+Weekly reporting:
+- Timesheet submission by Friday 5 PM
+- Activity summary and achievements
+- Claims system changes implemented
+- Issues and blockers
+
+Monthly reporting:
+- Detailed utilization and cost report
+- Claims processing KPIs
+- Configuration changes log
+- Upcoming activities and resource plans
+- Risk and issue register
+
+Quarterly reviews:
+- Performance against KPIs
+- Claims transformation progress
+- Resource optimization opportunities
+- Insurance regulatory updates
+- Contract health check
+
+Steering committee:
+- Quarterly meetings with Claims Transformation Board
+- Progress against transformation roadmap
+- Benefits realization tracking
+
+REGULATORY COMPLIANCE
+
+Support for regulatory activities:
+- FCA regulatory returns (if applicable)
+- Claims handling compliance monitoring
+- Treating Customers Fairly (TCF) principles
+- Financial Ombudsman Service queries
+- ABI Claims Portal compliance
+- Suspicious Activity Reports (fraud)
+
+Resources must complete:
+- Annual FCA compliance training
+- Claims handling regulatory training
+- Financial crime awareness training
+- Treating Customers Fairly training
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts
+Dispute resolution: Escalation to senior management, mediation, arbitration
+
+Confidentiality: 5 years post-termination (customer data obligations survive indefinitely)
+Assignment: Prohibited without written consent
+Subcontracting: Requires Client approval; subcontractors subject to same requirements
+
+Force majeure: Standard provisions; does not excuse payment obligations
+
+IR35 status: All roles assessed as outside IR35; Service Provider carries full liability for any determination changes.
+
+Notices:
+Service Provider: contracts@qodea.com
+Client: procurement.claims@aviva.com
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: May 1, 2025
+Company Registration: 12345678
+
+CLIENT:
+Aviva Insurance UK Ltd
+Jennifer Collins, Claims Transformation Director
+Date: May 1, 2025
+Company Registration: 02468135
+FCA Firm Reference: 202153

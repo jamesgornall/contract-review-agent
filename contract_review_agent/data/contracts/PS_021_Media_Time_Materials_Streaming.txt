@@ -1,0 +1,263 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-021
+Contract Type: Time and Materials
+
+Client: BBC Digital Media Ltd
+Project: Streaming Platform Enhancement
+Start Date: June 1, 2025
+Duration: 9 months
+Location: Hybrid - MediaCity, Salford
+
+SCOPE
+
+Enhancement of BBC iPlayer streaming platform to support 4K HDR content, improved personalization, and next-generation viewing experiences for 35 million monthly users.
+
+RATE CARD
+
+Daily rates (per 8-hour day):
+- Streaming Solutions Architect: £1,200/day
+- Senior Video Engineer: £1,000/day
+- Backend Developer (Scala/Python): £900/day
+- Frontend Developer (React): £850/day
+- DevOps Engineer (AWS): £900/day
+- Machine Learning Engineer: £1,050/day
+- QA Engineer: £700/day
+
+Part-day: Hourly rate = daily / 8
+
+INDICATIVE TEAM
+
+Phase 1 - Architecture (Months 1-2):
+- Streaming Solutions Architect (4 days/week)
+- Senior Video Engineer (3 days/week)
+- Backend Developer (3 days/week)
+
+Phase 2 - Development (Months 3-7):
+- Senior Video Engineer (full-time)
+- Backend Developers x 2 (full-time)
+- Frontend Developers x 2 (full-time)
+- ML Engineer (3 days/week)
+- DevOps Engineer (full-time)
+
+Phase 3 - Testing & Launch (Months 8-9):
+- Senior Video Engineer (full-time)
+- Backend Developer (full-time)
+- Frontend Developer (full-time)
+- DevOps Engineer (full-time)
+- QA Engineers x 2 (full-time)
+
+Estimated monthly spend: £70,000 - £110,000
+Total estimated: £850,000
+
+COMMERCIAL TERMS
+
+Billing: Monthly in arrears
+Payment: Net 30 days (BBC standard)
+Monthly cap: £125,000
+Minimum monthly: £45,000
+
+Rate review: Annual, June 2026
+
+WORKING ARRANGEMENTS
+
+Location: MediaCity, Salford
+- Hybrid: 2 days/week on-site
+- Remote: 3 days/week
+- Launch periods: Full week on-site
+
+Hours: Flexible, core hours 10 AM - 4 PM GMT
+Peak events: Extended hours for live event coverage (Olympics, World Cup)
+
+BBC provides:
+- Hot desk at MediaCity
+- VPN access to BBC network
+- AWS development environment
+- Access to content library for testing
+
+MEDIA INDUSTRY REQUIREMENTS
+
+Technical requirements:
+- Understanding of adaptive bitrate streaming (HLS, DASH)
+- Video encoding and transcoding (4K, HDR10, Dolby Vision)
+- CDN optimization (Akamai, CloudFront)
+- DRM systems (Widevine, FairPlay)
+- Subtitle and audio description delivery
+
+Compliance:
+- Ofcom broadcasting regulations
+- GDPR for viewer data
+- Copyright and rights management
+- Accessibility requirements (stronger than WCAG)
+- Age verification (BBFC guidelines)
+
+DELIVERABLES (T&M basis)
+
+- 4K HDR streaming pipeline
+- Enhanced video player (web and mobile)
+- Personalization engine (ML-based recommendations)
+- Improved search and discovery
+- Live streaming optimization
+- Offline download enhancement
+- Smart TV app optimization (Samsung, LG, etc.)
+- Accessibility improvements (subtitles, audio description)
+- Performance monitoring and analytics
+
+PERFORMANCE STANDARDS
+
+Platform performance:
+- Streaming availability: 99.9%
+- Video start time: <2 seconds
+- Buffering ratio: <0.5%
+- Concurrent viewers: 5 million (peak events)
+- 4K quality delivery: >95% where bandwidth permits
+
+KPIs:
+- Resource availability: 95%
+- Code quality: >85% test coverage
+- Sprint delivery: Maintain velocity
+- Incident response: P1 within 1 hour
+- Peak event support: Zero outages
+
+TIME RECORDING
+
+Timesheets: Weekly by Friday 3 PM
+Approval: BBC Project Manager within 48 hours
+
+Overtime:
+- Peak events (pre-scheduled): Standard rate
+- Emergency support: 1.5x rate
+- Major live events (Olympics, etc.): 1.5x rate
+- Bank holidays: 2x rate (pre-approved)
+
+EXPENSES
+
+Reimbursable:
+- Travel to London offices: Standard class rail
+- MediaCity parking: At cost
+- Test devices (4K TVs, etc.): Pre-approved, at cost
+
+Not reimbursable:
+- Commute to MediaCity
+- Standard dev tools
+- Subscriptions
+
+BROADCASTER COMPLIANCE
+
+Mandatory compliance:
+- Ofcom Code on Electronic Programme Guides
+- Copyright, Designs and Patents Act 1988
+- EU Digital Single Market regulations
+- UK GDPR
+- Ofcom accessibility guidelines
+- BBFC age classification
+- Competition and Markets Authority guidelines
+
+Public service broadcasting:
+- Accessibility first approach
+- Impartiality in algorithms (unbiased recommendations)
+- Content standards compliance
+
+INTELLECTUAL PROPERTY
+
+Platform code: BBC owns upon payment
+Open source: BBC may release as open source
+Recommendation algorithms: BBC owns
+
+Service Provider retains:
+- Generic streaming frameworks
+- Video optimization tools (non-BBC specific)
+
+PERFORMANCE AND LIABILITY
+
+Service Provider warrants:
+- Video streaming expertise
+- Cloud-native best practices
+- No IP infringement
+- 60-day warranty on delivered code
+
+Liability cap:
+- General: £2,000,000
+- Major event failure (Olympics, etc.): £5,000,000
+- No cap for gross negligence
+
+Insurance:
+- Professional Indemnity: £5,000,000
+- Cyber Liability: £5,000,000
+- Public Liability: £5,000,000
+
+Broadcast impact: Service Provider acknowledges BBC iPlayer serves 35M monthly users; outages during major events impact millions and BBC reputation.
+
+TERMINATION
+
+For convenience:
+- Either party: 60 days notice
+- Payment for time worked
+
+For cause:
+- Material breach: 15 days to cure
+- Major event failure: 30 days notice
+- Security breach: Immediate
+
+Minimum term: 4 months
+
+CHANGE MANAGEMENT
+
+Flexible resourcing:
+- Team changes: 15 days notice
+- Skill adjustments: 20 days notice
+- Scale up/down: 10 days notice
+
+Extensions:
+- Rolling monthly after Month 9
+- 60 days notice to exit
+
+GOVERNANCE
+
+Agile delivery:
+- Two-week sprints
+- Sprint planning and retrospectives
+- Fortnightly demos to BBC stakeholders
+
+Reporting:
+- Weekly: Sprint progress, timesheet summary
+- Monthly: Cost report, KPI dashboard
+- Quarterly: Platform performance analysis
+
+Major events: Special governance for Olympics, World Cup, etc. with dedicated war room.
+
+PUBLIC SERVICE BROADCASTER TERMS
+
+BBC public service obligations:
+- Accessibility paramount (not nice-to-have)
+- Impartiality in algorithmic recommendations
+- Privacy-first approach to viewer data
+- UK viewer priority (geographic availability)
+
+Freedom of Information: Service Provider acknowledges BBC subject to FOI requests.
+
+Social value:
+- Skills transfer to BBC staff
+- Consideration for apprentices/graduates
+- Diversity and inclusion goals
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts
+Dispute resolution: Mediation, then litigation
+
+Confidentiality: 5 years (viewer data indefinitely)
+Assignment: Requires approval
+Subcontracting: Permitted with approval
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: June 1, 2025
+
+CLIENT:
+BBC Digital Media Ltd
+Tom Henderson, Director of iPlayer & Streaming
+Date: June 1, 2025

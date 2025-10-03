@@ -1,0 +1,80 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-016
+Contract Type: Fixed Resource
+
+Client: British Gas Services Ltd
+Project: Customer Billing Platform Support
+Duration: 18 months
+Start Date: January 15, 2025
+Location: Hybrid - Leicester
+
+RESOURCE PROVISION
+
+Dedicated resources for SAP IS-U (Utilities) billing platform support and enhancement program.
+
+Resources:
+- 2 x SAP IS-U Consultants (100%, full duration)
+- 1 x SAP FICA Consultant (100%, full duration)
+- 1 x SAP Integration Specialist (100%, months 4-18)
+- 1 x Business Analyst (50%, full duration)
+
+Total: 3.5-4.5 FTE
+
+COMMERCIAL TERMS
+
+Monthly fees:
+- Months 1-3: £56,000/month (3.5 FTE)
+- Months 4-18: £72,000/month (4.5 FTE)
+
+Total: £1,248,000
+
+Payment: Monthly in advance, net 30 days
+Price review: Annual, March 2026, CPI + 2% max
+
+WORKING LOCATION
+
+Hybrid: Leicester office (2 days/week), remote (3 days/week)
+Hours: Monday-Friday, 9 AM - 5:30 PM
+On-call rotation for billing runs (monthly, compensated)
+
+UTILITIES SECTOR REQUIREMENTS
+
+Compliance with:
+- Ofgem regulations and standards
+- Energy UK industry codes
+- UK GDPR for customer billing data
+- Smart meter data (DCC integration)
+- Industry settlement processes
+- Consumer protection regulations
+
+PERFORMANCE METRICS
+
+- Resource availability: 95%
+- Billing run success rate: 99.5%
+- Incident resolution: P1 within 2 hours
+- Billing accuracy: 99.99%
+- Regulatory compliance: 100%
+
+KPI reviews: Monthly
+
+TERMINATION
+
+Either party: 90 days notice
+For cause: 15 days to cure
+Billing run support: Continuity guaranteed during notice period
+
+INSURANCE AND LIABILITY
+
+Professional Indemnity: £5,000,000
+Liability cap: £2,500,000 per incident
+Customer billing errors: Enhanced liability up to £5,000,000
+
+IN WITNESS WHEREOF:
+
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: January 15, 2025
+
+British Gas Services Ltd
+Patricia Hughes, IT Director
+Date: January 15, 2025

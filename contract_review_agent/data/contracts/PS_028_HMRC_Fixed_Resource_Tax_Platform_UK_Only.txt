@@ -1,0 +1,296 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-028
+Contract Type: Fixed Resource
+Classification: UK OFFICIAL
+
+This Professional Services Agreement ("Agreement") is entered into as of June 1, 2024, between Qodea Professional Services Ltd ("Service Provider") and Her Majesty's Revenue and Customs ("Client").
+
+1. PROJECT OVERVIEW
+
+Service Provider shall provide dedicated software development resources for the modernization of Client's tax assessment platform in compliance with UK Government Digital Service standards.
+
+2. UK EMPLOYMENT REQUIREMENT - MANDATORY
+
+**CRITICAL REQUIREMENT: ALL RESOURCES MUST BE UK-EMPLOYED**
+
+2.1 Employment Status
+ALL personnel assigned to this contract MUST be:
+a) Direct employees of Service Provider incorporated and operating in the United Kingdom
+b) Subject to UK PAYE (Pay As You Earn) tax system
+c) Paying UK National Insurance contributions
+d) Employed under UK employment law and contracts
+
+2.2 Prohibited Arrangements
+The following are EXPRESSLY PROHIBITED:
+a) Offshore resources working remotely from outside the UK
+b) Contractors or freelancers not on Service Provider's UK payroll
+c) Third-party subcontractors without explicit written approval
+d) Resources employed by overseas entities (including Service Provider's overseas subsidiaries)
+e) Any form of IR35-non-compliant arrangements
+
+2.3 Right to Work Verification
+Before commencement, Service Provider MUST provide for EACH resource:
+- Original Right to Work documentation (UK passport or valid visa)
+- Proof of UK employment (employment contract, payslip)
+- Evidence of UK PAYE and National Insurance enrollment
+- Confirmation of UK residency status
+
+Client reserves the right to audit compliance at any time.
+
+2.4 Location Requirements
+Resources must be:
+- Physically located within the United Kingdom at all times during working hours
+- Working from UK-based locations (office or home office in UK)
+- Using UK-based network infrastructure and IP addresses
+- NOT working while traveling outside the UK without prior written approval
+
+2.5 Security Clearance
+All resources require:
+- Baseline Personnel Security Standard (BPSS) clearance minimum
+- Security Check (SC) clearance for senior roles
+- Continuous vetting throughout contract duration
+- UK residency for minimum 5 years (for SC clearance)
+
+3. RESOURCE ALLOCATION
+
+Service Provider shall provide:
+- 1 x Technical Lead (SC cleared, 100% FTE)
+- 3 x Senior Developers (BPSS cleared, 100% FTE each)
+- 2 x Developers (BPSS cleared, 100% FTE each)
+- 1 x Test Engineer (BPSS cleared, 100% FTE)
+- 1 x Business Analyst (BPSS cleared, 50% FTE)
+
+Total: 7.5 FTE, all UK-employed
+
+4. COMMERCIAL TERMS
+
+Monthly Fixed Fee: £98,750
+
+Breakdown (all UK-employed rates):
+- Technical Lead (SC): £20,000/month
+- Senior Developer: £15,000/month each (£45,000 total)
+- Developer: £11,500/month each (£23,000 total)
+- Test Engineer: £10,000/month
+- Business Analyst (0.5 FTE): £7,500/month
+
+Annual Contract Value: £1,185,000
+
+Payment Terms:
+- Monthly invoicing in advance
+- NET 30 days payment terms
+- Pro-rata adjustments for approved absences
+
+VAT: All fees subject to UK VAT at standard rate
+
+5. CONTRACT DURATION
+
+Start Date: July 1, 2024
+End Date: June 30, 2025
+Duration: 12 months
+
+Extension: Subject to satisfactory performance and budget approval, may extend for additional 12-month periods (maximum 3 years total).
+
+6. WORKING LOCATION
+
+**UK-BASED LOCATIONS ONLY**
+
+Primary Location: On-site at HMRC offices
+Address: 100 Parliament Street, London SW1A 2BQ
+
+Attendance Requirements:
+- Monday-Thursday: Mandatory on-site attendance
+- Friday: Remote working from UK location permitted
+- Must use Government Secure Intranet (GSI) when remote
+- VPN access restricted to UK IP addresses only
+
+Client-Provided Workspace:
+- Secure area with escort requirements
+- Government-issued laptops and devices only
+- No personal devices permitted
+- Access badges with photo ID
+
+7. IR35 AND TAX COMPLIANCE
+
+Service Provider confirms:
+- All resources are inside IR35 determination
+- PAYE tax deducted at source
+- Employer National Insurance paid
+- Off-Payroll Working Rules fully complied with
+- Status Determination Statement (SDS) provided for each resource
+
+Client retains right to:
+- Review employment contracts
+- Audit payroll records
+- Verify tax payments with HMRC
+- Terminate immediately for non-compliance
+
+8. COMPLIANCE AND REGULATORY
+
+8.1 Government Security Classifications
+- All work classified as UK OFFICIAL
+- Compliance with Government Security Policy Framework
+- Security clearance mandatory for all personnel
+- Regular security audits and compliance checks
+
+8.2 Data Protection
+- UK GDPR and Data Protection Act 2018 compliance
+- Data must remain within UK borders at all times
+- No overseas data transfers permitted
+- Encryption mandatory for all data at rest and in transit
+
+8.3 Civil Service Code
+Resources must adhere to principles of:
+- Integrity
+- Honesty
+- Objectivity
+- Impartiality
+
+9. BACKGROUND CHECKS AND VETTING
+
+Mandatory Checks (Service Provider responsibility):
+- Baseline Personnel Security Standard (BPSS):
+  * Verify identity (passport check)
+  * Verify employment history (3 years)
+  * Criminal record check (Basic DBS)
+  * Check of UK residence (3 years minimum)
+
+- Security Check (SC) for Technical Lead:
+  * All BPSS elements
+  * Credit/financial checks
+  * Security questionnaire
+  * UK residency (5 years minimum)
+
+Ongoing Requirements:
+- Annual re-verification
+- Immediate disclosure of criminal charges
+- Notification of extended overseas travel
+- Financial difficulty disclosure
+
+10. INTELLECTUAL PROPERTY
+
+All work product is Crown Copyright and becomes property of HMRC immediately upon creation.
+
+Service Provider retains NO rights to:
+- Source code
+- Documentation
+- Designs or architectures
+- Data or insights
+
+11. NON-COMPLIANCE PENALTIES
+
+Breach of UK Employment Requirements:
+- First Offense: £5,000 penalty per resource per day
+- Second Offense: Immediate termination + £25,000 penalty
+- Fraudulent documentation: Contract termination + legal action
+
+Security Breaches:
+- Minor breach: £10,000 penalty
+- Major breach: Contract termination + unlimited liability
+- Criminal prosecution under Official Secrets Act if applicable
+
+12. AUDIT RIGHTS
+
+Client may audit at any time with 24 hours notice:
+- Employment records and payroll
+- Resource locations and working arrangements
+- Security clearance documentation
+- Compliance with UK employment law
+- Tax and National Insurance payments
+
+Service Provider must provide full cooperation and all requested documentation within 48 hours.
+
+13. TERMINATION
+
+Notice Periods:
+- By Client: 30 days written notice (no cause required)
+- By Service Provider: 90 days written notice
+- Immediate termination: For security breach or employment non-compliance
+
+Upon termination:
+- Immediate return of all Government property
+- Security debrief for all cleared personnel
+- Deletion of all Client data (certified)
+- Exit security checks
+
+14. LIABILITY AND INDEMNITY
+
+Liability Cap: £2,500,000 (NOT limited to contract value for security breaches)
+
+Service Provider indemnifies Client against:
+- Employment status misrepresentation
+- Security breaches or data loss
+- Non-compliance with UK employment law
+- IR35 or tax non-compliance
+- Breach of Official Secrets Act
+
+15. INSURANCE
+
+Required Insurance (UK-based insurers only):
+- Professional Indemnity: £10,000,000
+- Employers' Liability: £10,000,000 (mandatory UK requirement)
+- Public Liability: £5,000,000
+- Cyber Liability: £5,000,000
+
+16. WARRANTIES
+
+Service Provider warrants that:
+- All resources are genuinely UK-employed
+- No offshore or overseas involvement in any capacity
+- Full compliance with IR35 regulations
+- Security clearances are valid and current
+- Right to Work documentation is genuine
+- Resources are physically in UK during all working hours
+- No conflicts of interest with foreign entities
+
+17. REPORTING
+
+Weekly Reports must include:
+- Resource attendance and location verification
+- Security incidents or concerns
+- Employment status confirmations
+- Progress against deliverables
+
+Monthly Compliance Certification:
+- Confirmation of UK employment status for all resources
+- Evidence of PAYE and NI payments
+- Security clearance status updates
+- IR35 compliance declaration
+
+18. GOVERNMENT TERMS
+
+This contract incorporates by reference:
+- Cabinet Office Standard Terms and Conditions
+- Government Security Policy Framework
+- Civil Service Code of Conduct
+- Official Secrets Act obligations
+- Crown Commercial Service Framework terms
+
+19. GENERAL PROVISIONS
+
+Governing Law: England and Wales
+Jurisdiction: UK Courts only
+Dispute Resolution: Government Legal Department mediation, then arbitration
+Assignment: Not permitted without Cabinet Office approval
+Publicity: No publicity without prior written consent
+Freedom of Information: Subject to FOI Act 2000
+
+20. SIGNATURES
+
+This Agreement has been executed on the dates shown below:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Signed: Sarah Mitchell, Managing Director
+Date: June 1, 2024
+Company Registration: 12345678 (England and Wales)
+
+Confirmation: I certify that Qodea Professional Services Ltd will comply with all UK employment requirements and that all assigned resources will be genuinely UK-employed throughout the contract duration.
+
+CLIENT:
+Her Majesty's Revenue and Customs
+Signed: Jonathan Davies, Director of Digital Services
+Date: June 1, 2024
+Government Department
+
+Approved by: Cabinet Office Crown Commercial Service
+Reference: RM6187 - Digital Outcomes and Specialists Framework

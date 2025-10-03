@@ -1,0 +1,299 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-022
+Contract Type: Fixed Deliverable
+
+Service Provider: Qodea Professional Services Ltd
+Client: Balfour Beatty Engineering Services Ltd
+Project: BIM Level 2 Implementation Platform
+Contract Date: July 1, 2025
+
+PROJECT SCOPE
+
+Implementation of BIM (Building Information Modeling) Level 2 compliant digital platform supporting project collaboration, document management, and 3D model coordination for major infrastructure projects.
+
+DELIVERABLES
+
+Phase 1 - BIM Strategy and Planning (6 weeks)
+- Current BIM capability assessment
+- BIM Level 2 compliance gap analysis
+- Common Data Environment (CDE) requirements
+- BIM Execution Plan (BEP) template development
+- Information delivery planning
+- Collaboration workflow design
+- Integration with existing systems (ERP, project management)
+
+Phase 2 - Platform Implementation (14 weeks)
+- Common Data Environment setup (Autodesk Construction Cloud)
+- 3D model coordination platform (Navisworks, BIM 360)
+- Document management system
+- Clash detection automation
+- 4D construction sequencing capability
+- 5D cost estimation integration
+- Mobile site access applications
+- Client portal for stakeholder review
+
+Phase 3 - Pilot Project (8 weeks)
+- Pilot on live infrastructure project (HS2 or Crossrail)
+- BEP execution and validation
+- Federated model coordination
+- Information exchange workflows
+- Stakeholder collaboration testing
+- COBie data deliverable creation
+- Lessons learned and refinement
+
+Phase 4 - Rollout and Training (6 weeks)
+- Rollout to 10 major projects
+- BIM Manager training
+- Project team training (500+ users)
+- Subcontractor onboarding process
+- Template library creation
+- Go-live support per project
+- Handover and closeout procedures
+
+COMMERCIAL TERMS
+
+Total fixed price: £385,000
+
+Payment schedule:
+- Contract execution: £57,750 (15%)
+- Phase 1 completion: £77,000 (20%)
+- Phase 2 completion: £134,750 (35%)
+- Phase 3 completion: £77,000 (20%)
+- Phase 4 completion: £38,500 (10%)
+
+Payment terms: Net 60 days (construction industry standard)
+
+TIMELINE
+
+Project start: August 1, 2025
+Project completion: January 31, 2026
+Total duration: 26 weeks (6 months)
+
+Key milestones:
+- Phase 1 sign-off: September 11, 2025
+- Phase 2 sign-off: December 12, 2025
+- Pilot complete: February 6, 2026
+- Rollout complete: January 31, 2026
+
+WORKING ARRANGEMENTS
+
+Location: Multi-site
+- Office: Hybrid at London office (Southwark), 2 days/week
+- Site visits: Major projects (HS2, Crossrail, etc.), as required
+- Remote: Remainder of time
+
+Hours: Monday-Friday, 8 AM - 5 PM GMT
+Site work: Requires CSCS card and site induction
+
+Client provides:
+- Office workspace when on-site
+- VPN access for remote work
+- BIM software licenses (Autodesk, Navisworks)
+- Site access and PPE requirements
+- Sample project data for testing
+
+TEAM COMPOSITION
+
+- 1 x BIM Implementation Lead (60% allocation)
+- 1 x BIM Level 2 Consultant (100% allocation)
+- 1 x Integration Specialist (80% allocation)
+- 1 x Training Specialist (60% allocation)
+- 1 x Change Manager (40% allocation)
+- 1 x Project Manager (30% allocation)
+
+All resources require:
+- BIM Level 2 experience
+- Construction industry knowledge
+- CSCS card for site visits
+- Understanding of UK BIM standards
+
+ACCEPTANCE CRITERIA
+
+Phase acceptance:
+- Deliverables complete per BIM Level 2 standards
+- PAS 1192-2:2013 compliance validated
+- Client review and approval within 10 days
+
+Platform acceptance:
+- BIM Level 2 compliant workflows operational
+- Federated model coordination successful
+- Document management per BS 1192
+- COBie data export validated
+- 10 projects using platform successfully
+- Training completed (500+ users)
+
+CONSTRUCTION BIM COMPLIANCE
+
+Mandatory standards compliance:
+- PAS 1192-2:2013 (BIM Level 2 specification)
+- BS 1192:2007+A2:2016 (Collaborative production of information)
+- PAS 1192-3:2014 (Operational phase of assets)
+- PAS 1192-5:2015 (Security-minded BIM)
+- BS 8536 (Briefing for design and construction)
+- COBie-UK-2012 (Construction Operations Building Information Exchange)
+
+Industry protocols:
+- CIC BIM Protocol
+- Government Soft Landings (GSL)
+- RIBA Plan of Work 2013
+- NBS BIM Toolkit
+
+PERFORMANCE REQUIREMENTS
+
+Platform performance:
+- Availability: 99% during working hours (7 AM - 7 PM)
+- Model load time: <30 seconds for large models (500MB+)
+- Concurrent users: 500 across all projects
+- Document sync: <5 minutes for updates
+- Mobile access: Full functionality on tablets
+
+BIM deliverables:
+- Clash detection: >95% of clashes identified before construction
+- Model coordination: Weekly federated model updates
+- COBie compliance: 100% for handover data
+- Information exchange: Per agreed exchange information requirements
+
+SUPPORT AND WARRANTY
+
+Implementation support:
+- On-call during pilot project: 8 AM - 6 PM weekdays
+- Response time for critical issues: 4 hours
+- Monthly review meetings during rollout
+
+Warranty period: 120 days from final acceptance
+- Bug fixes and system issues included
+- Support hours: 8 AM - 6 PM, Monday-Friday
+- Platform optimization and tuning
+- User support for queries
+
+Post-warranty support: Available under separate AMS agreement
+
+CHANGE MANAGEMENT
+
+Scope changes via formal CR process:
+- Written change request
+- Impact assessment within 5 business days
+- BIM Level 2 compliance impact reviewed
+- Pricing: T&M at £850/day blended rate
+- Timeline adjustments agreed
+
+Additional project rollouts beyond 10:
+- £15,000 per additional project
+- Includes setup, training, and go-live support
+
+INTELLECTUAL PROPERTY
+
+BIM workflows and templates: Client owns upon payment
+Platform configurations: Client owns
+Training materials: Licensed to Client for internal use
+
+Service Provider retains:
+- Generic BIM implementation frameworks
+- Industry-standard templates (non-Client specific)
+
+Open standards: BIM outputs comply with open standards (IFC, COBie)
+
+CONSTRUCTION INDUSTRY OBLIGATIONS
+
+Health and safety:
+- All site visits require CSCS cards
+- Site safety inductions mandatory
+- Compliance with CDM Regulations 2015
+- Risk assessments for all site work
+- PPE as required per site
+
+Quality:
+- ISO 19650 compliance (BIM international standard)
+- Quality assurance per BS EN ISO 9001
+
+Sustainability:
+- Support for BREEAM compliance where required
+- Digital twin readiness for asset lifecycle
+
+INSURANCE AND LIABILITY
+
+Required insurance:
+- Professional Indemnity: £5,000,000 (construction industry)
+- Public Liability: £10,000,000
+- Employer's Liability: £10,000,000
+- Product Liability: £5,000,000
+
+Liability cap:
+- General liability: £1,000,000 per incident
+- Aggregate annual: £2,000,000
+- Design errors causing construction delays: £3,000,000
+- No cap for gross negligence or H&S breaches
+
+Construction impact: Service Provider acknowledges BIM coordination errors can cause:
+- Construction delays (£100k+ per day on major projects)
+- Rework and abortive work
+- Health and safety risks
+- Client claims and disputes
+
+TERMINATION
+
+For convenience:
+- Either party: 60 days notice
+- Client: 30 days notice with payment of 25% remaining contract value
+
+For cause:
+- Material breach: 15 days to cure
+- H&S breach: Immediate termination
+- BIM standard non-compliance: 20 days to cure
+- Repeated quality failures: 30 days notice
+
+Effect of termination:
+- Handover of all BIM data and models
+- Transfer of platform access and credentials
+- Documentation of work completed
+- Payment for accepted deliverables only
+
+GOVERNANCE AND REPORTING
+
+Weekly:
+- Progress report against plan
+- Issues and risks
+- Upcoming site visits
+
+Monthly:
+- Steering committee meeting
+- BIM maturity assessment
+- Training progress
+- Rollout status
+
+Phase gates:
+- Formal review before next phase
+- BIM Level 2 compliance checkpoint
+- Stakeholder approval
+
+SUBCONTRACTING
+
+Training delivery: May be subcontracted with Client approval
+BIM consultancy: May use specialist BIM consultants (subject to approval)
+All subcontractors: Must meet same standards and hold CSCS cards
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts (Technology and Construction Court for disputes)
+Dispute resolution: Adjudication (per Construction Act), mediation, then litigation
+
+Confidentiality: 5 years post-termination
+Assignment: Prohibited without consent
+Force majeure: Standard provisions
+
+Payment terms: Service Provider acknowledges construction industry payment terms (60 days); late payment interest per Late Payment of Commercial Debts Act.
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: July 1, 2025
+Company Registration: 12345678
+
+CLIENT:
+Balfour Beatty Engineering Services Ltd
+David Chen, Digital Construction Director
+Date: July 1, 2025
+Company Registration: 5678901

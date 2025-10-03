@@ -1,0 +1,253 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-011
+Contract Type: Time and Materials
+
+Client: University of Edinburgh
+Project: Research Data Management Platform
+Start Date: August 1, 2024
+Duration: 10 months
+Location: Hybrid - Edinburgh Campus
+
+SCOPE
+
+Development of cloud-based research data management platform supporting 5,000+ researchers across multiple faculties with focus on FAIR data principles (Findable, Accessible, Interoperable, Reusable).
+
+Services include:
+- Data repository architecture design
+- Integration with research systems (CRIS, LIMS, HPC)
+- Metadata management and DOI minting
+- Data publication workflows
+- Collaboration tools for research teams
+- Research funding compliance reporting
+- Long-term preservation (25+ year retention)
+
+RATE CARD
+
+Daily rates (per 8-hour day):
+- Research Systems Architect: £1,050/day
+- Senior Full-stack Developer: £850/day
+- Full-stack Developer: £675/day
+- Data Engineer: £775/day
+- Research UX Designer: £650/day
+- DevOps Engineer: £725/day
+
+Part-day work: Hourly rate = daily rate / 8
+Minimum billing: 4 hours
+
+INDICATIVE TEAM
+
+Phase 1 - Requirements and Design (Months 1-2):
+- Research Systems Architect (3 days/week)
+- Research UX Designer (4 days/week)
+- Senior Developer (3 days/week)
+
+Phase 2 - Development (Months 3-8):
+- Senior Developers x 2 (full-time)
+- Developers x 2 (full-time)
+- Data Engineer (4 days/week)
+- DevOps Engineer (2 days/week)
+
+Phase 3 - Deployment (Months 9-10):
+- Senior Developer (full-time)
+- Developer (full-time)
+- DevOps Engineer (full-time)
+- Research Systems Architect (2 days/week)
+
+Estimated monthly spend: £55,000 - £90,000
+Total estimated value: £700,000 (not guaranteed)
+
+COMMERCIAL TERMS
+
+Billing: Monthly in arrears
+Timesheet deadline: 5th of following month
+Payment terms: Net 45 days (university standard)
+
+Monthly spend cap: £100,000 (requires approval to exceed)
+Minimum monthly: £35,000
+
+Rate review: Annual, effective each August, max CPI + 1%
+
+WORKING ARRANGEMENTS
+
+Location:
+- University of Edinburgh, George Square campus
+- Hybrid: 2 days/week on-site, 3 days remote
+- On-site presence required for workshops and faculty meetings
+
+Hours: Flexible within core hours 10 AM - 4 PM GMT
+Standard week: 37.5 hours (university norm)
+
+University provides:
+- Desk space in Informatics building
+- Visitor network access and VPN
+- Access to development environments
+- Collaboration with research computing team
+
+ACADEMIC REQUIREMENTS
+
+Resources must:
+- Understand academic research workflows
+- Experience with research data management
+- Familiarity with research funding compliance (UKRI, Wellcome, EU)
+- Knowledge of FAIR data principles
+- Understanding of data preservation standards
+
+Research ethics:
+- Complete university research ethics training
+- Handle sensitive research data appropriately
+- Support research data protection requirements
+
+COMPLIANCE
+
+Mandatory compliance:
+- UK GDPR and Data Protection Act 2018
+- Freedom of Information Act 2000
+- Research funding body requirements (UKRI, Wellcome Trust, EU Horizon)
+- FAIR data principles
+- Data preservation standards (ISO 14721 OAIS)
+- University information security policies
+- Cyber Essentials Plus
+
+Open research:
+- Support for open access publishing
+- Integration with institutional repository
+- Research outputs licensing (Creative Commons)
+
+INTELLECTUAL PROPERTY
+
+Platform ownership: University of Edinburgh
+Code licensing: Open source (Apache 2.0) where possible
+Research data: Remains property of researchers/university
+
+Service Provider retains:
+- Generic frameworks and tools
+- Pre-existing IP
+
+Publications:
+- Service Provider may publish technical case studies
+- University approval required
+- Co-authorship opportunity for technical papers
+
+DELIVERABLES AND MILESTONES
+
+Milestone 1 (Month 2): System architecture and design approved
+Milestone 2 (Month 5): Core platform functional (internal pilot)
+Milestone 3 (Month 8): Full feature complete (faculty pilot)
+Milestone 4 (Month 10): Production deployment and handover
+
+Milestone reviews with Research Computing Committee.
+
+PERFORMANCE STANDARDS
+
+Service Provider monitored against:
+- Resource availability: 95%
+- Code quality: Peer review approval, automated testing >85%
+- Documentation: Comprehensive technical and user docs
+- Response time: Issues addressed within 24 hours
+- Collaboration: Positive feedback from research stakeholders
+
+Monthly performance review with Research IT Director.
+
+TIME RECORDING
+
+Timesheet submission: Weekly by Friday 5 PM
+Approval: Within 3 business days by nominated manager
+Disputed hours: Escalation within 5 days
+
+Overtime:
+- Pre-approved only
+- Rate: 1.5x for evenings/weekends
+- Research-critical deadlines may require flexibility
+
+EXPENSES
+
+Billable expenses:
+- Travel to external research facilities: Cost + 10%
+- Specialist software licenses: At cost
+- Training specific to project: Pre-approved, at cost
+
+Not billable:
+- Daily commute to Edinburgh campus
+- General professional development
+- Standard development tools
+
+Pre-approval required for expenses >£500
+
+WARRANTY AND LIABILITY
+
+Service Provider warrants:
+- Professional skill and care
+- Code quality and documentation standards
+- No IP infringement
+- 60-day warranty on delivered components
+
+Liability cap:
+- Per incident: £500,000
+- Annual aggregate: £1,500,000
+- No cap for data loss, IP infringement, gross negligence
+
+Insurance:
+- Professional Indemnity: £5,000,000
+- Public Liability: £5,000,000
+- Cyber Liability: £3,000,000
+
+TERMINATION
+
+For convenience:
+- Either party: 60 days notice
+- Payment for time worked through notice period
+
+For cause:
+- Material breach: 15 days to cure
+- Security/data breach: Immediate
+- Persistent poor performance: 30 days notice
+
+Minimum term: 4 months (early exit requires 2 months fees)
+
+CHANGE MANAGEMENT
+
+Flexible resourcing:
+- Team size adjustments: 15 days notice
+- Skill mix changes: 20 days notice
+- Rate card changes: Annual review only
+
+Contract extensions:
+- Rolling monthly after Month 10
+- Either party may exit with 60 days notice
+- New rates negotiated for extensions beyond 12 months
+
+GOVERNANCE
+
+Weekly: Team standup with university IT
+Fortnightly: Progress review with Research Computing
+Monthly: Financial and performance review
+Quarterly: Research Computing Committee presentation
+
+Reporting:
+- Weekly: Timesheet summary, sprint progress
+- Monthly: Cost report, milestone tracking, risk register
+- Quarterly: Benefits realization, academic impact
+
+GENERAL PROVISIONS
+
+Governing law: Scotland
+Dispute resolution: Mediation, then Scottish courts
+Confidentiality: 3 years post-termination (research data obligations survive indefinitely)
+Assignment: Requires written approval
+
+University terms:
+- Freedom of Information: Service Provider acknowledges FOI obligations
+- Social responsibility: Ethical working practices
+- Sustainability: Carbon impact reporting
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: August 1, 2024
+
+CLIENT:
+University of Edinburgh
+Professor Michael Grant, Director of Research Computing
+Date: August 1, 2024

@@ -1,0 +1,398 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-032
+Contract Type: Fixed Deliverable
+Regulatory Status: PCI DSS Level 1 Service Provider
+
+Client: UK Payment Solutions Ltd (FCA Authorized Payment Institution)
+Service Provider: Qodea Professional Services Ltd
+Project: Payment Gateway Upgrade - PCI DSS 4.0 Compliance
+Effective Date: November 1, 2024
+
+**MANDATORY UK EMPLOYMENT - PCI DSS AND FCA REQUIREMENTS**
+
+1. UK-ONLY WORKFORCE REQUIREMENT
+
+Due to Payment Card Industry Data Security Standard (PCI DSS) requirements and FCA regulatory obligations for payment processing systems:
+
+**ALL PERSONNEL MUST BE UK-EMPLOYED**
+
+1.1 Employment Status Requirements
+MANDATORY for all resources:
+- UK company employees (Qodea Professional Services Ltd - UK entity only)
+- UK PAYE tax system with monthly evidence
+- UK National Insurance contributions current
+- UK employment contracts under UK law
+- NO contractors, freelancers, or third-party consultants
+- NO overseas subsidiaries or foreign entities involved
+
+1.2 UK Location and Residency
+- Permanent UK residents with proof of address
+- Working exclusively from UK locations
+- No remote working from abroad (zero tolerance)
+- All development performed on UK soil
+- UK-based internet connectivity (IP geolocation monitored)
+- UK residential address verified quarterly
+
+1.3 PCI DSS Background Checks
+Enhanced screening for cardholder data environment (CDE) access:
+- Enhanced DBS (Disclosure and Barring Service) check
+- Financial background check (6-year history)
+- Credit report review
+- Employment verification (5 years)
+- Criminal record check (including fraud, theft, financial crime)
+- Social media risk assessment
+- Continuous monitoring throughout contract
+
+1.4 FCA Regulatory Requirements
+As Client is FCA-authorized:
+- Fit and Proper assessment for key personnel
+- Financial crime training (UK-specific AML/CTF)
+- Senior Managers & Certification Regime awareness
+- Consumer Duty principles training
+- Payment Systems Regulator (PSR) compliance awareness
+
+2. OFFSHORE DEVELOPMENT PROHIBITION
+
+**EXPLICIT PROHIBITION**
+
+The following are STRICTLY FORBIDDEN:
+- Offshore development (any code written outside UK)
+- Overseas testing or QA activities
+- Non-UK data centers or hosting
+- Foreign subcontractors or consultants
+- Remote work from outside UK borders
+- Vacation work or travel work
+- Access to CDE from non-UK locations
+- Cardholder data transfer outside UK
+
+Violation Consequences:
+- Immediate contract termination
+- Forfeiture of all unpaid fees (£0 payment)
+- £100,000 liquidated damages per violation
+- Return of all payments received (full clawback)
+- Reporting to FCA and PCI Security Standards Council
+- Industry-wide notification
+- Legal action for damages
+
+3. PROJECT SCOPE AND DELIVERABLES
+
+Upgrade payment gateway to PCI DSS 4.0 compliance with enhanced security.
+
+Phase 1 - Gap Analysis and Design (8 weeks): £320,000
+- Current PCI DSS 3.2.1 compliance assessment
+- Gap analysis for PCI DSS 4.0 requirements
+- Secure architecture design
+- Threat modeling and risk assessment
+- Compliance roadmap and implementation plan
+
+Phase 2 - Core Development (20 weeks): £960,000
+- Payment processing engine rebuild
+- Tokenization and encryption enhancement
+- Access control and authentication upgrade
+- Logging and monitoring implementation
+- Secure API development
+- Database security hardening
+
+Phase 3 - Security Testing (10 weeks): £480,000
+- Penetration testing (CREST-certified UK firm only)
+- Vulnerability scanning and remediation
+- PCI DSS compliance validation
+- Load testing and performance optimization
+- Security code review
+
+Phase 4 - Deployment and Certification (6 weeks): £240,000
+- Production deployment (UK data center only)
+- PCI DSS Qualified Security Assessor (QSA) audit support
+- Report on Compliance (ROC) preparation
+- Attestation of Compliance (AOC) support
+- Staff training and knowledge transfer
+- 30-day post-launch support
+
+TOTAL FIXED PRICE: £2,000,000
+
+4. PAYMENT SCHEDULE
+
+Milestone-based payments:
+- Contract signing: £400,000 (20%)
+- Phase 1 completion: £500,000 (25%)
+- Phase 2 completion: £600,000 (30%)
+- Phase 3 completion: £300,000 (15%)
+- Final acceptance and PCI certification: £200,000 (10%)
+
+Payment Terms: NET 30 days
+Withhold: 10% retained until PCI DSS QSA certification achieved
+
+5. TEAM COMPOSITION - ALL UK-EMPLOYED
+
+Service Provider assigns (all UK-employed, PCI DSS trained):
+- 1 x PCI DSS Qualified Security Assessor (QSA) - 30% FTE
+- 1 x Payment Systems Architect - 100% FTE
+- 2 x Senior Security Engineers - 100% FTE each
+- 3 x Senior Software Engineers (payments experience) - 100% FTE each
+- 1 x Cryptography Specialist - 50% FTE
+- 1 x Penetration Tester (CREST certified) - 50% FTE
+- 1 x Compliance Specialist (FCA/PCI) - 25% FTE
+- 1 x Project Manager (PMP, payments) - 50% FTE
+
+All CVs, Right to Work docs, and DBS certificates provided pre-contract.
+
+6. PCI DSS COMPLIANCE REQUIREMENTS
+
+6.1 Cardholder Data Environment (CDE) Access
+Only UK-employed, vetted personnel may access CDE:
+- Multi-factor authentication (MFA) mandatory
+- Unique user IDs (no shared accounts)
+- All access logged and monitored
+- Privileged access tightly controlled
+- Session timeout after 15 minutes inactivity
+
+6.2 PCI DSS 4.0 Requirements (select critical items)
+- Requirement 1: Network security controls
+- Requirement 2: Secure configurations
+- Requirement 3: Protect stored cardholder data (encryption, tokenization)
+- Requirement 4: Protect cardholder data in transit (TLS 1.2+)
+- Requirement 5: Protect against malware
+- Requirement 6: Secure software development
+- Requirement 7: Restrict access by business need-to-know
+- Requirement 8: Identify users and authenticate access (MFA)
+- Requirement 9: Restrict physical access
+- Requirement 10: Log and monitor all access
+- Requirement 11: Test security systems regularly
+- Requirement 12: Security policy maintained
+
+6.3 Secure Software Development Lifecycle (Requirement 6)
+All development must follow:
+- Secure coding standards (OWASP Top 10)
+- Code review before deployment (peer + automated)
+- Change control process documented
+- Separation of development/test/production
+- No production data in test environments
+- Vulnerability management program
+- Patch management procedures
+
+7. WORKING LOCATION - SECURE UK FACILITIES
+
+Primary Location: Client Secure Development Center
+Address: 45 Finsbury Square, London EC2A 1PX
+Classification: PCI DSS Cardholder Data Environment (CDE)
+
+Access Requirements:
+- Badge access (photo ID, background checked)
+- Escort required for first 30 days
+- No personal devices in CDE
+- Clean desk policy (locked drawers)
+- No cameras, phones, or recording devices
+- Physical access logged
+
+Remote Work:
+- NOT permitted for CDE access
+- Only for non-CDE administrative tasks
+- Must use Client-issued VPN (UK exit nodes only)
+- IP geolocation verified
+- Multi-factor authentication required
+
+Working Hours: Monday-Friday, 9 AM - 6 PM GMT
+
+8. DATA PROTECTION AND CONFIDENTIALITY
+
+Cardholder Data Protection:
+- Primary Account Number (PAN) - NEVER stored unencrypted
+- Cardholder name - protected
+- Service code - protected
+- Expiration date - protected
+- Sensitive authentication data (CVV, PIN) - NEVER stored post-authorization
+
+Encryption Requirements:
+- Data at rest: AES-256
+- Data in transit: TLS 1.3 (minimum TLS 1.2)
+- Key management: Hardware Security Module (HSM)
+- Tokenization: For PAN storage
+
+UK GDPR Compliance:
+- Payment data is personal data
+- Data minimization applied
+- Retention limits enforced
+- Data subject rights respected
+- Privacy by design implemented
+
+9. FCA REGULATORY COMPLIANCE
+
+As FCA-authorized Payment Institution, Client must ensure:
+- Operational resilience requirements met
+- Consumer Duty obligations fulfilled
+- Financial crime controls effective
+- Outsourcing rules complied with
+- Change management robust
+
+Service Provider must:
+- Support FCA regulatory reporting
+- Facilitate FCA inspections if required
+- Maintain audit trail for regulatory review
+- Comply with FCA technology resilience standards
+- Report significant incidents within required timeframes
+
+10. UK EMPLOYMENT VERIFICATION
+
+Monthly Submissions Required:
+- Payroll evidence (showing PAYE tax)
+- National Insurance contribution proof
+- Right to Work documentation (UK passport or valid visa)
+- UK address confirmation for each resource
+- DBS check status
+- PCI DSS training certificates
+
+Audit Rights:
+- Quarterly reviews of employment status
+- Unannounced spot checks permitted
+- Direct verification with HMRC if needed
+- IP geolocation audits
+- Device location tracking review
+
+11. ACCEPTANCE CRITERIA
+
+Technical:
+- All PCI DSS 4.0 requirements met
+- Zero critical or high vulnerabilities
+- Penetration test passed (CREST UK firm)
+- Load testing: 10,000 TPS sustained
+- Latency: <50ms p95 for payment authorization
+
+Compliance:
+- PCI DSS Qualified Security Assessor (QSA) sign-off
+- Report on Compliance (ROC) completed
+- Attestation of Compliance (AOC) issued
+- FCA regulatory requirements met
+- No outstanding security findings
+
+Operational:
+- Knowledge transfer completed
+- Documentation delivered (admin, technical, user)
+- Staff trained (3 sessions minimum)
+- Runbooks provided
+- 99.99% uptime SLA achieved in first 30 days
+
+12. PENETRATION TESTING
+
+CREST-Certified UK Firm Required:
+- Based in United Kingdom
+- CREST Registered Penetration Tester (CRT) minimum
+- CHECK Scheme approved (for government if needed)
+- OWASP methodology
+- PCI DSS penetration testing requirements met
+
+Testing Scope:
+- External network penetration test
+- Internal network penetration test
+- Web application security test
+- API security assessment
+- Social engineering (optional)
+
+Remediation:
+- Critical: Fixed within 48 hours
+- High: Fixed within 7 days
+- Medium: Fixed within 30 days
+- Retest required for all critical/high findings
+
+13. IR35 AND OFF-PAYROLL WORKING RULES
+
+Service Provider confirms:
+- All resources inside IR35
+- Appropriate PAYE deductions made
+- Employer NI contributions paid
+- Off-Payroll Working Rules (April 2021) complied with
+- Status Determination Statements available
+- Client not responsible for tax status
+
+14. INTELLECTUAL PROPERTY
+
+All deliverables = Client exclusive property:
+- Source code and binaries
+- Payment algorithms and logic
+- Security designs and architectures
+- Cryptographic implementations
+- Documentation and procedures
+- PCI DSS compliance artifacts
+
+Service Provider retains: Generic software development knowledge only
+
+15. LIABILITY AND INSURANCE
+
+Liability Cap: UNLIMITED for:
+- Payment card data breach
+- PCI DSS non-compliance leading to fines
+- Fraud or financial crime
+- Employment status misrepresentation
+
+Capped at £5,000,000 for other claims
+
+Insurance (UK insurers only):
+- Professional Indemnity: £25,000,000
+- Cyber & Data Breach: £20,000,000
+- Technology E&O: £20,000,000
+- Crime/Fidelity: £10,000,000
+- Employers' Liability: £10,000,000
+
+16. PCI DSS INCIDENT RESPONSE
+
+Security Incident Procedures:
+- Detection: Immediate containment
+- Notification: Client within 1 hour
+- Card brands notification: Within 24 hours (if breach)
+- PCI Forensic Investigator (PFI): Engaged if compromise
+- Regulatory notification: FCA within required timeframes
+- Public disclosure: If legally required
+
+Incident Types:
+- Suspected card data breach
+- Malware in CDE
+- Unauthorized CDE access
+- PCI DSS control failure
+- Compliance violation
+
+17. TERMINATION
+
+Notice Periods:
+- Client: 60 days (any reason)
+- Service Provider: 90 days (convenience only)
+
+Immediate Termination Grounds:
+- Payment card data breach
+- PCI DSS non-compliance
+- UK employment requirement violation
+- Offshore work discovered
+- Security incident caused by Service Provider
+- FCA enforcement action related to Service Provider
+
+Post-Termination:
+- Secure handover within 10 days
+- All cardholder data deleted (certified destruction)
+- All access credentials revoked immediately
+- PCI DSS QSA notified
+- Final security audit performed
+
+18. GOVERNING LAW
+
+Governing Law: England and Wales
+Jurisdiction: High Court of Justice, London
+Regulatory Oversight: Financial Conduct Authority (FCA), Payment Systems Regulator (PSR)
+PCI SSC Compliance: PCI Security Standards Council requirements
+Card Scheme Rules: Visa, Mastercard operating regulations applicable
+
+SIGNATURES
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Signed: Sarah Mitchell, Managing Director
+Date: November 1, 2024
+Company Registration: 12345678 (England & Wales)
+PCI DSS Qualified Security Assessor: John Smith (QSA Certification #12345)
+
+CERTIFICATION: All resources assigned will be UK-employed and UK-resident. No offshore or overseas development will occur. All PCI DSS requirements will be met throughout project delivery.
+
+CLIENT:
+UK Payment Solutions Ltd
+Signed: David Harrison, Chief Technology Officer
+Date: November 1, 2024
+FCA Registration: 789012
+PCI DSS Level: Level 1 Service Provider
+Acquiring Bank: Barclays Bank PLC

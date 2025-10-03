@@ -1,0 +1,367 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-025
+Contract Type: Fixed Deliverable
+
+Service Provider: Qodea Professional Services Ltd
+Client: Rockstar Games UK Ltd
+Project: Mobile Gaming Platform - Live Ops Infrastructure
+Contract Date: October 1, 2025
+
+PROJECT SCOPE
+
+Development of live operations infrastructure for mobile gaming platform supporting 10 million+ daily active users with real-time events, in-game purchases, player progression, and anti-cheat systems.
+
+DELIVERABLES
+
+Phase 1 - Architecture and Design (4 weeks)
+- Current platform assessment and scalability analysis
+- Live ops architecture design (microservices)
+- Real-time event system design
+- Player progression and economy design
+- Anti-cheat and fraud detection strategy
+- Analytics and player behavior tracking
+- Monetization and IAP optimization
+
+Phase 2 - Core Platform Development (12 weeks)
+- Backend services (Node.js, Go)
+- Real-time game server infrastructure
+- Player account and progression system
+- In-app purchase processing (Apple, Google, Amazon)
+- Virtual economy and currency management
+- Leaderboards and competitive features
+- Social features (friends, clans, chat)
+- Push notification system
+- Content delivery network integration
+
+Phase 3 - Live Ops Tools (6 weeks)
+- Admin dashboard for live ops team
+- Event scheduling and management
+- A/B testing framework
+- Player segmentation engine
+- Targeted offers and promotions
+- Content management system
+- Analytics dashboards (player metrics, revenue)
+- Customer support integration
+
+Phase 4 - Security and Launch (6 weeks)
+- Anti-cheat system implementation
+- Fraud detection (payment fraud, account abuse)
+- Bot detection and prevention
+- Security testing and penetration testing
+- Load testing (1M concurrent users)
+- Soft launch (limited markets)
+- Global launch readiness
+- 24/7 launch support (2 weeks)
+
+COMMERCIAL TERMS
+
+Total fixed price: £720,000
+
+Payment schedule:
+- Contract execution: £108,000 (15%)
+- Phase 1 completion: £144,000 (20%)
+- Phase 2 completion: £252,000 (35%)
+- Phase 3 completion: £144,000 (20%)
+- Successful launch: £72,000 (10%)
+
+Payment terms: Net 30 days from invoice
+
+Launch bonus: £50,000 if launched on schedule with <0.1% crash rate and 99.9% uptime in first 30 days
+
+TIMELINE
+
+Project start: November 1, 2025
+Launch: April 30, 2026
+Duration: 26 weeks (6 months)
+
+Key milestones:
+- Phase 1 sign-off: November 28, 2025
+- Phase 2 sign-off: February 20, 2026
+- Phase 3 sign-off: April 3, 2026
+- Soft launch: April 15, 2026 (selected markets)
+- Global launch: April 30, 2026
+
+Market timing: Launch before summer gaming season critical.
+
+WORKING ARRANGEMENTS
+
+Location: Hybrid - London studio (Soho)
+- Phase 1: 3 days/week on-site for design workshops
+- Phase 2-3: 2 days/week on-site
+- Phase 4: Full week on-site for launch
+- Post-launch: On-site during business hours (2 weeks)
+
+Hours: Monday-Friday, 10 AM - 6 PM GMT
+Launch period: Extended hours and weekend availability
+
+Client provides:
+- Studio workspace and game development setup
+- VPN access for remote work
+- Access to game builds and development environment
+- Cloud infrastructure (AWS/Google Cloud)
+- Test devices (iOS and Android)
+- Beta player community for testing
+
+TEAM COMPOSITION
+
+- 1 x Gaming Platform Architect (50% allocation)
+- 3 x Senior Backend Engineers (100% allocation)
+- 1 x Mobile Backend Specialist (100% allocation)
+- 1 x Security Engineer - Gaming (80% allocation)
+- 1 x Data Engineer (80% allocation)
+- 1 x DevOps Engineer (100% allocation)
+- 1 x QA Lead - Live Ops (100% allocation)
+- 1 x Project Manager (40% allocation)
+
+All team members: Passion for gaming and understanding of player psychology beneficial
+
+ACCEPTANCE CRITERIA
+
+Platform acceptance requires:
+- Support 1 million concurrent users in load testing
+- 99.95% uptime during soft launch (2 weeks)
+- IAP transaction success rate >99.5%
+- Real-time event latency <100ms (95th percentile)
+- Crash rate <0.1%
+- Fraudulent transaction detection >95%
+- Zero critical security vulnerabilities
+- App store approval (Apple App Store, Google Play)
+
+Soft launch success criteria:
+- Player retention day 1: >40%
+- Player retention day 7: >20%
+- Average revenue per user (ARPU): >$2
+- Technical stability: 99.9% uptime
+
+GAMING INDUSTRY REQUIREMENTS
+
+Platform store compliance:
+- Apple App Store guidelines and review process
+- Google Play Store policies
+- Amazon Appstore requirements
+- Age ratings (PEGI, ESRB)
+
+Monetization compliance:
+- IAP regulations (no gambling mechanics for underage)
+- Loot box transparency requirements
+- Fair play and consumer protection
+- Payment processing regulations (PSD2, SCA)
+
+Data protection:
+- GDPR for player data (especially children under 13)
+- COPPA compliance (Children's Online Privacy Protection Act)
+- Data localization for certain markets (China, Russia)
+
+PERFORMANCE REQUIREMENTS
+
+Platform performance:
+- Availability: 99.95% (24/7 global operation)
+- API response time: <100ms (95th percentile)
+- Real-time events: <50ms latency
+- Concurrent users: 1,000,000+
+- Transactions per second: 10,000+ (peak)
+- Global reach: <200ms latency (all major markets)
+
+Player experience:
+- Matchmaking: <30 seconds
+- Login time: <3 seconds
+- IAP completion: <10 seconds
+- Leaderboard updates: Real-time (<5 seconds)
+
+SUPPORT AND WARRANTY
+
+Launch support (2 weeks):
+- 24/7 on-call engineering team
+- War room at Rockstar studio
+- Immediate response for critical issues
+- Daily executive briefings
+- Hotfix deployment capability
+
+Post-launch support (30 days):
+- 24/7 on-call support
+- 1-hour response for critical issues
+- 4-hour response for high priority
+- Daily monitoring and optimization
+- Weekly performance reviews
+
+Warranty period: 90 days from global launch
+- Bug fixes and defect resolution included
+- Performance optimization and tuning
+- Support hours: 24/7 for critical issues
+- Fraud detection tuning and improvements
+
+Post-warranty support: Separate live ops support contract
+
+CHANGE MANAGEMENT
+
+Scope changes:
+- Formal change request process
+- Impact assessment within 3 business days
+- Pricing: T&M at £900/day blended rate
+- Timeline impact: May risk launch date
+- Client approval required
+
+No changes accepted 4 weeks before launch (code freeze).
+
+Market changes:
+- Additional app stores: £15,000 per store
+- Additional languages/localizations: £8,000 per language
+- Additional payment providers: £12,000 per provider
+
+INTELLECTUAL PROPERTY
+
+All platform code and systems: Client owns upon full payment
+Game-specific features: Client owns
+Analytics and dashboards: Client owns
+
+Service Provider retains:
+- Generic gaming backend frameworks
+- Reusable microservices patterns
+- Development tools and utilities
+
+Open source: Client may open-source non-game-specific components
+
+SECURITY AND ANTI-CHEAT
+
+Anti-cheat measures:
+- Server-authoritative gameplay validation
+- Client behavior analysis
+- Anomaly detection algorithms
+- Bot detection and prevention
+- Account sharing detection
+- Speed hacks and memory tampering protection
+
+Fraud prevention:
+- Payment fraud detection
+- Account takeover prevention
+- Refund abuse monitoring
+- Virtual currency fraud detection
+- Multi-accounting prevention
+
+Security requirements:
+- OWASP Top 10 compliance
+- Regular penetration testing
+- Encryption in transit and at rest
+- Secure API authentication (OAuth 2.0)
+- DDoS protection
+- Rate limiting and abuse prevention
+
+DATA ANALYTICS AND PRIVACY
+
+Player analytics:
+- Player behavior tracking
+- Funnel analysis (acquisition, conversion, retention)
+- Cohort analysis
+- Revenue analytics
+- Event tracking and custom analytics
+
+Privacy compliance:
+- GDPR consent management
+- Data subject access requests (DSAR)
+- Right to be forgotten
+- Data minimization
+- Privacy by design
+
+INSURANCE AND LIABILITY
+
+Required insurance:
+- Professional Indemnity: £10,000,000
+- Cyber Liability: £10,000,000
+- Product Liability: £5,000,000
+
+Liability cap:
+- General liability: £2,000,000 per incident
+- Launch failure or major outage: £5,000,000
+- Data breach affecting players: £10,000,000
+- No cap for gross negligence or fraud
+
+Gaming industry impact: Service Provider acknowledges:
+- Launch failures can result in £millions in lost revenue
+- Player data breaches can affect millions and result in regulatory fines
+- App store removals can halt all revenue
+- Poor player experience can permanently damage game reputation
+
+TERMINATION
+
+For convenience:
+- Client: 60 days notice; 40% of remaining fees if within 90 days of launch
+- Service Provider: 90 days notice; not permitted within 90 days of launch (committed to launch)
+
+For cause:
+- Material breach: 10 days to cure
+- Security breach: Immediate termination
+- Launch-critical failure: 15 days to cure
+- App store policy violation: Immediate termination
+
+Effect of termination:
+- Handover of all code and systems
+- Transfer of cloud infrastructure access
+- Documentation of all work
+- Support for player-impacting issues (30 days, T&M)
+
+LIVE OPERATIONS COMMITMENT
+
+Service Provider commits to:
+- Zero downtime during peak player hours (6 PM - 11 PM GMT)
+- Hotfix deployment capability (1-hour turnaround)
+- Real-time monitoring and alerting
+- Immediate response to player-impacting issues
+- Support for live events and promotions
+
+Peak periods: Enhanced support for:
+- Launch week
+- Major content updates
+- Seasonal events (Christmas, Halloween, etc.)
+- Esports tournaments or competitions
+
+GOVERNANCE AND REPORTING
+
+Agile delivery:
+- Two-week sprints
+- Daily standups with game team
+- Sprint demos to stakeholders
+- Retrospectives and continuous improvement
+
+Weekly reporting:
+- Sprint progress and velocity
+- Platform performance metrics
+- Player metrics (during soft launch)
+- Issues and risks
+
+Daily reporting (during launch):
+- Player counts and growth
+- Revenue and IAP metrics
+- Crash rate and stability
+- Performance and latency
+- Critical issues and resolutions
+
+Post-launch reviews:
+- Weekly for first month
+- Monthly for warranty period
+- Lessons learned and optimization
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts
+Dispute resolution: Mediation, then arbitration
+
+Confidentiality: 5 years post-termination (game design and player data)
+Assignment: Prohibited without consent
+Subcontracting: Limited; requires approval
+
+App store relationships: Service Provider acknowledges Apple and Google relationships critical; will not jeopardize.
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: October 1, 2025
+Company Registration: 12345678
+
+CLIENT:
+Rockstar Games UK Ltd
+Thomas Wright, VP of Technology
+Date: October 1, 2025
+Company Registration: 03565988

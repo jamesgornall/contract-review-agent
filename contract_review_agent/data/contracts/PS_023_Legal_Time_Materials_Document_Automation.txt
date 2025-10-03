@@ -1,0 +1,291 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-023
+Contract Type: Time and Materials
+
+Client: Clifford Chance LLP
+Project: Legal Document Automation Platform
+Start Date: August 1, 2025
+Duration: 7 months
+Location: Hybrid - London (Canary Wharf)
+
+SCOPE
+
+Development of AI-powered legal document automation platform for contract generation, review, and compliance checking supporting 3,500+ lawyers globally.
+
+RATE CARD
+
+Daily rates (per 8-hour day):
+- Legal Tech Solutions Architect: £1,400/day
+- Senior AI/ML Engineer: £1,200/day
+- Senior Full-stack Developer: £1,000/day
+- Legal Process Analyst: £900/day
+- DevOps Engineer: £850/day
+- UX Designer (Legal Tech): £800/day
+
+Hourly rates: Daily / 8 (minimum 4-hour blocks)
+
+INDICATIVE TEAM
+
+Phase 1 - Design (Months 1-2):
+- Legal Tech Solutions Architect (3 days/week)
+- Legal Process Analyst (full-time)
+- UX Designer (3 days/week)
+
+Phase 2 - Development (Months 3-6):
+- Senior AI/ML Engineer (full-time)
+- Senior Full-stack Developers x 2 (full-time)
+- DevOps Engineer (3 days/week)
+- Legal Process Analyst (2 days/week)
+
+Phase 3 - Pilot (Month 7):
+- All team members (reduced capacity)
+- Focus on refinement and training
+
+Estimated monthly spend: £60,000 - £95,000
+Total estimated: £550,000
+
+COMMERCIAL TERMS
+
+Billing: Monthly in arrears
+Payment: Net 30 days
+Monthly cap: £110,000
+Minimum monthly: £40,000
+
+Rate review: Annual, August 2026
+
+WORKING ARRANGEMENTS
+
+Location: Canary Wharf office
+- Hybrid: 2 days/week on-site (Tuesday-Wednesday)
+- Remote: 3 days/week
+- Lawyer workshops: On-site as required
+
+Hours: Monday-Friday, 9:30 AM - 6 PM GMT
+Flexible for international time zones (US, Asia offices)
+
+Client provides:
+- Secure workspace (Law firm security requirements)
+- VPN access to firm network
+- Access to document management systems (iManage)
+- Sample contracts and templates (anonymized)
+
+LEGAL SECTOR REQUIREMENTS
+
+All resources must:
+- Pass enhanced background checks
+- Sign law firm confidentiality agreement
+- Complete anti-money laundering training
+- Understand legal professional privilege
+- Handle client matter information appropriately
+
+Technology requirements:
+- Understanding of NLP for legal documents
+- Contract lifecycle management experience
+- Legal document management systems (iManage, NetDocuments)
+- AI/ML for contract analysis
+- Legal-specific security requirements
+
+Compliance:
+- Solicitors Regulation Authority (SRA) awareness
+- Legal professional privilege protection
+- Client confidentiality (attorney-client privilege)
+- UK GDPR and Data Protection Act 2018
+- Anti-money laundering regulations
+- Cyber Essentials Plus
+- ISO 27001 information security
+
+DELIVERABLES (T&M basis)
+
+- Contract template library (150+ templates)
+- AI-powered contract generation
+- Clause library and intelligent assembly
+- Contract review and redlining automation
+- Compliance checking (regulatory, client-specific)
+- Risk identification and flagging
+- Integration with iManage DMS
+- Integration with matter management system
+- Lawyer portal for document creation
+- Client portal for contract requests
+- Analytics dashboard (contract metrics)
+
+PERFORMANCE STANDARDS
+
+Platform performance:
+- Availability: 99.9% (24/7 for global offices)
+- Document generation: <30 seconds for standard contracts
+- AI contract review: <5 minutes for typical 20-page agreement
+- Accuracy: >95% for clause identification
+- False positives (risk flagging): <10%
+
+KPIs:
+- Resource availability: 96%
+- Code quality: >90% test coverage
+- AI model accuracy improvement: 5% per month
+- Sprint delivery: Consistent velocity
+- Lawyer satisfaction: >85%
+
+TIME RECORDING
+
+Timesheets: Weekly by Friday 6 PM
+Approval: Clifford Chance Project Lead within 48 hours
+
+Overtime:
+- Extended hours for urgent client matters: 1.5x rate
+- Weekend work (pre-approved): 2x rate
+- International time zone meetings: Standard rate
+
+EXPENSES
+
+Reimbursable:
+- AI/ML training data services: Pre-approved, at cost
+- Specialist NLP tools: Pre-approved, at cost
+- Travel to regional offices: Standard class
+
+Not reimbursable:
+- Commute to Canary Wharf
+- Standard development tools
+- Generic subscriptions
+
+INTELLECTUAL PROPERTY
+
+Platform code: Clifford Chance owns upon payment
+Contract templates: Clifford Chance owns (contain firm IP)
+AI models: Clifford Chance owns
+
+Service Provider retains:
+- Generic document automation frameworks
+- NLP libraries and tools (non-legal specific)
+
+Open source: Limited use due to client confidentiality concerns; all OSS must be approved.
+
+CONFIDENTIALITY AND LEGAL PRIVILEGE
+
+Enhanced confidentiality:
+- Attorney-client privileged information
+- Client deal and transaction information
+- Firm precedents and know-how
+- Pricing and fee arrangements
+- Matter-specific information
+
+Legal professional privilege:
+- All work product may be privileged
+- No disclosure without firm approval
+- Privilege logs maintained
+- Immediate reporting of any disclosure
+
+Client matter data:
+- Access only as strictly necessary
+- No client names or matter details in code/documentation
+- Anonymization required for testing
+- Retention: No retention of client data post-project
+
+Confidentiality obligations: Indefinite (never expires)
+
+WARRANTIES AND LIABILITY
+
+Service Provider warrants:
+- Legal technology expertise
+- AI/ML best practices
+- Confidentiality and privilege protection
+- No unauthorized disclosure
+- 90-day warranty on delivered platform
+
+Liability cap:
+- General liability: £2,000,000
+- Breach of confidentiality: £10,000,000
+- Breach of legal privilege: £10,000,000
+- No cap for gross negligence or willful disclosure
+
+Insurance:
+- Professional Indemnity: £10,000,000 (law firm requirement)
+- Cyber Liability: £10,000,000
+- Public Liability: £5,000,000
+
+Law firm impact: Service Provider acknowledges:
+- Breach of privilege can lead to malpractice claims
+- Client confidentiality breaches can result in regulatory sanctions and client losses
+- Clifford Chance handles matters worth £billions; enhanced liability reflects this
+
+TERMINATION
+
+For convenience:
+- Either party: 60 days notice
+- Payment for time worked
+
+For cause:
+- Material breach: 10 days to cure
+- Confidentiality breach: Immediate termination
+- Privilege disclosure: Immediate termination
+- Security incident: Immediate termination
+
+Post-termination obligations:
+- Return ALL client-related materials immediately
+- Permanent deletion of client data (certified)
+- Ongoing confidentiality obligations (indefinite)
+- No discussion of client matters (ever)
+
+REGULATORY COMPLIANCE
+
+SRA (Solicitors Regulation Authority):
+- Support for SRA compliance requirements
+- Understanding of solicitor obligations
+- No actions that could compromise firm's SRA authorization
+
+AML (Anti-Money Laundering):
+- Complete AML training
+- Awareness of suspicious activity reporting
+- Support for client due diligence processes
+
+CHANGE MANAGEMENT
+
+Flexible resourcing:
+- Team changes: 15 days notice
+- Skill adjustments: 20 days notice
+- Scale up/down: 10 days notice
+
+Extensions:
+- Option to extend 3 months
+- 60 days notice required
+- Pricing renegotiated if beyond 12 months
+
+GOVERNANCE
+
+Agile delivery:
+- Two-week sprints
+- Sprint planning with legal stakeholders
+- Fortnightly demos to partner group
+
+Reporting:
+- Weekly: Sprint progress, timesheet summary
+- Monthly: Cost report, AI accuracy metrics, lawyer feedback
+- Milestone reviews: Partner steering committee
+
+Lawyer engagement:
+- Weekly office hours for lawyer questions
+- Monthly training sessions
+- Quarterly roadmap reviews
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts
+Dispute resolution: Mediation (confidential), arbitration
+
+Confidentiality: Indefinite for client matters and privileged information
+Assignment: Prohibited without written consent
+Subcontracting: Requires approval; subcontractors subject to same obligations
+
+Conflicts of interest: Service Provider confirms no conflicts with Clifford Chance clients or competitors.
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: August 1, 2025
+
+CLIENT:
+Clifford Chance LLP
+Martin Hayes, Chief Innovation Officer
+Date: August 1, 2025
+SRA Number: 00177663

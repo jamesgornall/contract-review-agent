@@ -1,0 +1,316 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-029
+Contract Type: Fixed Deliverable
+Regulatory Classification: FCA Regulated - UK Only Resources
+
+Client: Sterling Investment Bank PLC (FCA Registered)
+Service Provider: Qodea Professional Services Ltd
+Project: High-Frequency Trading Platform Upgrade
+Start Date: August 1, 2024
+
+1. UK EMPLOYMENT AND RESIDENCY REQUIREMENTS
+
+**MANDATORY UK-ONLY RESOURCE REQUIREMENT**
+
+1.1 All Personnel Must Be UK-Employed
+Due to Financial Conduct Authority (FCA) regulatory requirements and the sensitive nature of trading systems, ALL personnel assigned to this project MUST be:
+
+a) **UK Employment Status**
+   - Direct employees of Service Provider's UK legal entity
+   - Subject to UK PAYE tax system with evidence provided monthly
+   - Full UK National Insurance contributions paid
+   - Employed under UK employment law contracts
+   - NO contractors, freelancers, or third-party staff
+
+b) **UK Residency Requirements**
+   - Primary residency in the United Kingdom
+   - Physically present in UK during all working hours
+   - Minimum 5 years continuous UK residency (for senior roles)
+   - UK residential address verified
+   - UK-issued bank accounts for salary payments
+
+c) **Prohibited Arrangements**
+   EXPLICITLY PROHIBITED:
+   - Offshore development or support of any kind
+   - Remote working from outside UK borders
+   - Overseas subcontractors or consultants
+   - Resources employed by non-UK entities
+   - Vacation or travel working from abroad
+
+1.2 FCA Regulatory Compliance
+As this project involves FCA-regulated trading systems:
+- All resources must pass FCA fitness and propriety assessments
+- Enhanced DBS (Disclosure and Barring Service) checks required
+- Financial crime training mandatory (UK-specific)
+- Senior Manager & Certification Regime (SMCR) awareness
+- Market abuse regulations training (UK MAR)
+
+1.3 Data Sovereignty Requirements
+- All development work performed on UK soil
+- No code or data transfers to non-UK locations
+- UK-based source control repositories only
+- UK data centers for all environments (dev, test, prod)
+- IP addresses must resolve to UK locations
+
+2. PROJECT SCOPE AND DELIVERABLES
+
+Fixed-price delivery of enhanced trading platform with ultra-low latency requirements.
+
+Phase 1 - Analysis and Architecture (6 weeks): £280,000
+- Current system performance audit
+- Latency optimization strategy
+- Regulatory compliance review
+- Architecture redesign
+- Risk assessment and mitigation plan
+
+Phase 2 - Core Development (16 weeks): £960,000
+- Order management system enhancement
+- Real-time market data processing
+- Algorithmic trading engine optimization
+- Risk management module
+- Transaction reporting (UK MIFID II compliance)
+
+Phase 3 - Integration and Testing (8 weeks): £440,000
+- Integration with London Stock Exchange connectivity
+- Disaster recovery testing
+- Performance and load testing
+- Regulatory compliance testing
+- Security penetration testing (CREST-certified UK firm)
+
+Phase 4 - Deployment and Support (4 weeks): £200,000
+- Production deployment (London data center)
+- Staff training (FCA compliance focus)
+- Documentation handover
+- 60-day hypercare support
+- Regulatory audit support
+
+TOTAL FIXED PRICE: £1,880,000
+
+3. PAYMENT SCHEDULE
+
+Payments (all subject to UK VAT):
+- Contract signature: £376,000 (20%)
+- Phase 1 completion: £470,000 (25%)
+- Phase 2 completion: £564,000 (30%)
+- Phase 3 completion: £282,000 (15%)
+- Final acceptance: £188,000 (10%)
+
+Payment Terms: NET 45 days
+All invoices must include UK VAT registration number and be compliant with UK tax regulations.
+
+4. TEAM COMPOSITION - ALL UK-EMPLOYED
+
+Service Provider shall assign UK-employed personnel only:
+- 1 x Solutions Architect (100% FTE, UK resident 10+ years)
+- 2 x Senior Trading Systems Engineers (100% FTE each, FCA experience)
+- 2 x Senior Software Engineers (100% FTE each, financial services cleared)
+- 1 x Performance Engineer (100% FTE, low-latency specialist)
+- 1 x Security Architect (50% FTE, CREST qualified, UK SC cleared)
+- 1 x Compliance Specialist (25% FTE, ex-FCA preferred)
+- 1 x Project Manager (50% FTE, PMP certified)
+
+All CVs and Right to Work documentation to be provided before contract execution.
+
+5. SECURITY CLEARANCE AND VETTING
+
+Mandatory for ALL resources:
+- Enhanced DBS check (financial services level)
+- Credit and financial background check (past 6 years)
+- Employment history verification (10 years)
+- Professional reference checks (minimum 2)
+- Social media background check
+- FCA regulatory reference checks
+- Ongoing monitoring throughout contract
+
+Senior roles additionally require:
+- Counter-terrorism checks
+- Verify 10 years UK residency
+- International travel declarations
+
+6. WORKING LOCATION - UK ONLY
+
+Primary Location: Client Trading Floor
+Address: 25 Cannon Street, London EC4M 5TA
+
+Attendance Requirements:
+- Weeks 1-34: Mandatory on-site attendance (5 days/week)
+  Trading floor access required for understanding business context
+
+- No remote working during market hours (7 AM - 5 PM UK time)
+- Weekend work (when required): On-site only
+- Out-of-hours deployments: On-site at London data center
+
+Security Requirements:
+- Escorted access to trading floor
+- Bank-issued devices only (no personal devices)
+- No phones or cameras in secure areas
+- All emails monitored and archived (UK regulation)
+- Internet access via bank proxy only
+
+7. ACCEPTANCE CRITERIA
+
+System Performance Requirements:
+- Order execution latency: < 50 microseconds (99th percentile)
+- Market data processing: < 10 microseconds
+- System availability: 99.99% during market hours
+- Zero data loss or corruption
+- LSE connectivity: 100% uptime during trading hours
+
+Regulatory Compliance:
+- Full MIFID II transaction reporting capability
+- FCA Systems and Controls rules compliance
+- Bank of England stress testing compatibility
+- Audit trail for all trades (7 years retention)
+- Senior Managers Regime compliance
+
+Testing Requirements:
+- Penetration testing by CREST-certified UK firm
+- Load testing: 10x current peak volume
+- Disaster recovery: < 30 seconds failover
+- Regulatory dry-run with FCA-approved scenarios
+
+8. REGULATORY AND COMPLIANCE
+
+FCA Regulations:
+- Senior Managers & Certification Regime (SMCR) compliance
+- SYSC (Systems and Controls) requirements met
+- Market Abuse Regulation (UK MAR) controls
+- Transaction reporting (RTS 22, RTS 23)
+- Best execution requirements (MIFID II)
+
+Data Protection:
+- UK GDPR compliance
+- Data minimization principles
+- Right to erasure processes
+- Data breach notification (72 hours)
+- UK Information Commissioner's Office (ICO) registered
+
+Financial Crime:
+- Anti-Money Laundering (AML) procedures
+- Sanctions screening (UK OFSI lists)
+- Know Your Customer (KYC) processes
+- Suspicious Activity Report (SAR) awareness
+
+9. INTELLECTUAL PROPERTY
+
+All deliverables become exclusive property of Client, including:
+- Source code and binaries
+- System architecture and designs
+- Algorithms and trading logic
+- Documentation and procedures
+- Test cases and scripts
+- Performance optimization techniques
+
+Service Provider retains: Generic software development knowledge only
+
+10. OFFSHORE WORK PROHIBITION
+
+Service Provider EXPLICITLY WARRANTS that:
+- No offshore development will occur
+- No code will be written outside the UK
+- No testing performed outside UK
+- No documentation created abroad
+- No support provided from non-UK locations
+- No data accessed from outside UK
+
+Breach Consequences:
+- Immediate contract termination
+- Forfeiture of all unpaid fees
+- Return of all payments received
+- Liquidated damages: £50,000 per day of non-compliance
+- FCA regulatory reporting
+- Potential legal action and industry blacklisting
+
+11. AUDIT AND VERIFICATION RIGHTS
+
+Client may audit with 48 hours notice:
+- Employment contracts and payroll records
+- Resource physical locations (spot checks)
+- UK PAYE and National Insurance evidence
+- Source control commit logs (IP geolocation)
+- VPN access logs (must show UK IPs only)
+- Time tracking and attendance records
+
+Service Provider must maintain:
+- Daily attendance logs with location confirmation
+- IP address logs for all system access
+- Bi-weekly certification of UK employment status
+- Monthly payroll evidence for all resources
+
+12. IR35 AND EMPLOYMENT STATUS
+
+Service Provider confirms:
+- All resources determined as "inside IR35"
+- Appropriate PAYE deductions made
+- Employer National Insurance paid
+- Off-Payroll Working Rules complied with
+- Employment status documentation available for HMRC inspection
+
+Client is NOT responsible for employment determinations (Service Provider is employer).
+
+13. LIABILITY AND INSURANCE
+
+Liability Cap: £10,000,000 (uncapped for fraud, data breach, or employment misrepresentation)
+
+Required Insurance (UK insurers, Lloyd's of London approved):
+- Professional Indemnity: £25,000,000
+- Cyber & Data Breach: £15,000,000
+- Employers' Liability: £10,000,000 (UK legal requirement)
+- Public Liability: £5,000,000
+- Technology Errors & Omissions: £20,000,000
+
+14. TERMINATION
+
+Notice Periods:
+- Client: 60 days (convenience), immediate (cause)
+- Service Provider: 90 days (convenience only)
+
+Immediate Termination Grounds:
+- Employment requirement breach
+- Offshore work discovered
+- Security or data breach
+- FCA regulatory violation
+- False documentation
+
+Upon Termination:
+- Immediate cessation of all work
+- Secure handover within 5 days
+- FCA regulatory notification if required
+- Security debriefs for all personnel
+- Client pays only for accepted deliverables
+
+15. CONFIDENTIALITY
+
+Trading system details are HIGHLY CONFIDENTIAL:
+- Disclosure prohibition: Unlimited duration
+- Trading algorithms: Perpetual secrecy
+- Client trading positions: Absolute confidentiality
+- Financial results: Never to be disclosed
+
+Breach consequences include legal action and FCA reporting.
+
+16. GENERAL PROVISIONS
+
+Governing Law: England and Wales
+Jurisdiction: High Court of Justice, London
+Dispute Resolution: London Court of International Arbitration
+FCA Oversight: Subject to FCA inspection and audit rights
+Parliamentary Disclosure: Subject to Parliamentary Commissioner inquiry
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Signed: Sarah Mitchell, Managing Director
+Date: August 1, 2024
+Company Registration: 12345678 (England & Wales)
+FCA Reference Number: 987654 (Appointed Representative)
+
+CERTIFICATION: I certify that all resources assigned will be UK-employed and UK-resident throughout contract performance. No offshore or overseas resources will be used under any circumstances.
+
+CLIENT:
+Sterling Investment Bank PLC
+Signed: William Thompson, Chief Information Officer
+Date: August 1, 2024
+Company Registration: 11223344
+FCA Registration Number: 123456

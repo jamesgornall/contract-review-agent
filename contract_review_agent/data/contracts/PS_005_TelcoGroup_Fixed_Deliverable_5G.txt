@@ -1,0 +1,75 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-005
+Contract Type: Fixed Deliverable
+Client: TelcoGroup UK Ltd
+Project: 5G Network Operations Center (NOC) Modernization
+
+PROJECT SCOPE:
+Design and implement next-generation NOC platform for 5G network monitoring and management
+
+DELIVERABLES:
+Phase 1 - Requirements & Design (6 weeks): £180,000
+- Current state assessment
+- Future state architecture
+- Integration requirements
+- Security and compliance framework
+
+Phase 2 - Core Platform Build (12 weeks): £420,000
+- Real-time monitoring system
+- Automated incident response
+- Performance analytics
+- Integration with existing BSS/OSS
+
+Phase 3 - Advanced Features (8 weeks): £280,000
+- AI-powered anomaly detection
+- Predictive maintenance
+- Capacity planning tools
+- Custom reporting engine
+
+Phase 4 - Deployment & Training (4 weeks): £120,000
+- Production deployment
+- User training (3 sessions)
+- Documentation suite
+- 30-day hypercare support
+
+TOTAL FIXED PRICE: £1,000,000
+
+PAYMENT SCHEDULE:
+- Contract signing: £200,000 (20%)
+- Phase 1 complete: £250,000 (25%)
+- Phase 2 complete: £300,000 (30%)
+- Phase 3 complete: £150,000 (15%)
+- Final acceptance: £100,000 (10%)
+
+TIMELINE:
+Start: May 1, 2024
+Completion: November 30, 2024
+Duration: 30 weeks
+
+WORKING LOCATION:
+- Weeks 1-2: On-site (Slough, UK)
+- Weeks 3-26: Remote with bi-weekly on-site visits
+- Weeks 27-30: On-site for deployment
+
+TEAM:
+- 1 x Enterprise Architect (30% FTE)
+- 2 x Senior Solution Architects (100% FTE)
+- 3 x Senior Engineers (100% FTE)
+- 2 x Network Engineers (100% FTE)
+- 1 x UX Designer (50% FTE)
+- 1 x Project Manager (50% FTE)
+
+ACCEPTANCE CRITERIA:
+- System handles 10,000+ network elements
+- Response time < 2 seconds for critical alerts
+- 99.9% uptime SLA
+- Passes UAT with < 5 critical defects
+- Complete documentation delivered
+
+KEY TERMS:
+- Change requests: T&M at £900/day blended rate
+- Warranty: 6 months post-acceptance
+- Liability cap: £1,500,000
+- 45-day payment terms
+- Ofcom compliance required
+- ISO 27001 certified processes

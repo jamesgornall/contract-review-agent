@@ -1,0 +1,298 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-027
+Contract Type: Fixed Deliverable
+
+Service Provider: Qodea Professional Services Ltd
+Client: British Red Cross Society
+Project: Digital Fundraising and Donor Management Platform
+Contract Date: December 1, 2025
+
+PROJECT OVERVIEW
+
+Development of integrated digital fundraising platform supporting online donations, donor relationship management, and campaign management for UK's largest humanitarian charity.
+
+DELIVERABLES
+
+Phase 1 - Discovery and Design (5 weeks)
+- Donor journey mapping and user research
+- Fundraising requirements analysis
+- CRM integration requirements (Salesforce)
+- Payment gateway evaluation and selection
+- Gift Aid automation requirements
+- Legacy giving and major donor workflows
+- Volunteer engagement requirements
+- Data migration strategy
+
+Phase 2 - Platform Development (10 weeks)
+- Donation platform (web and mobile responsive)
+- Payment processing (Stripe, PayPal, Direct Debit)
+- Donor CRM integration (Salesforce NPSP)
+- Gift Aid automation and HMRC integration
+- Recurring donation management
+- Campaign management system
+- Fundraising event platform
+- Tribute fund pages (in memory donations)
+- Corporate partnership portal
+- Email marketing integration (Mailchimp)
+
+Phase 3 - Testing and Launch (4 weeks)
+- User acceptance testing with fundraising team
+- Donor testing group (100 supporters)
+- Payment processing testing
+- Gift Aid validation
+- Security testing
+- PCI DSS compliance validation
+- Accessibility testing (WCAG 2.1 AA)
+- Soft launch and phased rollout
+
+COMMERCIAL TERMS
+
+Total fixed price: £285,000
+
+Payment schedule:
+- Contract signing: £42,750 (15%)
+- Phase 1 complete: £57,000 (20%)
+- Phase 2 complete: £114,000 (40%)
+- Phase 3 complete: £57,000 (20%)
+- 30 days post-launch: £14,250 (5%)
+
+Payment terms: Net 30 days
+
+Charity discount: 25% reduction applied (standard rate £380,000)
+
+TIMELINE
+
+Start: January 6, 2026
+Launch: April 30, 2026
+Duration: 17 weeks (4 months)
+
+Milestones:
+- Phase 1 sign-off: February 9, 2026
+- Phase 2 sign-off: April 19, 2026
+- Launch: April 30, 2026
+
+Launch timing: Before major summer fundraising campaign
+
+WORKING ARRANGEMENTS
+
+Location: Hybrid - London HQ (Moorgate)
+- Discovery: 2 days/week on-site
+- Build: 1 day/week on-site
+- Testing: 2 days/week on-site
+
+Hours: Monday-Friday, 9:30 AM - 5:30 PM GMT
+
+Charity working practices: Respect for humanitarian mission and values
+
+TEAM
+
+- 1 x Charity Tech Solutions Architect (40%)
+- 1 x Senior Full-stack Developer (100%)
+- 1 x Full-stack Developer (100%)
+- 1 x CRM Integration Specialist (60%)
+- 1 x QA Engineer (80%)
+- 1 x Project Manager (30%)
+
+ACCEPTANCE CRITERIA
+
+Platform acceptance:
+- 99.5% uptime during 30-day pilot
+- Donation processing <5 seconds
+- Zero payment processing errors
+- Gift Aid automation working correctly
+- PCI DSS Level 1 compliance certified
+- WCAG 2.1 AA accessibility certified
+- Donor satisfaction >90%
+
+CHARITY SECTOR COMPLIANCE
+
+Regulatory requirements:
+- Charity Commission regulations
+- Fundraising Regulator standards
+- HMRC Gift Aid regulations
+- PCI DSS Level 1 (payment security)
+- UK GDPR for donor data
+- PECR (Privacy and Electronic Communications)
+- Direct Debit scheme rules
+- Fundraising Code of Practice
+
+Ethical fundraising:
+- Vulnerable donor protection
+- Transparent donation allocation
+- GDPR consent for communications
+- Preference management (opt-in/opt-out)
+- Data protection by design
+
+PERFORMANCE REQUIREMENTS
+
+Donation platform:
+- Availability: 99.5% (24/7 for global donors)
+- Donation processing: <5 seconds
+- Payment success rate: >99%
+- Page load time: <2 seconds
+- Mobile optimization: Full functionality
+- Concurrent donors: 5,000 during emergency appeals
+
+Gift Aid:
+- Automated Gift Aid declaration capture
+- HMRC submission file generation
+- 25% additional revenue for eligible donations
+- Compliance with HMRC Gift Aid rules
+
+SUPPORT AND WARRANTY
+
+Launch support: 30 days
+- Response time: 4 hours for critical issues
+- Support hours: 9 AM - 6 PM, Monday-Friday
+- Emergency appeals: 24/7 on-call available
+
+Warranty: 90 days from launch
+- Bug fixes and corrections included
+- Performance optimization
+- Payment processing support
+- Gift Aid automation support
+
+Emergency appeal support: Service Provider will provide best-efforts 24/7 support during major humanitarian emergencies at no additional cost (goodwill).
+
+CHANGE MANAGEMENT
+
+Scope changes:
+- Formal change request
+- Impact assessment within 5 days
+- Pricing: T&M at £750/day blended rate (charity rate)
+- Timeline impact assessed
+
+Additional integrations:
+- Each integration: £8,000 - £15,000 depending on complexity
+
+INTELLECTUAL PROPERTY
+
+Platform code: Charity owns upon payment
+Donor data: Charity property
+CRM configurations: Charity owns
+
+Open source: Charity may open-source non-donor-specific components to benefit wider charity sector
+
+Service Provider retains:
+- Generic fundraising frameworks
+- Reusable charity sector tools
+
+DONOR DATA PROTECTION
+
+Enhanced data protection:
+- Donor personal and financial data
+- Gift Aid declarations (retain 6 years)
+- Donation history and preferences
+- Vulnerable donor flagging
+- Legacy giving intentions (sensitive)
+
+GDPR compliance:
+- Lawful basis for processing (consent/legitimate interest)
+- Data subject rights (access, erasure, portability)
+- Marketing consent management
+- Third-party data sharing controls
+- Data retention policies
+
+Donor trust: Critical to maintain donor confidence and charity reputation
+
+PAYMENT PROCESSING
+
+Payment methods:
+- Credit/debit cards (Visa, Mastercard, Amex)
+- PayPal and digital wallets
+- Direct Debit (GoCardless)
+- Bank transfer
+- Apple Pay and Google Pay
+
+PCI DSS compliance:
+- Level 1 merchant requirements
+- Annual security assessment
+- Quarterly vulnerability scans
+- Secure payment tokenization
+- No storage of card data
+
+Transaction fees: Platform optimized to minimize fees and maximize donation value to charity
+
+INSURANCE AND LIABILITY
+
+Required insurance:
+- Professional Indemnity: £3,000,000
+- Cyber Liability: £3,000,000
+- Public Liability: £3,000,000
+
+Liability cap:
+- General liability: £1,000,000
+- Payment processing errors: £2,000,000
+- Donor data breach: £3,000,000
+
+Charity impact: Service Provider acknowledges charity depends on donor trust; data breaches or payment failures can severely impact fundraising and humanitarian work.
+
+TERMINATION
+
+For convenience:
+- Either party: 45 days notice
+- No termination fees (charity consideration)
+
+For cause:
+- Material breach: 15 days to cure
+- Payment processing failure: 10 days to cure
+- Data breach: Immediate (with handover)
+
+Effect of termination:
+- All code and IP transfers to charity
+- Donor data returned securely
+- Payment for accepted work only
+- Handover support (up to 30 days)
+
+GOVERNANCE
+
+Weekly:
+- Progress update to fundraising team
+- Sprint demo (agile methodology)
+
+Monthly:
+- Steering committee with charity leadership
+- Donor representative feedback session
+
+Reporting:
+- Weekly: Sprint progress
+- Monthly: Project status, risks, budget
+- User testing: Donor feedback summaries
+
+CHARITY-SPECIFIC PROVISIONS
+
+Mission alignment:
+- Service Provider supports British Red Cross humanitarian mission
+- Staff volunteering: 2 days offered at no cost for humanitarian projects
+- Pro bono support: Emergency appeal platform support during major disasters
+
+Social value:
+- Skills transfer to charity IT team
+- Knowledge sharing with other charities
+- Contribution to charity sector digital capability
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts
+Dispute resolution: Mediation (charity sector mediation service)
+
+Confidentiality: 5 years (donor data obligations survive indefinitely)
+Assignment: Requires written approval
+Subcontracting: Limited; requires approval
+
+Charity Commission: Service Provider acknowledges British Red Cross regulated by Charity Commission
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: December 1, 2025
+Company Registration: 12345678
+
+CLIENT:
+British Red Cross Society
+Helen Morrison, Director of Digital and Innovation
+Date: December 1, 2025
+Charity Registration: 220949

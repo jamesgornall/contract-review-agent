@@ -1,0 +1,300 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-012
+Contract Type: Fixed Deliverable
+
+Service Provider: Qodea Professional Services Ltd
+Client: National Logistics Group Ltd
+Project: Warehouse Management System Modernization
+Contract Date: September 1, 2024
+
+PROJECT SCOPE
+
+Replacement of legacy warehouse management system across 12 UK distribution centers with cloud-based WMS integrated with existing ERP and transportation management systems.
+
+DELIVERABLES
+
+Phase 1 - Discovery and Planning (Weeks 1-6)
+- Current state assessment across 12 sites
+- Warehouse operations process mapping
+- Integration requirements (SAP ERP, TMS, carrier systems)
+- Data migration strategy (10+ years historical data)
+- Pilot site selection and readiness assessment
+- Implementation roadmap and wave planning
+
+Phase 2 - Core System Build (Weeks 7-16)
+- Cloud WMS platform configuration
+- SAP ERP integration (inbound/outbound orders)
+- TMS integration for shipping
+- Carrier API integrations (DPD, DHL, Royal Mail, Hermes)
+- Mobile picking application (RF scanners and tablets)
+- Inventory management workflows
+- Returns processing automation
+- Reporting and analytics dashboards
+
+Phase 3 - Pilot Implementation (Weeks 17-24)
+- Pilot site deployment (Manchester DC)
+- Data migration and validation
+- User training (50 warehouse staff)
+- Parallel running (2 weeks)
+- Go-live support (on-site, 2 weeks)
+- Performance tuning and optimization
+- Lessons learned and refinement
+
+Phase 4 - Rollout (Weeks 25-44)
+- Wave 1: 4 sites (Weeks 25-32)
+- Wave 2: 4 sites (Weeks 33-40)
+- Wave 3: 3 sites (Weeks 41-44)
+- Training delivery (400+ users)
+- Data migration for all sites
+- Hypercare support per site (1 week each)
+- Knowledge transfer and handover
+
+COMMERCIAL TERMS
+
+Total fixed price: £1,250,000
+
+Payment schedule:
+- Contract execution: £187,500 (15%)
+- Phase 1 completion: £250,000 (20%)
+- Phase 2 completion: £375,000 (30%)
+- Phase 3 completion: £250,000 (20%)
+- Phase 4 completion: £187,500 (15%)
+
+Payment terms: Net 45 days from invoice
+
+TIMELINE
+
+Project start: October 1, 2024
+Project completion: July 31, 2025
+Total duration: 44 weeks (10 months)
+
+Key dates:
+- Phase 1 complete: November 12, 2024
+- Phase 2 complete: January 21, 2025
+- Pilot go-live: March 17, 2025
+- Final site live: July 31, 2025
+
+WORKING ARRANGEMENTS
+
+Location: Multi-site across UK
+- Discovery: 50% on-site visits to all 12 DCs
+- Build phase: 80% remote from Service Provider offices
+- Pilot: 100% on-site Manchester DC (2 weeks pre/post go-live)
+- Rollout: On-site at each DC 1 week before/after go-live
+
+Service Provider provides:
+- Project office at Manchester DC during pilot
+- Remote support infrastructure
+- Training facilities (or Client provides)
+
+Client provides:
+- Site access and security clearances
+- Test devices (RF scanners, tablets, printers)
+- Cloud environment (Azure tenant)
+- Network connectivity at all sites
+
+TEAM COMPOSITION
+
+- 1 x WMS Implementation Lead (40% allocation)
+- 2 x Senior WMS Consultants (100% allocation)
+- 1 x Integration Architect (60% allocation)
+- 2 x Integration Developers (100% allocation)
+- 1 x Data Migration Specialist (80% Weeks 1-24)
+- 2 x Training Specialists (100% Weeks 18-44)
+- 1 x Change Manager (50% allocation)
+- 1 x Project Manager (60% allocation)
+
+Team members travel to sites as required for implementations.
+
+ACCEPTANCE CRITERIA
+
+Phase acceptance:
+- All deliverables complete per specifications
+- Integration testing successful (zero critical defects)
+- Performance testing passed (500 picks/hour per user)
+- Client sign-off within 10 business days
+
+Site go-live acceptance:
+- All warehouse processes operational
+- Integration with SAP confirmed
+- Inventory accuracy >99.5%
+- No critical defects outstanding
+- Users trained and operational
+- 7 days stable operation
+
+Final acceptance:
+- All 12 sites live and stable
+- Knowledge transfer complete
+- Documentation delivered
+- 30-day stability period (all sites >99% uptime)
+
+PERFORMANCE REQUIREMENTS
+
+System performance:
+- Uptime: 99.5% during warehouse operating hours (6 AM - 10 PM)
+- Response time: <2 seconds for 95% of transactions
+- Peak capacity: 1,000 concurrent users across all sites
+- Integration latency: <30 seconds for order sync
+
+Business performance:
+- Picking accuracy: >99.8%
+- Putaway accuracy: >99.9%
+- Inventory accuracy: >99.5%
+- On-time dispatch: >98%
+
+SUPPORT AND WARRANTY
+
+Go-live support:
+- On-site support: 1 week per site
+- Hypercare: 2 weeks post go-live per site (8 AM - 8 PM, 7 days)
+- Critical issue response: 1 hour
+- On-site presence for issue resolution as needed
+
+Warranty period: 120 days from final acceptance
+- Bug fixes and defect resolution included
+- System performance guaranteed
+- Support hours: 7 AM - 7 PM, Monday-Saturday
+- Critical issue response: 2 hours
+- After-hours emergency support: Available
+
+Post-warranty support: Available under separate AMS contract
+
+CHANGE MANAGEMENT
+
+Scope changes via formal CR process:
+- Written change request
+- Impact assessment within 5 business days
+- Pricing: T&M at £875/day blended rate
+- Timeline impact assessed
+- Client approval required before proceeding
+
+Site additions/removals:
+- Additional sites: £75,000 per site
+- Removed sites: Credit of £65,000 per site
+
+LOGISTICS INDUSTRY COMPLIANCE
+
+Service Provider shall ensure:
+- Integration with UK customs systems (post-Brexit requirements)
+- Dangerous goods handling compliance (ADR regulations)
+- Temperature-controlled storage tracking (pharmaceutical logistics)
+- GS1 barcode standards compliance
+- UK GDPR for customer delivery data
+- ISO 28000 supply chain security (where applicable)
+
+INTELLECTUAL PROPERTY
+
+WMS configuration and customizations: Client owns upon full payment
+Integration code: Client owns upon full payment
+Service Provider retains: Generic accelerators and frameworks
+
+Training materials: Licensed to Client for internal use
+Documentation: Client owns
+
+DATA MIGRATION
+
+Service Provider responsible for:
+- Data extraction from legacy WMS
+- Data cleansing and validation
+- Data mapping and transformation
+- Test migrations (2 per site)
+- Production migration
+- Data reconciliation and sign-off
+
+Client responsible for:
+- Legacy system access and support
+- Data quality issues in source systems (best efforts to remediate)
+- Business validation of migrated data
+- Sign-off on data accuracy
+
+Data retention: Historical data archived and accessible for 7 years
+
+TRAINING
+
+Training delivery included:
+- Train-the-trainer sessions (10 Client super-users)
+- End-user training (450 warehouse operatives)
+- System administration training (Client IT team)
+- Training materials and user guides
+- Post-go-live refresher sessions
+
+Training format:
+- Hands-on in warehouse environment
+- Groups of 10-15 per session
+- Repeated sessions per site as needed
+- Translated materials if required (Polish, Romanian)
+
+TERMINATION
+
+For convenience:
+- Client: 60 days notice; payment of 30% remaining contract value
+- Service Provider: 90 days notice
+
+For cause:
+- Material breach: 20 days to cure
+- Repeated failure to meet milestones: 30 days notice
+- Insolvency: Immediate termination
+
+Effect of termination:
+- Payment for completed phases
+- Work in progress (pro-rated)
+- Access to code/configurations to date
+- Handover period (up to 30 days)
+
+INSURANCE AND LIABILITY
+
+Required insurance:
+- Professional Indemnity: £5,000,000
+- Public Liability: £5,000,000
+- Product Liability: £5,000,000
+
+Liability cap:
+- General liability: £1,250,000 (contract value)
+- Data loss/business interruption: £3,000,000
+- No cap for gross negligence or willful misconduct
+
+Business continuity: Service Provider shall maintain disaster recovery and business continuity plans.
+
+GOVERNANCE AND REPORTING
+
+Weekly:
+- Progress reports against plan
+- Issue and risk log
+- Upcoming activities and dependencies
+
+Monthly:
+- Steering committee meeting
+- Budget vs actual
+- Milestone tracking
+- Change request status
+
+Phase gates:
+- Formal review before phase completion
+- Go/no-go decision for next phase
+- Lessons learned capture
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts
+Dispute resolution: Senior management escalation, mediation, then litigation
+
+Confidentiality: 5 years post-termination
+Assignment: Prohibited without written consent
+Force majeure: Standard provisions (Client may terminate if delays >60 days)
+
+Subcontracting: Training delivery may be subcontracted with Client approval
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: September 1, 2024
+Company Registration: 12345678
+
+CLIENT:
+National Logistics Group Ltd
+Simon Parker, Chief Operating Officer
+Date: September 1, 2024
+Company Registration: 34567890

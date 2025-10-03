@@ -1,0 +1,283 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-013
+Contract Type: Fixed Resource
+
+Client: PharmaTech Solutions Ltd
+Project: GxP Compliance and Quality Systems Team
+Start Date: October 1, 2024
+Duration: 24 months
+Location: Hybrid - Cambridge Science Park
+
+RESOURCE PROVISION
+
+Service Provider shall supply specialist GxP compliance and quality systems resources to support Client's pharmaceutical manufacturing and clinical trial operations.
+
+Resources allocated:
+- 1 x GxP Quality Systems Lead (100%, full duration)
+- 1 x Computer System Validation (CSV) Specialist (100%, full duration)
+- 1 x Quality Assurance Analyst (100%, full duration)
+- 1 x Regulatory IT Specialist (100%, months 7-24)
+- 1 x Data Integrity Specialist (50%, months 4-24)
+
+Total: 3.0-4.5 FTE depending on phase
+
+COMMERCIAL TERMS
+
+Monthly fee structure:
+- Months 1-3: £52,000/month (3.0 FTE)
+- Months 4-6: £58,500/month (3.5 FTE)
+- Months 7-24: £78,000/month (4.5 FTE)
+
+Total contract value: £1,567,000
+
+Payment: Monthly in advance, net 30 days
+Price increase: Annual review, max CPI + 2.5% (reflecting specialist skills)
+
+WORKING ARRANGEMENTS
+
+Primary location: Hybrid model
+- On-site (Cambridge Science Park): 3 days/week
+- Remote: 2 days/week
+- Full week on-site during audits and inspections (approximately 6 weeks/year)
+- Flexibility for MHRA/FDA inspections
+
+Hours: Monday-Friday, 9 AM - 5:30 PM GMT
+On-call availability during inspections (compensated separately)
+
+Client provides:
+- Access to secure GxP environments
+- Quality management systems access
+- Training on Client procedures
+- Desk space and meeting rooms
+- Clean room access where required (after training)
+
+PHARMACEUTICAL COMPLIANCE REQUIREMENTS
+
+All resources must:
+- Have minimum 5 years pharmaceutical industry experience
+- Understand GxP regulations (GMP, GCP, GLP, GDP)
+- Complete Client GxP training within 30 days
+- Maintain GxP training currency
+- Pass enhanced background checks
+
+Specific qualifications required:
+- GxP Quality Lead: GAMP 5 certification, audit experience
+- CSV Specialist: GAMP 5, ISPE membership, validation lifecycle experience
+- QA Analyst: Pharmaceutical science degree or equivalent
+- Regulatory IT: GAMP 5, experience with regulatory submissions
+- Data Integrity: ALCOA+ principles, 21 CFR Part 11 knowledge
+
+RESPONSIBILITIES
+
+Service Provider shall:
+- Provide resources meeting pharmaceutical industry standards
+- Ensure GxP training maintained and current
+- Replace resources meeting same qualification criteria
+- Support audit and inspection activities
+- Maintain professional certifications (GAMP, ISPE, etc.)
+
+Client shall:
+- Provide GxP training and SOPs
+- Grant system access per ALCOA+ principles
+- Include resources in quality reviews and audits
+- Provide inspection preparation support
+- Approve resource changes
+
+DELIVERABLES AND CONTRIBUTIONS
+
+Resources will support:
+- Computer System Validation (CSV) lifecycle activities
+- GxP compliance documentation (URS, FRS, DS, IQ/OQ/PQ)
+- Change control and deviation management
+- Data integrity assessments and remediation
+- Audit support (internal, external, regulatory)
+- Quality risk management (ICH Q9)
+- Regulatory inspection readiness
+- Periodic review execution
+- SOP development and review
+- Training material development
+
+REGULATORY COMPLIANCE
+
+Mandatory compliance:
+- UK MHRA regulations (Good Manufacturing Practice)
+- FDA 21 CFR Part 11 (Electronic Records and Signatures)
+- EU GMP Annex 11 (Computerized Systems)
+- GAMP 5 (Good Automated Manufacturing Practice)
+- ICH Q9 (Quality Risk Management)
+- ICH Q10 (Pharmaceutical Quality System)
+- UK GDPR for clinical trial data
+- Data Integrity guidance (MHRA, FDA)
+
+Inspection support:
+- Resources available during MHRA/FDA inspections
+- Inspection preparation support included
+- Response to inspection observations
+- CAPA implementation support
+
+PERFORMANCE EXPECTATIONS
+
+KPIs measured quarterly:
+- Document quality: >95% first-time approval rate
+- Validation timeline adherence: >90%
+- Audit finding response: 100% within SLA
+- GxP training compliance: 100%
+- Inspection support: Zero non-conformances attributable to resources
+- System uptime: Contribute to >99.5% validated system availability
+
+Performance reviews: Quarterly with Quality Director
+
+Underperformance:
+- First instance: Improvement plan (30 days)
+- Second instance: Resource replacement required
+- Critical GxP failure: Immediate removal
+
+INTELLECTUAL PROPERTY
+
+All work product: Client owns upon creation
+GxP documentation: Client property, regulatory retention (25 years minimum)
+Validation protocols and reports: Client property
+
+Service Provider retains:
+- Generic validation templates (non-Client specific)
+- Training materials (generic)
+- Methodology and processes
+
+CONFIDENTIALITY AND DATA PROTECTION
+
+Enhanced confidentiality required:
+- Pharmaceutical trade secrets protection
+- Clinical trial data confidentiality
+- Manufacturing process protection
+- Regulatory submission confidentiality
+- Patient data protection (clinical systems)
+
+Obligations survive indefinitely for:
+- Patient data
+- Trade secrets
+- Regulatory submission data
+
+INSURANCE AND LIABILITY
+
+Required insurance:
+- Professional Indemnity: £10,000,000 (pharmaceutical industry requirement)
+- Product Liability: £10,000,000
+- Public Liability: £5,000,000
+- Cyber Liability: £5,000,000
+
+Liability cap:
+- Per incident: £5,000,000
+- Annual aggregate: £10,000,000
+- NO CAP for: Patient safety incidents, regulatory non-compliance causing product recalls, data integrity failures, gross negligence
+
+Financial impact: Service Provider acknowledges product recalls can cost £millions; enhanced liability reflects pharmaceutical industry risk.
+
+TERMINATION
+
+Termination for convenience:
+- Either party: 120 days notice (extended due to specialist nature)
+- Client: 60 days notice with payment of 40% remaining contract value
+
+Termination for cause:
+- GxP non-compliance: Immediate
+- Regulatory inspection failure: Immediate
+- Data integrity breach: Immediate
+- Material breach (other): 15 days to cure
+- Loss of required certifications: 30 days to rectify or immediate termination
+
+Post-termination obligations:
+- Resources complete current validation activities (up to 60 days)
+- Handover all GxP documentation
+- Support regulatory queries for 12 months (T&M basis)
+- Return all confidential information
+- Payment through notice period plus handover
+
+CHANGE MANAGEMENT
+
+Resource changes:
+- Notice: 90 days (due to specialist skills and compliance requirements)
+- Replacement must meet same qualifications
+- CV and qualification review by Client QA
+- 4-week handover period for critical roles
+- No fee reduction during handover
+
+FTE adjustments:
+- Increase: 60 days notice (subject to resource availability)
+- Decrease: 90 days notice
+- Pro-rated fee adjustments
+
+REGULATORY INSPECTION SUPPORT
+
+Inspection support included:
+- MHRA inspections: Full support at no additional cost
+- FDA inspections: Full support at no additional cost
+- Customer audits: Support included (up to 10 per year)
+- Preparation activities: Included
+- Response to observations: Included
+
+Additional audits beyond 10/year: £1,500/day per resource
+
+Resources shall:
+- Attend inspections if requested
+- Provide documentation for review
+- Answer inspector questions within scope
+- Support CAPA responses
+
+GOVERNANCE AND REPORTING
+
+Weekly reporting:
+- Timesheet submission (validated system)
+- Activity summary
+- Quality metrics
+- Upcoming compliance activities
+
+Monthly reporting:
+- Detailed utilization and costs
+- Validation project status
+- Audit/inspection schedule
+- Training compliance status
+- Risk register updates
+
+Quarterly reviews:
+- Performance against KPIs
+- Quality metrics review
+- Regulatory landscape updates
+- Resource optimization
+- Training needs assessment
+
+Annual reviews:
+- Contract performance
+- Rate review
+- Resource requirements forecast
+- Lessons learned
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts
+Dispute resolution: Escalation to Quality Directors, mediation, arbitration
+
+Assignment: Prohibited without written consent
+Subcontracting: Not permitted for GxP roles
+
+Force majeure: Standard provisions; Client may terminate if delays risk regulatory compliance
+
+Notices:
+Service Provider: contracts@qodea.com
+Client: quality.contracts@pharmatech.co.uk
+
+IR35 determination: Outside IR35; Service Provider accepts full liability
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: October 1, 2024
+Company Registration: 12345678
+
+CLIENT:
+PharmaTech Solutions Ltd
+Dr. Rebecca Walsh, VP Quality Assurance
+Date: October 1, 2024
+Company Registration: 45678901

@@ -1,0 +1,226 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-008
+Contract Type: Time and Materials
+
+Client: Scottish Energy Corporation plc
+Project: Smart Grid IoT Platform Development
+Start Date: May 1, 2024
+Expected Duration: 14 months
+Location: Hybrid - Edinburgh and Remote
+
+1. SCOPE OF SERVICES
+
+Service Provider shall deliver consulting services for design, development, and deployment of IoT-enabled smart grid monitoring and management platform for renewable energy assets across Scotland.
+
+Key Deliverables (T&M basis):
+- IoT sensor integration for wind and solar farms
+- Real-time energy monitoring dashboard
+- Predictive maintenance algorithms using ML
+- Grid balancing optimization system
+- SCADA system integration
+- Mobile field service application
+- Data lake architecture for energy analytics
+
+2. RATE CARD
+
+Daily rates (8-hour day):
+- IoT Solutions Architect: £1,250/day
+- Senior IoT Developer: £950/day
+- IoT Developer: £750/day
+- Data Engineer: £850/day
+- Machine Learning Engineer: £1,100/day
+- DevOps Engineer: £800/day
+- UI/UX Designer: £700/day
+- Technical Project Manager: £900/day
+
+Hourly rates available for partial day work (daily rate / 8).
+
+3. RESOURCE ALLOCATION
+
+Indicative team (subject to change based on phase):
+
+Phase 1 - Discovery & Design (Months 1-3):
+- IoT Solutions Architect (3 days/week)
+- Senior IoT Developer (full-time)
+- Data Engineer (3 days/week)
+- UI/UX Designer (2 days/week)
+
+Phase 2 - Development (Months 4-10):
+- Senior IoT Developers x 2 (full-time)
+- IoT Developers x 2 (full-time)
+- Data Engineer (full-time)
+- Machine Learning Engineer (4 days/week)
+- DevOps Engineer (3 days/week)
+
+Phase 3 - Testing & Deployment (Months 11-14):
+- Senior IoT Developer (full-time)
+- IoT Developer (full-time)
+- DevOps Engineer (full-time)
+- ML Engineer (2 days/week)
+
+Estimated monthly spend: £75,000 - £115,000 depending on phase
+Total estimated contract value: £1,400,000 (estimate only, actual based on time worked)
+
+4. COMMERCIAL TERMS
+
+Billing: Monthly in arrears based on actual time worked
+Invoice submission: Within 5 business days of month end
+Payment terms: Net 30 days
+
+Monthly cap: £125,000 (requires Client approval to exceed)
+Minimum monthly commitment: £50,000
+
+Rate increases: Annual review each May, max CPI + 2%
+
+5. WORKING ARRANGEMENTS
+
+Primary locations:
+- Edinburgh office (2-3 days/week during Phases 1 and 3)
+- Remote working (remainder of time)
+- Site visits to wind/solar farms as required (approximately 1 day/month)
+
+Working hours: Monday-Friday, 9 AM - 5:30 PM GMT
+Core hours for meetings: 10 AM - 4 PM GMT
+
+Client provides:
+- Hot desk space at Edinburgh headquarters (Lothian Road)
+- VPN access and security credentials
+- Access to test IoT devices and sensors
+- Azure cloud environment access
+- PPE for site visits
+
+6. TIME RECORDING AND APPROVAL
+
+Timesheet submission: Weekly by Friday 12 PM
+Client approval: Within 48 hours (auto-approved if no response)
+
+Overtime:
+- Pre-approved emergency work: 1.5x standard rate
+- Weekend/bank holiday work: 2x standard rate (pre-approval required)
+- Out-of-hours on-call: £500/day standby + hourly rate for callouts
+
+Site visit expenses:
+- Travel to remote sites: Cost + 15%
+- Accommodation: Up to £120/night
+- Subsistence: Actual costs, reasonable amounts
+- Vehicle hire for site access: At cost
+
+7. DELIVERABLES AND MILESTONES
+
+While T&M, the following milestones guide the work:
+
+Milestone 1 (Month 3): Architecture design and POC
+Milestone 2 (Month 7): Core platform MVP operational
+Milestone 3 (Month 10): Full feature deployment to pilot sites
+Milestone 4 (Month 14): Production rollout and handover
+
+Client approval required at each milestone before proceeding to next phase.
+
+8. PERFORMANCE METRICS
+
+Service Provider monitored against:
+- Resource availability: 95% (excluding approved leave)
+- Code quality: 90% automated test coverage
+- Response time: Critical issues within 2 hours
+- Documentation: All code properly documented
+- Sprint velocity: Maintain agreed story point completion
+
+Performance reviews: Monthly
+
+9. ENERGY SECTOR COMPLIANCE
+
+Service Provider shall comply with:
+- Electricity Safety, Quality and Continuity Regulations 2002
+- Network and Information Systems Regulations 2018 (NIS)
+- UK GDPR for customer energy data
+- Energy industry security standards
+- BEIS energy sector regulations
+- Grid code compliance requirements
+
+Security clearance: All personnel require BPSS clearance for critical national infrastructure access.
+
+10. INTELLECTUAL PROPERTY
+
+Client owns all custom code and configurations developed under this contract.
+
+Service Provider retains rights to:
+- Generic IoT frameworks and libraries
+- Pre-existing tools and accelerators
+- Open-source components (licensed accordingly)
+
+Third-party components: Licensed separately by Client where required.
+
+11. WARRANTY AND LIABILITY
+
+Service Provider warrants:
+- Professional skill and care in services delivery
+- Code free from material defects for 90 days post-delivery
+- Compliance with energy sector regulations
+- No malware or security vulnerabilities (based on industry standards)
+
+Liability cap:
+- Per incident: £1,000,000
+- Annual aggregate: £3,000,000
+- No cap for gross negligence, data breaches, or willful misconduct
+
+Insurance requirements:
+- Professional Indemnity: £5,000,000
+- Public Liability: £10,000,000 (critical infrastructure)
+- Cyber Liability: £5,000,000
+
+12. TERMINATION
+
+Termination for convenience:
+- Either party: 60 days written notice
+- Payment for services rendered through notice period
+
+Termination for cause:
+- Material breach: 15 days to cure
+- Security incident: Immediate termination
+- Repeated poor performance: 30 days notice
+
+Minimum term: 6 months (early termination requires 3 months fees payment)
+
+13. CHANGE MANAGEMENT
+
+Scope adjustments:
+- Resource changes: 15 days notice
+- Rate card changes: Annual review only
+- Team size changes: Flexible, 10 days notice preferred
+
+Extensions:
+- Monthly rolling contract after Month 14
+- 60 days notice to conclude
+- New rate card negotiated for extensions beyond 18 months
+
+14. GOVERNANCE
+
+Weekly status meetings: Progress, risks, upcoming work
+Monthly business reviews: Financial, performance, planning
+Quarterly steering committee: Strategic direction, budget
+
+Reporting includes:
+- Weekly: Timesheet summary, progress update
+- Monthly: Detailed cost report, milestone tracking, risk register
+- Quarterly: ROI analysis, benefits realization
+
+15. GENERAL TERMS
+
+Governing law: Scotland
+Dispute resolution: Mediation, then Scottish courts
+Confidentiality: 5 years post-termination
+Assignment: Prohibited without consent
+
+Force majeure: Standard provisions
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Signed: Sarah Mitchell, Managing Director
+Date: May 1, 2024
+
+CLIENT:
+Scottish Energy Corporation plc
+Signed: Malcolm Stewart, Director of Digital Innovation
+Date: May 1, 2024

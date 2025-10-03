@@ -1,0 +1,281 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-014
+Contract Type: Time and Materials
+
+Client: TransportForLondon Operations Ltd
+Project: Driver Mobile Application Platform
+Start Date: November 1, 2024
+Duration: 8 months
+Location: Remote with monthly on-site - London
+
+SCOPE
+
+Design and development of mobile application platform for 15,000+ bus and coach drivers providing route information, real-time updates, incident reporting, and driver welfare features.
+
+RATE CARD (effective November 2024)
+
+Daily rates (8-hour day):
+- Mobile Solutions Architect: £1,150/day
+- Senior iOS Developer: £900/day
+- Senior Android Developer: £900/day
+- Backend Developer: £800/day
+- Mobile UX Designer: £750/day
+- QA Test Engineer: £650/day
+- Technical Project Lead: £950/day
+
+Hourly rates: Daily rate / 8 (minimum 4-hour billing)
+
+INDICATIVE RESOURCES
+
+Phase 1 - Design (Months 1-2):
+- Mobile Solutions Architect (3 days/week)
+- Mobile UX Designer (full-time)
+- Backend Developer (2 days/week)
+
+Phase 2 - Build (Months 3-6):
+- Senior iOS Developer (full-time)
+- Senior Android Developer (full-time)
+- Backend Developers x 2 (full-time)
+- Mobile UX Designer (3 days/week)
+- QA Test Engineer (full-time)
+
+Phase 3 - Pilot and Rollout (Months 7-8):
+- Senior iOS Developer (full-time)
+- Senior Android Developer (full-time)
+- Backend Developer (full-time)
+- QA Test Engineer (full-time)
+
+Estimated monthly spend: £60,000 - £95,000
+Total estimated value: £650,000 (not guaranteed)
+
+COMMERCIAL TERMS
+
+Billing: Monthly in arrears
+Invoice submission: Within 7 days of month end
+Payment terms: Net 45 days (public sector standard)
+
+Monthly cap: £110,000 (approval required to exceed)
+Minimum monthly: £40,000 commitment
+
+Rate review: Annual each November, CPI-linked (max 4%)
+
+WORKING ARRANGEMENTS
+
+Location: Primarily remote
+- On-site at TfL offices (Southwark): 1 day/month for workshops
+- Depot visits: As required for user research and pilot (approximately 6 visits)
+- Flexibility for driver focus groups and testing
+
+Hours: Monday-Friday, 9 AM - 5 PM GMT
+Flexibility required for:
+- Early morning/late evening testing with drivers on shift
+- Weekend pilot support (2 weekends during rollout)
+
+Client provides:
+- VPN access to TfL network
+- Test devices (iOS and Android)
+- Access to TfL development environments
+- Bus depot access for user testing
+
+TRANSPORT INDUSTRY REQUIREMENTS
+
+Resources should understand:
+- Transport operations and driver workflows
+- Real-time vehicle tracking systems
+- Integration with bus scheduling systems
+- Driver hours regulations and tachograph systems
+- Safety-critical mobile application design
+
+Service Provider shall comply with:
+- TfL security and safety standards
+- Transport operational requirements
+- Driver data protection (GDPR)
+- Safety-critical system design principles
+- Accessibility (transport industry standards exceed WCAG)
+
+DELIVERABLES
+
+Time-based but outcomes include:
+- Mobile app design (iOS and Android native)
+- Backend API and integration layer
+- Integration with iBus (TfL bus tracking system)
+- Integration with scheduling and rostering systems
+- Driver authentication and security
+- Real-time incident reporting
+- Route deviation alerts
+- Driver welfare features (break reminders, facilities finder)
+- Offline capability for tunnel sections
+- Push notification service
+- Analytics and reporting dashboard
+
+ACCEPTANCE MILESTONES
+
+Milestone 1 (Month 2): UX design approved by driver representatives
+Milestone 2 (Month 4): MVP functional for internal testing
+Milestone 3 (Month 6): Pilot ready (100 drivers, 3 depots)
+Milestone 4 (Month 8): Production ready for full rollout
+
+Milestone payments: £25,000 bonus per milestone achieved on time
+
+PERFORMANCE STANDARDS
+
+Application performance:
+- App launch time: <3 seconds
+- Location update: Real-time (<5 second latency)
+- Offline mode: Full functionality for route info and reporting
+- Battery usage: <15% over 8-hour shift
+- Crash rate: <0.1%
+
+Service Provider KPIs:
+- Resource availability: 95%
+- Sprint velocity: Maintain agreed story points
+- Code quality: >90% automated test coverage
+- Bug resolution: P1 within 24 hours, P2 within 3 days
+- Documentation: Up to date with each release
+
+TIME RECORDING
+
+Timesheets: Weekly submission by Friday 5 PM
+Approval: Project Lead approves within 48 hours
+Disputed time: Escalation within 5 days, resolved within 10 days
+
+Overtime:
+- Pre-approved driver testing sessions: Standard rate
+- Emergency production support: 1.5x rate
+- Weekend pilot support: 1.5x rate
+
+EXPENSES
+
+Reimbursable at cost:
+- Depot visits: Travel and subsistence
+- Test device procurement (pre-approved)
+- Specialist testing tools/services
+
+Not reimbursable:
+- Standard development tools
+- Home office setup
+- Professional subscriptions
+
+Pre-approval: Required for expenses >£300
+
+PUBLIC SECTOR COMPLIANCE
+
+Mandatory compliance:
+- UK GDPR and Data Protection Act 2018
+- Freedom of Information Act 2000
+- Equality Act 2010 (accessibility)
+- Public Contracts Regulations 2015
+- TfL security standards
+- Cyber Essentials Plus
+- PCI DSS (if handling payments in future phases)
+
+Security clearance:
+- All resources: BPSS (Baseline Personnel Security Standard)
+- Lead architect: CTC clearance preferred
+- Clearance processing: 3-4 weeks (Client manages)
+
+INTELLECTUAL PROPERTY
+
+Application code: TfL owns upon payment
+Open source policy: TfL may open-source components
+Backend infrastructure: TfL owns
+
+Service Provider retains:
+- Generic mobile frameworks
+- Reusable components (non-TfL specific)
+- Development tools and accelerators
+
+Third-party libraries: Licensed under standard terms (MIT, Apache preferred)
+
+WARRANTIES AND LIABILITY
+
+Service Provider warrants:
+- Professional skill and care
+- Mobile development best practices
+- Code quality and security standards
+- No IP infringement
+- 90-day warranty on delivered code
+
+Liability cap:
+- General liability: £1,500,000
+- Safety-related failures: £5,000,000
+- Data breaches: £3,000,000
+- No cap for gross negligence
+
+Insurance required:
+- Professional Indemnity: £5,000,000
+- Public Liability: £10,000,000 (public transport)
+- Cyber Liability: £5,000,000
+- Product Liability: £5,000,000
+
+TERMINATION
+
+For convenience:
+- Either party: 60 days notice
+- Payment for time worked through notice period
+
+For cause:
+- Material breach: 15 days to cure
+- Security breach: Immediate
+- Safety incident: Immediate
+- Persistent underperformance: 30 days notice
+
+Minimum term: 3 months (early exit requires 1.5 months fees)
+
+CHANGE MANAGEMENT
+
+Flexible approach:
+- Resource changes: 15 days notice
+- Skill mix adjustments: 20 days notice
+- Team size: 10 days notice for increases, 20 days for decreases
+
+Contract extension:
+- Option to extend 4 months for full rollout support
+- 60 days notice required
+- Extension rates: Renegotiated if beyond 12 months
+
+GOVERNANCE
+
+Agile delivery:
+- Two-week sprints
+- Sprint planning, daily standups, retrospectives
+- Fortnightly sprint demos to stakeholders
+
+Reporting:
+- Weekly: Timesheet summary, sprint progress, risks
+- Monthly: Cost report, milestone tracking, quality metrics
+- Milestone reviews: Formal acceptance with driver representatives
+
+Stakeholder engagement:
+- Monthly: Driver representative group feedback sessions
+- Quarterly: Steering committee with TfL executives
+- Ad-hoc: Union consultation as required
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts
+Dispute resolution: TfL escalation process, then mediation
+
+Confidentiality: 5 years post-termination
+Assignment: Requires TfL written approval
+Subcontracting: Permitted with approval (subject to security clearance)
+
+FOI: Service Provider acknowledges TfL subject to Freedom of Information requests
+
+Social value:
+- Apprentice involvement where possible
+- London living wage for all resources
+- Carbon footprint reporting
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: November 1, 2024
+
+CLIENT:
+TransportForLondon Operations Ltd
+James Morrison, Director of Digital Services
+Date: November 1, 2024

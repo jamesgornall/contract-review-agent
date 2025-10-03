@@ -1,0 +1,169 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-017
+Contract Type: Fixed Deliverable
+
+Service Provider: Qodea Professional Services Ltd
+Client: Marks & Spencer Digital Ltd
+Project: E-commerce Platform Modernization
+Contract Date: February 1, 2025
+
+PROJECT SCOPE
+
+Modernization of online shopping platform to headless commerce architecture supporting 15 million customers, 50,000+ products, and peak traffic of 100,000 concurrent users.
+
+DELIVERABLES
+
+Phase 1 - Discovery and Architecture (6 weeks)
+- Current platform assessment and performance analysis
+- Headless commerce architecture design
+- API-first integration strategy
+- Microservices decomposition plan
+- Cloud migration roadmap (AWS)
+- Performance and scalability requirements
+
+Phase 2 - Core Platform Build (14 weeks)
+- Headless commerce platform (Commercetools)
+- Product catalog API and search (Elasticsearch)
+- Shopping cart and checkout microservices
+- Payment gateway integration (Stripe, PayPal, Klarna)
+- Order management system integration
+- Customer account and profile management
+- Inventory management API
+- Pricing and promotion engine
+
+Phase 3 - Frontend Development (10 weeks)
+- Responsive web application (Next.js)
+- Progressive Web App (PWA) capabilities
+- Mobile-optimized experiences
+- Personalization engine integration
+- A/B testing framework
+- Analytics integration (Google Analytics 4, Adobe)
+- Accessibility compliance (WCAG 2.1 AA)
+
+Phase 4 - Testing and Launch (6 weeks)
+- Performance testing (100k concurrent users)
+- Security testing and PCI DSS compliance
+- User acceptance testing
+- Load testing for peak periods (Black Friday)
+- Phased rollout (10% → 50% → 100%)
+- Hypercare support (2 weeks)
+
+COMMERCIAL TERMS
+
+Total fixed price: £875,000
+
+Payment schedule:
+- Contract signing: £131,250 (15%)
+- Phase 1 complete: £175,000 (20%)
+- Phase 2 complete: £262,500 (30%)
+- Phase 3 complete: £175,000 (20%)
+- Successful launch: £131,250 (15%)
+
+Payment terms: Net 45 days
+
+TIMELINE
+
+Start: March 1, 2025
+Launch: August 31, 2025
+Duration: 26 weeks
+
+Key dates:
+- Phase 1: April 11, 2025
+- Phase 2: July 11, 2025
+- Phase 3: September 19, 2025
+- Launch: August 31, 2025
+
+Launch target: Before peak trading season (September-December)
+
+WORKING ARRANGEMENTS
+
+Location: Hybrid - London HQ (Paddington)
+- Discovery: 3 days/week on-site
+- Build: 1 day/week on-site
+- Testing: 2 days/week on-site
+- Launch week: Full week on-site
+
+Hours: Monday-Friday, 9:30 AM - 6 PM GMT
+Launch support: Extended hours during rollout weekends
+
+TEAM
+
+- 1 x E-commerce Solution Architect (50%)
+- 2 x Senior Backend Developers (100%)
+- 2 x Senior Frontend Developers (100%)
+- 1 x DevOps Engineer (80%)
+- 1 x UX/UI Designer (60%)
+- 1 x QA Lead (100%)
+- 2 x Test Engineers (100%, Phase 4)
+- 1 x Project Manager (40%)
+
+ACCEPTANCE CRITERIA
+
+Platform acceptance requires:
+- 99.95% uptime during 30-day pilot
+- Page load time <2 seconds (95th percentile)
+- Support 100,000 concurrent users
+- Conversion rate maintained or improved
+- Zero critical security vulnerabilities
+- PCI DSS Level 1 compliance certified
+- WCAG 2.1 AA accessibility certified
+
+RETAIL COMPLIANCE
+
+- PCI DSS Level 1 (payment card processing)
+- Consumer Rights Act 2015
+- E-commerce regulations
+- UK GDPR
+- Consumer Contracts Regulations
+- Distance Selling Regulations
+- Accessibility regulations
+
+PERFORMANCE REQUIREMENTS
+
+- Availability: 99.95% (excluding planned maintenance)
+- Response time: <2 seconds (95% of requests)
+- Checkout completion: <30 seconds
+- Search results: <1 second
+- Peak capacity: 100,000 concurrent users
+- Black Friday capacity: 150,000 concurrent users
+
+SUPPORT AND WARRANTY
+
+Launch support: 14 days, 24/7
+Warranty: 90 days post-launch
+- Bug fixes included
+- Performance optimization
+- Support hours: 8 AM - 10 PM, 7 days
+- Black Friday support: 24/7 (November)
+
+CHANGE MANAGEMENT
+
+Changes via formal CR process
+Pricing: T&M at £850/day blended rate
+No changes accepted 4 weeks before launch
+
+INSURANCE AND LIABILITY
+
+Professional Indemnity: £5,000,000
+Cyber Liability: £5,000,000
+Liability cap: £2,000,000 general; £5,000,000 for peak trading failures
+
+Revenue protection: Enhanced liability during peak season (Nov-Dec) acknowledges £100M+ monthly revenue.
+
+TERMINATION
+
+For convenience: 60 days notice
+For cause: 15 days to cure
+Launch commitment: Service Provider guarantees availability for launch (no termination 8 weeks before)
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: February 1, 2025
+
+CLIENT:
+Marks & Spencer Digital Ltd
+Caroline Fisher, Chief Digital Officer
+Date: February 1, 2025

@@ -1,0 +1,237 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-018
+Contract Type: Time and Materials
+
+Client: UK Ministry of Defence - Defence Digital
+Project: Cybersecurity Operations Center Enhancement
+Start Date: March 1, 2025
+Duration: 12 months
+Location: On-site - Corsham, Wiltshire
+
+SCOPE
+
+Enhancement of cybersecurity monitoring, threat detection, and incident response capabilities for defence networks and systems.
+
+RATE CARD
+
+Daily rates (SC clearance holders):
+- Senior Security Architect (SC): £1,350/day
+- Senior Security Analyst (SC): £1,100/day
+- Security Engineer (SC): £950/day
+- Threat Intelligence Analyst (SC): £1,000/day
+- Penetration Tester (SC/CHECK): £1,200/day
+- Security Operations Lead (SC): £1,250/day
+
+DV clearance premium: +£200/day
+CHECK certification premium: +£150/day
+
+INDICATIVE TEAM
+
+- 1 x Senior Security Architect (3 days/week, DV)
+- 2 x Senior Security Analysts (full-time, SC)
+- 2 x Security Engineers (full-time, SC)
+- 1 x Threat Intelligence Analyst (full-time, SC)
+- 1 x Penetration Tester (2 days/week, CHECK)
+
+Estimated monthly spend: £110,000 - £140,000
+Total estimated: £1,500,000 (not guaranteed)
+
+COMMERCIAL TERMS
+
+Billing: Monthly in arrears
+Payment terms: Net 30 days (government standard)
+Monthly cap: £160,000 (approval required to exceed)
+
+WORKING ARRANGEMENTS
+
+Location: MOD Corsham (Wiltshire) - 100% on-site required
+- No remote working (OFFICIAL-SENSITIVE systems)
+- Hours: Monday-Friday, 8 AM - 5 PM
+- 24/7 on-call rotation (compensated separately)
+- Emergency callout: 2x daily rate
+
+SECURITY CLEARANCE REQUIREMENTS
+
+Mandatory for all resources:
+- SC (Security Check) clearance minimum
+- DV (Developed Vetting) for architect role
+- UK Eyes Only classification
+- NPPV3 security training
+- Annual security refreshers
+
+Clearance sponsorship: Client manages (12-16 weeks for SC, 6-9 months for DV)
+Start date dependent on clearance grant
+
+DEFENCE SECTOR COMPLIANCE
+
+Mandatory compliance:
+- JSP 440 (Defence Security)
+- HMG Security Policy Framework
+- NCSC Cloud Security Principles
+- Cyber Essentials Plus
+- HMG Information Assurance standards
+- Official Secrets Act 1989
+- GDPR (as applies to MOD)
+- ITAR (International Traffic in Arms Regulations) where applicable
+
+Classified information handling:
+- OFFICIAL-SENSITIVE materials only
+- Protectively marked document handling
+- Need-to-know principles
+- Secure destruction procedures
+
+DELIVERABLES (T&M basis)
+
+- SIEM platform enhancement (Splunk/QRadar)
+- Threat hunting procedures and playbooks
+- Incident response automation
+- Threat intelligence integration
+- Security monitoring dashboards
+- Penetration testing reports
+- Vulnerability management process
+- Security awareness content
+- Monthly threat briefings
+
+PERFORMANCE STANDARDS
+
+- Resource availability: 98% (high reliability required)
+- Incident response: <30 minutes for critical alerts
+- Threat detection: Continuous monitoring, 24/7
+- Reporting: Weekly threat intelligence summaries
+- Security assessment: Zero missed vulnerabilities (critical/high)
+
+Reviews: Monthly with Defence Digital CISO
+
+TIME RECORDING
+
+Timesheets: Weekly via MOD approved system
+Approval: Defence Digital Project Manager
+Classified hours: Separate accounting required
+
+Overtime and callout:
+- Emergency callout: 2x daily rate
+- Planned out-of-hours: 1.5x daily rate
+- 24/7 on-call duty: £500/week standby + callout rates
+
+EXPENSES
+
+Limited expense reimbursement:
+- No travel expenses (on-site only)
+- Specialist training (pre-approved): At cost
+- Security certifications: 50% contribution
+
+INTELLECTUAL PROPERTY
+
+All work product: Crown Copyright
+Security tools and procedures: MOD classified material
+Threat intelligence: OFFICIAL-SENSITIVE, Crown Copyright
+
+No retention rights for Service Provider due to classified nature.
+
+WARRANTIES AND LIABILITY
+
+Service Provider warrants:
+- Personnel meet security clearance requirements
+- Compliance with JSP 440 and security policies
+- Professional skill in cybersecurity practices
+- No unauthorized disclosure of classified information
+
+Liability cap:
+- General: £3,000,000
+- Security breach/unauthorized disclosure: NO CAP (national security)
+- Loss of classified material: NO CAP
+
+Unlimited liability for:
+- Breaches of Official Secrets Act
+- Unauthorized disclosure
+- Espionage or sabotage
+- Gross negligence endangering national security
+
+Insurance:
+- Professional Indemnity: £10,000,000
+- Cyber Liability: £10,000,000
+- Public Liability: £10,000,000
+
+National security acknowledgment: Service Provider acknowledges unlimited liability for breaches affecting national security.
+
+TERMINATION
+
+For convenience:
+- MOD: 30 days notice (operational flexibility required)
+- Service Provider: 120 days notice
+
+For cause:
+- Security clearance revoked: Immediate removal of resource
+- Security breach: Immediate termination
+- Breach of Official Secrets Act: Immediate termination
+- Material breach (other): 10 days to cure
+
+Security obligations survive termination indefinitely.
+
+Post-termination:
+- Return all classified materials immediately
+- Security debriefing required
+- Ongoing Official Secrets Act obligations
+- No discussion of classified work (ever)
+
+CHANGE MANAGEMENT
+
+Resource changes:
+- Subject to security clearance (12-16 weeks)
+- Replacement must hold equivalent clearance
+- MOD approval required
+- No fee reduction during clearance processing
+
+Team adjustments: 45 days notice (clearance dependent)
+
+GOVERNANCE
+
+Weekly: Operational briefing (OFFICIAL-SENSITIVE)
+Monthly: Performance review with CISO
+Quarterly: Strategic review with Defence Digital leadership
+
+Reporting classification:
+- Weekly reports: OFFICIAL-SENSITIVE
+- Threat intelligence: OFFICIAL-SENSITIVE
+- Incident reports: Classification per incident
+
+OFFICIAL SECRETS ACT
+
+All personnel must:
+- Sign Official Secrets Act declaration
+- Understand legal obligations under OSA 1989
+- Maintain confidentiality indefinitely
+- Report any attempted compromise
+- Not discuss classified work outside authorized spaces
+
+Breaches prosecutable under criminal law.
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts (or court martial if applicable)
+Dispute resolution: MOD internal escalation, mediation (non-security matters)
+
+Security breaches: Handled by MOD Police/Security Services
+
+Confidentiality: Indefinite for OFFICIAL-SENSITIVE material
+Assignment: Not permitted
+Subcontracting: Prohibited (security clearance requirement)
+
+Foreign ownership: Service Provider confirms no foreign ownership or control that could compromise UK national security interests.
+
+Export controls: Service Provider confirms compliance with UK export control regulations and ITAR where applicable.
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: March 1, 2025
+Security clearance: Company vetting completed
+
+CLIENT:
+UK Ministry of Defence - Defence Digital
+Group Captain James Reynolds, Director Cyber Operations
+Date: March 1, 2025
+Classification: OFFICIAL

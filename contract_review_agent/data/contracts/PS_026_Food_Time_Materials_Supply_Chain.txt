@@ -1,0 +1,103 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-026
+Contract Type: Time and Materials
+
+Client: Tesco Stores Ltd
+Project: Supply Chain Optimization Platform
+Start Date: November 1, 2025
+Duration: 11 months
+Location: Hybrid - Welwyn Garden City, Hertfordshire
+
+SCOPE
+
+Development of AI-powered supply chain optimization platform for fresh food distribution across 2,500+ stores, reducing waste and improving availability.
+
+RATE CARD
+
+Daily rates:
+- Supply Chain Solutions Architect: £1,100/day
+- Senior Data Scientist: £1,000/day
+- Backend Developer: £850/day
+- Integration Specialist: £800/day
+- DevOps Engineer: £750/day
+- Business Analyst - Retail: £700/day
+
+INDICATIVE TEAM
+
+Phase 1 - Analysis (Months 1-2):
+- Solutions Architect (3 days/week)
+- Business Analyst (full-time)
+- Data Scientist (2 days/week)
+
+Phase 2 - Build (Months 3-9):
+- Data Scientists x 2 (full-time)
+- Backend Developers x 2 (full-time)
+- Integration Specialist (full-time)
+- DevOps Engineer (3 days/week)
+
+Phase 3 - Rollout (Months 10-11):
+- All resources (reduced to 60% capacity)
+
+Estimated monthly: £65,000 - £100,000
+Total estimated: £920,000
+
+COMMERCIAL TERMS
+
+Billing: Monthly in arrears
+Payment: Net 45 days
+Monthly cap: £115,000
+Minimum monthly: £45,000
+
+WORKING ARRANGEMENTS
+
+Location: Welwyn Garden City HQ
+- Hybrid: 2 days/week on-site
+- Remote: 3 days/week
+- DC visits: As required for testing
+
+Hours: Monday-Friday, 9 AM - 5:30 PM
+
+RETAIL FOOD COMPLIANCE
+
+Food safety awareness required
+Understanding of cold chain logistics
+Waste reduction regulatory requirements
+GDPR for supplier data
+
+DELIVERABLES
+
+- Demand forecasting ML models
+- Fresh food replenishment optimization
+- Supplier integration platform
+- Store allocation algorithms
+- Waste tracking and reporting
+- Temperature monitoring integration
+- Real-time distribution dashboards
+
+PERFORMANCE METRICS
+
+- Waste reduction: Target 20% decrease
+- Stock availability: >98%
+- Forecast accuracy: >85%
+- System uptime: 99.9%
+
+INSURANCE AND LIABILITY
+
+Professional Indemnity: £5,000,000
+Liability cap: £2,000,000
+Food safety incidents: Enhanced liability £5M
+
+TERMINATION
+
+Either party: 60 days notice
+For cause: 15 days to cure
+
+IN WITNESS WHEREOF:
+
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: November 1, 2025
+
+Tesco Stores Ltd
+Angela Roberts, Supply Chain Technology Director
+Date: November 1, 2025

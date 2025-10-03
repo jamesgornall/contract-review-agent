@@ -1,0 +1,46 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-004
+Contract Type: Time and Materials
+
+Client: National Insurance Ltd
+Project: Data Analytics Platform Development
+Start Date: April 1, 2024
+Duration: 9 months
+
+COMMERCIAL TERMS:
+Rate Card:
+- Data Architect: £1,100/day
+- Senior Data Engineer: £900/day
+- Data Engineer: £700/day
+- BI Developer: £650/day
+
+Monthly Cap: £120,000
+Minimum Commitment: 40 days/month
+
+WORKING LOCATION:
+Fully Remote
+Quarterly on-site workshops in Leeds
+Monthly on-site visits (2 days)
+
+TEAM:
+- 1 x Data Architect (2 days/week)
+- 2 x Senior Data Engineers (full-time)
+- 1 x BI Developer (3 days/week)
+
+Estimated monthly spend: £85,000-£95,000
+
+DELIVERABLES:
+- Real-time claims analytics dashboard
+- Predictive modeling for risk assessment
+- Data pipeline automation
+- Performance optimization
+- Monthly reporting and insights
+
+PAYMENT: Monthly in arrears, 30-day terms
+
+KEY CLAUSES:
+- GDPR compliance mandatory
+- Insurance regulatory compliance (FCA, PRA)
+- 24-hour response for P1 issues
+- Quarterly business reviews
+- 60-day termination notice

@@ -1,0 +1,187 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-009
+Contract Type: Fixed Deliverable
+
+Service Provider: Qodea Professional Services Ltd
+Client: Bristol City Council
+Project: Citizen Digital Services Platform
+Effective Date: June 1, 2024
+
+1. PROJECT OVERVIEW
+
+Development and deployment of unified digital platform for citizen services including online applications, payments, and service requests across all council departments.
+
+2. DELIVERABLES
+
+Phase 1 - Discovery and Design (8 weeks)
+- Citizen needs assessment and user research
+- Current state service mapping (120+ services)
+- Digital accessibility audit (WCAG 2.1 AA)
+- Target architecture design
+- Integration requirements specification
+- Digital inclusion strategy
+
+Phase 2 - Platform Build (16 weeks)
+- Citizen portal development (responsive web)
+- Mobile application (iOS and Android)
+- Payment gateway integration
+- Back-office workflow system
+- Council service integrations (Planning, Waste, Benefits, etc.)
+- Digital identity and verification system
+- CMS for content management
+
+Phase 3 - Testing and Launch (8 weeks)
+- Accessibility testing and remediation
+- User acceptance testing with citizen groups
+- Load and performance testing
+- Security testing and certification
+- Staff training (200+ users)
+- Phased service migration
+- Launch and initial support
+
+3. COMMERCIAL TERMS
+
+Total fixed price: £425,000
+
+Payment schedule:
+- Contract signing: £63,750 (15%)
+- Phase 1 completion: £106,250 (25%)
+- Phase 2 completion: £148,750 (35%)
+- Phase 3 completion: £85,000 (20%)
+- 60-day post-launch: £21,250 (5%)
+
+Payment terms: Net 30 days (local authority standard)
+
+4. TIMELINE
+
+Start: June 1, 2024
+Completion: January 31, 2025
+Duration: 32 weeks
+
+Milestones:
+- Phase 1 sign-off: July 26, 2024
+- Phase 2 sign-off: November 21, 2024
+- Go-live: January 17, 2025
+- Project closure: January 31, 2025
+
+5. WORKING ARRANGEMENTS
+
+Location: Hybrid - Bristol City Hall, College Green, Bristol
+- Discovery phase: 3 days/week on-site for workshops
+- Build phase: 1 day/week on-site
+- Testing phase: 2-3 days/week on-site
+
+Hours: Monday-Friday, 9 AM - 5 PM
+
+6. TEAM
+
+- 1 x Digital Service Designer (60% allocation)
+- 2 x Full-stack Developers (100% allocation)
+- 1 x Mobile Developer (80% allocation)
+- 1 x UX/UI Designer (50% allocation)
+- 1 x Accessibility Specialist (30% allocation)
+- 1 x Project Manager (40% allocation)
+
+7. PUBLIC SECTOR COMPLIANCE
+
+Mandatory requirements:
+- WCAG 2.1 Level AA accessibility
+- GDS Service Standard compliance
+- Local Government Digital Service Standard
+- UK GDPR and Data Protection Act 2018
+- Public Sector Bodies Accessibility Regulations 2018
+- Payment Card Industry DSS for payment handling
+- Local government transparency code
+
+Security:
+- Cyber Essentials Plus certification
+- Public Services Network compliance (if applicable)
+- NIST cybersecurity framework alignment
+
+8. ACCEPTANCE CRITERIA
+
+Each phase accepted when:
+- All deliverables complete per specification
+- Accessibility audit passed (WCAG 2.1 AA)
+- Security testing completed with no critical vulnerabilities
+- Client acceptance within 10 business days
+- User testing feedback incorporated
+
+Platform acceptance requires:
+- 95% uptime during 30-day pilot
+- Page load times under 3 seconds
+- Support for 10,000 concurrent users
+- Zero critical or high security vulnerabilities
+
+9. SUPPORT AND WARRANTY
+
+Launch support: 60 days included
+- Monday-Friday 8 AM - 6 PM
+- 4-hour response for critical issues
+- Bug fixes and corrections included
+
+Warranty: 90 days post-launch
+- Defect resolution at no cost
+- Platform updates for security patches
+- Performance optimization included
+
+Post-warranty support: Available under separate agreement
+
+10. INTELLECTUAL PROPERTY
+
+Platform code and design: Client owns upon final payment
+Open-source components: Licensed under original terms
+Service Provider retains: Generic frameworks and tools
+
+Code repository: Transferred to Council's GitHub organization
+
+11. CHANGE MANAGEMENT
+
+Changes via formal process:
+- Written change request
+- Impact assessment within 5 days
+- Pricing: T&M at £800/day blended rate
+- Timeline impact assessed and agreed
+
+12. TERMINATION
+
+For convenience: 60 days notice
+For cause: 15 days to cure breach
+
+Upon termination, Client pays:
+- All accepted deliverables
+- Work in progress (pro-rated)
+- Non-cancellable expenses incurred
+
+13. LIABILITY AND INSURANCE
+
+Liability cap: £1,500,000 (not limited to contract value)
+
+Insurance required:
+- Professional Indemnity: £5,000,000
+- Public Liability: £5,000,000
+- Cyber Insurance: £3,000,000
+
+14. GENERAL PROVISIONS
+
+Governing law: England and Wales
+Dispute resolution: Mediation before litigation
+Confidentiality: 3 years
+Assignment: Requires written consent
+
+Social value commitments:
+- 2 apprentice days on project
+- Local SME subcontractor preference
+- Carbon footprint reporting
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: June 1, 2024
+
+CLIENT:
+Bristol City Council
+Cllr. Emma Richardson, Cabinet Member for Digital Services
+Date: June 1, 2024

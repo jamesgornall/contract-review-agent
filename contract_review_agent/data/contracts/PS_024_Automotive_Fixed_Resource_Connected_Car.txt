@@ -1,0 +1,318 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-024
+Contract Type: Fixed Resource
+
+Client: Jaguar Land Rover Automotive plc
+Project: Connected Vehicle Platform Development Team
+Duration: 20 months
+Start Date: September 1, 2025
+Location: Hybrid - Gaydon, Warwickshire
+
+RESOURCE PROVISION
+
+Dedicated software engineering resources for connected vehicle platform supporting telematics, over-the-air updates, and in-vehicle infotainment systems.
+
+Resources allocated:
+- 1 x Automotive Software Architect (100%, full duration)
+- 2 x Embedded Software Engineers (100%, full duration)
+- 2 x Backend Developers - Vehicle Cloud (100%, full duration)
+- 1 x Cybersecurity Engineer - Automotive (100%, full duration)
+- 1 x QA Engineer - Automotive Systems (100%, months 6-20)
+
+Total: 6-7 FTE
+
+COMMERCIAL TERMS
+
+Monthly fee structure:
+- Months 1-5: £96,000/month (6 FTE)
+- Months 6-20: £112,000/month (7 FTE)
+
+Total contract value: £2,160,000
+
+Payment: Monthly in advance, net 30 days
+Price review: Annual, September 2026, CPI + 2% max
+
+WORKING LOCATION
+
+Primary location: Hybrid - Gaydon Engineering Centre
+- On-site: 3 days/week (Monday-Wednesday)
+- Remote: 2 days/week
+- Vehicle testing: As required at proving grounds
+
+Hours: Monday-Friday, 8:30 AM - 5 PM GMT
+Flexibility for vehicle testing (occasional weekends)
+
+Client provides:
+- Engineering workspace at Gaydon
+- VPN access for remote work
+- Access to vehicle development environments
+- Test vehicles for integration testing
+- Proving ground access for testing
+
+AUTOMOTIVE INDUSTRY REQUIREMENTS
+
+All resources must have:
+- Automotive industry experience (minimum 3 years)
+- Understanding of AUTOSAR architecture
+- ISO 26262 functional safety awareness
+- Experience with vehicle communication protocols (CAN, LIN, Ethernet)
+- Embedded systems development background
+
+Specific qualifications:
+- Software Architect: AUTOSAR certification preferred
+- Embedded Engineers: C/C++ automotive experience
+- Backend Developers: Cloud-to-vehicle communication experience
+- Cybersecurity Engineer: ISO/SAE 21434 knowledge
+
+AUTOMOTIVE COMPLIANCE
+
+Mandatory standards:
+- ISO 26262 (Functional Safety for Road Vehicles)
+- ISO/SAE 21434 (Cybersecurity Engineering)
+- AUTOSAR (Automotive Open System Architecture)
+- ASPICE (Automotive SPICE for process quality)
+- UN R155 (Cybersecurity regulations)
+- UN R156 (Software update regulations)
+- GDPR for connected vehicle data
+- Type approval regulations (WVTA)
+
+Safety-critical systems:
+- Functional safety assessments required
+- ASIL (Automotive Safety Integrity Level) compliance
+- Hazard analysis and risk assessment
+- Safety case development
+
+RESPONSIBILITIES
+
+Service Provider shall:
+- Provide automotive-qualified resources
+- Ensure ISO 26262 and ASPICE compliance
+- Support safety certification activities
+- Replace resources with equivalent automotive experience
+- Participate in design reviews and safety assessments
+
+Client shall:
+- Provide automotive development processes training
+- Grant access to vehicle systems and tools
+- Include resources in engineering reviews
+- Provide safety training and certifications
+- Approve resource changes
+
+KEY DELIVERABLES
+
+Resources will contribute to:
+- Connected vehicle cloud platform (AWS Automotive)
+- Over-the-air (OTA) software update system
+- Telematics data collection and processing
+- Vehicle diagnostics and remote monitoring
+- In-vehicle infotainment (IVI) applications
+- Mobile app integration (iOS/Android)
+- Cybersecurity monitoring and threat detection
+- Vehicle-to-cloud communication protocols
+- Safety-critical software per ISO 26262
+
+PERFORMANCE EXPECTATIONS
+
+KPIs measured quarterly:
+- Resource availability: 97% (automotive schedules critical)
+- Code quality: MISRA C compliance >95%
+- Safety compliance: Zero safety violations
+- Test coverage: >90% for safety-critical code
+- Vehicle integration: Zero critical defects in vehicle testing
+- OTA success rate: >99% for software updates
+
+Performance reviews: Quarterly with JLR Engineering Director
+
+Underperformance:
+- First instance: Improvement plan (45 days)
+- Second instance: Resource replacement (30 days)
+- Safety violation: Immediate removal and replacement
+
+INTELLECTUAL PROPERTY
+
+All vehicle software and configurations: Client owns
+Connected platform code: Client owns upon payment
+Safety documentation: Client property
+
+Service Provider retains:
+- Generic automotive frameworks (non-JLR specific)
+- Development tools and utilities
+
+Trade secrets: JLR vehicle designs and engineering data highly confidential.
+
+CONFIDENTIALITY AND DATA PROTECTION
+
+Enhanced confidentiality required:
+- Vehicle design and engineering data
+- Future product plans and roadmaps
+- Supplier relationships and pricing
+- Manufacturing processes
+- Connected vehicle customer data
+- Competitive intelligence
+
+Vehicle data protection:
+- Customer driving data (GDPR)
+- Location data privacy
+- Connected services data
+- Diagnostic and telematics data
+
+Obligations survive indefinitely for trade secrets and product designs.
+
+AUTOMOTIVE CYBERSECURITY
+
+UN R155 compliance:
+- Cybersecurity by design
+- Threat analysis and risk assessment (TARA)
+- Cybersecurity management system
+- Incident response procedures
+- Security testing and validation
+
+Vehicle security:
+- Secure boot and code signing
+- Encryption of vehicle communications
+- Protection against cyber attacks
+- Security vulnerability management
+- Penetration testing of vehicle systems
+
+INSURANCE AND LIABILITY
+
+Required insurance:
+- Professional Indemnity: £20,000,000 (automotive industry requirement)
+- Product Liability: £20,000,000
+- Public Liability: £10,000,000
+- Cyber Liability: £10,000,000
+
+Liability cap:
+- General liability: £5,000,000 per incident
+- Annual aggregate: £10,000,000
+- Safety-critical software defects: £20,000,000
+- Product recalls: £30,000,000
+- NO CAP for: Gross negligence, willful misconduct, safety violations causing injury/death
+
+Automotive impact acknowledgment: Service Provider acknowledges:
+- Software defects can lead to vehicle recalls (£millions per recall)
+- Safety failures can cause accidents, injuries, or fatalities
+- Cybersecurity breaches can affect thousands of vehicles
+- Regulatory non-compliance can halt vehicle production/sales
+
+TERMINATION
+
+Termination for convenience:
+- Either party: 120 days notice (extended due to automotive complexity)
+- Client: 90 days notice with payment of 35% remaining contract value
+
+Termination for cause:
+- Safety violation: Immediate termination
+- Cybersecurity breach: Immediate termination
+- Material breach: 20 days to cure
+- Regulatory non-compliance: 30 days to cure or immediate termination
+- Persistent quality issues: 60 days notice
+
+Post-termination obligations:
+- Handover period up to 90 days
+- Complete safety documentation for ongoing work
+- Support vehicle testing activities (up to 6 months, T&M basis)
+- Return all confidential information
+- Ongoing confidentiality obligations (indefinite)
+- Payment through notice plus handover period
+
+CHANGE MANAGEMENT
+
+Resource changes:
+- Notice: 90 days (automotive expertise scarce)
+- Replacement must meet automotive qualifications
+- CV and experience review by JLR Engineering
+- 6-week handover for critical roles (safety-related)
+- ISO 26262 competence assessment
+
+FTE adjustments:
+- Increase: 75 days notice (subject to resource availability)
+- Decrease: 120 days notice
+- Pro-rated fee adjustments
+
+Contract extensions:
+- Client option to extend 12 months
+- Notice required: 120 days before end date
+- Pricing renegotiated for extensions
+
+GOVERNANCE AND REPORTING
+
+Weekly reporting:
+- Timesheet submission (Client system)
+- Engineering progress and milestones
+- Safety and compliance activities
+- Issues and risks
+
+Monthly reporting:
+- Detailed utilization and costs
+- Software quality metrics (MISRA, test coverage)
+- Safety case progress
+- Cybersecurity status
+- Vehicle integration results
+
+Quarterly reviews:
+- Performance against KPIs
+- Safety and compliance review
+- Engineering roadmap alignment
+- Resource optimization
+- Automotive industry updates
+
+Annual reviews:
+- Contract performance
+- Rate review
+- Long-term resource planning
+- Lessons learned
+
+Engineering governance:
+- Participate in design reviews
+- Safety assessment workshops
+- Cybersecurity review boards
+- Type approval activities
+
+REGULATORY COMPLIANCE
+
+Type approval support:
+- Support for WVTA (Whole Vehicle Type Approval)
+- UN regulation compliance (R155, R156)
+- Cybersecurity certification
+- Software update validation
+
+Automotive safety:
+- ISO 26262 work products
+- Safety case contributions
+- Hazard analysis support
+- ASIL decomposition where applicable
+
+GENERAL PROVISIONS
+
+Governing law: England and Wales
+Jurisdiction: English courts
+Dispute resolution: Escalation to Engineering Directors, mediation, arbitration
+
+Confidentiality: Indefinite for trade secrets; 10 years for product designs
+Assignment: Prohibited without written consent
+Subcontracting: Not permitted (automotive expertise required)
+
+Force majeure: Standard provisions; Client may terminate if delays risk vehicle program timelines
+
+Export controls: Service Provider confirms compliance with UK export control regulations (automotive technology)
+
+IR35 status: All roles assessed as outside IR35; Service Provider carries full liability.
+
+Notices:
+Service Provider: contracts@qodea.com
+Client: engineering.procurement@jaguarlandrover.com
+
+IN WITNESS WHEREOF:
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Sarah Mitchell, Managing Director
+Date: September 1, 2025
+Company Registration: 12345678
+
+CLIENT:
+Jaguar Land Rover Automotive plc
+Dr. Elizabeth Morgan, Director of Software Engineering
+Date: September 1, 2025
+Company Registration: 06477691

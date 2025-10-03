@@ -1,0 +1,322 @@
+PROFESSIONAL SERVICES AGREEMENT
+Contract Number: PS-2024-003
+Contract Type: Fixed Resource
+
+This Professional Services Agreement ("Agreement") is entered into as of March 1, 2024, between Qodea Professional Services Ltd ("Service Provider") and HealthTech Systems Ltd ("Client").
+
+1. RESOURCE PROVISION
+
+Service Provider shall provide dedicated resources to support Client's Electronic Health Record (EHR) system upgrade project:
+
+Dedicated Team:
+- 1 x Technical Lead (100% FTE) - Maria Gonzalez
+- 2 x Senior Developers (100% FTE each) - TBD upon contract signing
+- 1 x QA Engineer (100% FTE) - TBD upon contract signing
+- 1 x Business Analyst (50% FTE) - TBD upon contract signing
+
+Total: 4.5 FTE
+
+These resources shall work exclusively on Client's project for the contract duration and report directly to Client's Programme Manager.
+
+2. RESOURCE QUALIFICATIONS
+
+Minimum Requirements:
+- Technical Lead: 8+ years experience, NHS systems experience preferred, HL7/FHIR knowledge
+- Senior Developers: 5+ years Java/Spring Boot, healthcare domain experience, SQL expertise
+- QA Engineer: 4+ years automated testing, healthcare system testing experience
+- Business Analyst: 3+ years healthcare sector, requirements gathering, stakeholder management
+
+All resources shall:
+- Hold relevant professional certifications
+- Pass Client's technical assessment
+- Complete NHS-specific training within first 2 weeks
+
+3. COMMERCIAL TERMS
+
+Monthly Fixed Fee: £72,500
+- Technical Lead: £18,000/month
+- Senior Developer #1: £16,000/month
+- Senior Developer #2: £16,000/month
+- QA Engineer: £14,000/month
+- Business Analyst (0.5 FTE): £8,500/month
+
+Annual Contract Value: £870,000
+
+Payment Terms:
+- Monthly invoicing in advance on 1st of each month
+- Payment due 30 days from invoice date
+- Pro-rata adjustments for partial months
+
+4. CONTRACT DURATION
+
+Start Date: March 15, 2024
+End Date: March 14, 2025
+Duration: 12 months
+
+Extension Options:
+- Client may extend for additional 6-month periods
+- Notice required: 60 days before expiry
+- Rate increase: Maximum 5% per extension
+
+5. WORKING LOCATION AND HOURS
+
+Location: Hybrid Model
+- Week 1-4: On-site full time at Client premises (Manchester, UK) for onboarding
+- Week 5 onwards: 3 days on-site, 2 days remote per week
+- On-site days: Tuesday, Wednesday, Thursday (mandatory)
+- Remote days: Monday, Friday
+
+Standard Hours: Monday-Friday, 8:30 AM - 5 PM GMT (37.5 hours/week)
+Core Hours: 10 AM - 3 PM (must be available)
+
+Client Premises Address:
+HealthTech Systems Ltd
+Manchester Medical Innovation Centre
+15 Oxford Road
+Manchester M1 7ED
+
+Workspace Provided:
+- Dedicated desk space and equipment
+- Secure network access and VPN
+- Access to development and testing environments
+- Meeting rooms as needed
+
+6. RESOURCE COMMITMENT
+
+Service Provider guarantees:
+- Named resources dedicated to Client project only
+- No resource-sharing with other clients during contract period
+- Resources available during standard hours (excl. approved leave)
+- Continuity throughout contract term
+
+Leave and Absence:
+- Annual leave: Coordinated with Client at least 15 days in advance
+- Maximum 2 resources on leave simultaneously
+- Public holidays: UK bank holidays observed
+- Sick leave: Notification by 9 AM same day, backup coverage if >3 days
+
+7. RESOURCE REPLACEMENT
+
+Resource Changes:
+- Voluntary resignation: Replacement within 15 days, 4-week handover
+- Performance issues: Replacement within 10 days if requested by Client
+- New resource must meet same qualifications
+- 2-week knowledge transfer period at no additional cost
+
+Client approval required for all replacement resources before starting.
+
+8. DAY-TO-DAY MANAGEMENT
+
+Resources shall:
+- Attend Client's daily standups and team meetings
+- Use Client's project management tools (Jira, Confluence)
+- Follow Client's development standards and processes
+- Report directly to Client's Programme Manager for work direction
+
+Service Provider retains:
+- HR and administrative management
+- Performance reviews and career development
+- Employee benefits and payroll
+- Contract compliance oversight
+
+9. DELIVERABLES AND PERFORMANCE
+
+Resources expected to deliver:
+- Participate in all sprint activities (planning, retrospectives, demos)
+- Complete assigned tasks within sprint commitments
+- Maintain code quality standards (minimum 80% test coverage)
+- Produce technical documentation per Client standards
+- Participate in code reviews and knowledge sharing
+
+Performance Reviews:
+- Monthly performance check-ins with Client Project Manager
+- Quarterly formal reviews with Service Provider and Client
+- Performance issues escalated within 5 days
+
+10. EXPENSES
+
+Travel and Subsistence:
+- Travel to Client site: Included in monthly fee (commuting distance)
+- Parking: Client provides on-site parking passes
+- Accommodation: Not required (resources local to Manchester)
+- Equipment: Client provides all necessary equipment
+
+Client-Requested Travel:
+- Conferences, training, other offices: At cost plus 10%
+- Requires pre-approval for expenses >£500
+
+11. INTELLECTUAL PROPERTY
+
+All work product created by the resources becomes Client property immediately.
+
+Client owns:
+- All code, documentation, and deliverables
+- Technical designs and architecture
+- Test scripts and quality assurance artifacts
+- Process improvements specific to Client systems
+
+Service Provider retains:
+- General skills and knowledge
+- Reusable tools and frameworks (non-project specific)
+- Training materials and methodologies
+
+12. CONFIDENTIALITY AND DATA PROTECTION
+
+Resources shall:
+- Sign Client's NDA before starting (in addition to this Agreement)
+- Complete mandatory NHS data security training
+- Handle patient data per NHS Digital guidelines
+- Maintain strict confidentiality of patient information
+
+GDPR Compliance:
+- Resources act as processors under Client's data controller status
+- Process only on Client's documented instructions
+- Maintain records of processing activities
+- Report any data breaches within 24 hours
+
+13. SECURITY AND COMPLIANCE
+
+Background Checks Required:
+- Enhanced DBS check (healthcare sector)
+- Right to work verification
+- Professional reference checks
+- NHS security clearance
+
+Security Requirements:
+- Comply with NHS Data Security and Protection Toolkit
+- Complete annual information governance training
+- Use only Client-approved devices and software
+- No removal of patient data from secure environment
+
+14. SERVICE LEVELS
+
+Availability:
+- Resources available 95% of contracted hours each month
+- Notification of absences by 9 AM same day
+- Backup support for critical issues during absences
+
+Response Times:
+- Email responses: Within 4 hours during business hours
+- Meeting attendance: 95% attendance rate
+- Sprint commitment: 80% story point completion rate
+
+Penalties:
+- Persistent unavailability (< 90%) may result in fee reduction
+- Repeated performance issues trigger replacement process
+
+15. GOVERNANCE AND REPORTING
+
+Weekly Reports from Service Provider:
+- Resource utilization and availability
+- Key accomplishments and deliverables
+- Upcoming activities
+- Issues or concerns
+
+Monthly Meetings:
+- Contract performance review
+- Financial reconciliation
+- Resource planning and allocation
+- Continuous improvement discussions
+
+Quarterly Business Reviews:
+- Strategic alignment
+- Value delivered
+- Lessons learned
+- Contract optimization opportunities
+
+16. QUALITY ASSURANCE
+
+Service Provider shall:
+- Ensure resources maintain professional standards
+- Provide ongoing training and skill development
+- Monitor satisfaction and engagement
+- Address performance issues promptly
+
+Quality Metrics:
+- Code quality: Meets Client standards (SonarQube score > 80%)
+- Defect rate: < 5% of delivered stories
+- Customer satisfaction: > 4/5 rating in quarterly surveys
+- Availability: > 95% of contracted hours
+
+17. TERMINATION
+
+Notice Periods:
+- By Client: 60 days written notice
+- By Service Provider: 90 days written notice
+- For cause: 30 days with opportunity to cure
+
+Termination for Cause:
+- Material breach not remedied within 30 days
+- Repeated performance issues after warnings
+- Security breach or confidentiality violation
+- Insolvency or bankruptcy
+
+Upon Termination:
+- Complete work-in-progress to logical stopping point
+- Knowledge transfer period: 15 days
+- Return all Client property and data
+- Final invoice pro-rated to last day worked
+
+18. LIABILITY AND INDEMNITY
+
+Liability Cap: £1,000,000 per annum (total fees under this Agreement)
+
+Service Provider shall indemnify Client against:
+- Resource negligence or willful misconduct
+- Breach of confidentiality by resources
+- IP infringement claims
+- Data protection violations
+
+Exclusions:
+- Client's instructions that violate law or regulation
+- Client's misuse of deliverables
+- Force majeure events
+
+19. INSURANCE
+
+Service Provider maintains:
+- Professional Indemnity: £5,000,000
+- Public Liability: £5,000,000
+- Employer's Liability: £10,000,000
+- Cyber Liability: £2,000,000
+
+Certificates of insurance provided annually upon request.
+
+20. COMPLIANCE AND REGULATORY
+
+NHS Compliance:
+- Comply with NHS Data Security and Protection Toolkit
+- Adhere to Caldicott Principles for patient data
+- Follow NHS Digital service standard
+- Comply with Care Quality Commission requirements
+
+General Compliance:
+- UK GDPR and Data Protection Act 2018
+- Health and Social Care Act 2012
+- Computer Misuse Act 1990
+- Equality Act 2010
+
+21. GENERAL PROVISIONS
+
+Governing Law: England and Wales
+Jurisdiction: Courts of England and Wales
+Dispute Resolution: Escalation process, then mediation, then arbitration
+Assignment: Not permitted without written consent
+Force Majeure: Standard exclusions apply
+Entire Agreement: Supersedes all prior agreements
+
+Amendments: Must be in writing and signed by authorized representatives of both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+SERVICE PROVIDER:
+Qodea Professional Services Ltd
+Signed: Sarah Mitchell, Managing Director
+Date: March 1, 2024
+Company Registration: 12345678
+
+CLIENT:
+HealthTech Systems Ltd
+Signed: Dr. Robert Patterson, Chief Information Officer
+Date: March 1, 2024
+Company Registration: 34567890
