@@ -11,7 +11,7 @@ from sentence_transformers import SentenceTransformer
 class ContractSearchEngine:
     """Semantic search engine for legal contracts."""
 
-    def __init__(self, persist_directory: str = "./data/chroma_db"):
+    def __init__(self, persist_directory: str = os.path.expanduser("~/contract_review_data/chroma_db")):
         """Initialize the search engine with ChromaDB."""
         self.persist_directory = persist_directory
         self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')

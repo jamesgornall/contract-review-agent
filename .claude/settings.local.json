@@ -1,7 +1,14 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:google.github.io)"
+      "WebFetch(domain:google.github.io)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill:*)",
+      "Bash(mv:*)",
+      "Bash(/Users/jamesgornall/agent-testing/.venv/bin/adk web contract_review_agent)",
+      "Bash(/Users/jamesgornall/agent-testing/.venv/bin/python -c \"from contract_review_agent.agent import root_agent; print(root_agent)\")",
+      "Bash(cat:*)",
+      "Bash(/Users/jamesgornall/agent-testing/.venv/bin/adk web .)"
     ],
     "deny": [],
     "ask": []

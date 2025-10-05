@@ -21,9 +21,9 @@ env/
 !.env.example
 
 # ChromaDB - Vector database (can be regenerated)
-contract_review_agent/data/chroma_db/
-data/chroma_db/
 **/chroma_db/
+
+# Note: Contract data is stored in ~/contract_review_data/ (outside git repo)
 
 # IDEs
 .vscode/

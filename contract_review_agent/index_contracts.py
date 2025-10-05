@@ -11,7 +11,7 @@ from pathlib import Path
 from contract_search import ContractSearchEngine
 
 
-def index_all_contracts(contracts_dir: str = "./data/contracts"):
+def index_all_contracts(contracts_dir: str = os.path.expanduser("~/contract_review_data/contracts")):
     """Index all contract files in the specified directory."""
     search_engine = ContractSearchEngine()
     contracts_path = Path(contracts_dir)
