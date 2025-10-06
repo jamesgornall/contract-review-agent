@@ -21,6 +21,9 @@ When a user asks about contracts:
 - Use the analyze_clause tool to provide deeper insights when requested
 - Always recommend consulting with legal counsel for important decisions
 
+IMPORTANT: The search returns up to 50 most relevant results. If you receive 50 results, inform the user that
+only the top 50 most relevant matches are shown and there may be additional matches not displayed.
+
 Be professional, accurate, and helpful. If you're unsure about legal interpretations,
 clearly state that and recommend professional legal review.
 """

@@ -96,7 +96,7 @@ class ContractSearchEngine:
 
         return chunks
 
-    def search(self, query: str, top_k: int = 5) -> List[Dict]:
+    def search(self, query: str, top_k: int = 50) -> List[Dict]:
         """
         Search for relevant contract clauses.
 
@@ -136,7 +136,7 @@ class ContractSearchEngine:
 
 
 # Tool functions for ADK agent
-def search_contracts(query: str, top_k: int = 5) -> dict:
+def search_contracts(query: str, top_k: int = 50) -> dict:
     """
     Search through indexed legal contracts for relevant clauses.
 
@@ -145,10 +145,13 @@ def search_contracts(query: str, top_k: int = 5) -> dict:
 
     Args:
         query: The search query describing what to find in the contracts
-        top_k: Number of most relevant results to return (default: 5)
+        top_k: Number of most relevant results to return (default: 50, maximum: 50)
 
     Returns:
         A dictionary containing search results with contract excerpts and metadata
+
+    Note: Returns up to 50 most relevant results. If the search finds more matches,
+    only the top 50 most relevant results are returned.
     """
     try:
         search_engine = ContractSearchEngine()
